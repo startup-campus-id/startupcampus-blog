@@ -1,0 +1,14 @@
+/* Custom styles to match Startup Campus branding */
+:root {
+  --primary-color: #1a73e8;
+  --text-color: #202124;
+  --bg-color: #ffffff;
+}
+
+/* Override theme defaults */
+.site-header {
+  background-color: var(--bg-color);
+  border-bottom: 1px solid #e8eaed;
+}
+
+/* Add more custom styles as needed */

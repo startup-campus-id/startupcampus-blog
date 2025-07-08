@@ -1,0 +1,40 @@
+baseURL = "https://startupcampus.id/blog/"
+languageCode = "id"
+title = "Startup Campus Blog"
+paginate = 10
+enableRobotsTXT = true
+canonifyURLs = false
+relativeURLs = false
+
+[permalinks]
+  posts = "/:slug/"
+  pages = "/:slug/"
+
+[params]
+  description = "Startup Campus Blog - Insights tentang startup dan teknologi"
+  author = "Startup Campus"
+  dateFormat = "2 January 2006"
+  showReadingTime = true
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  section = ["HTML", "RSS"]
+
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"theme = "ananke"

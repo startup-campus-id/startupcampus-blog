@@ -1,0 +1,13 @@
+{
+  "name": "startupcampus-blog",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "tinacms dev -c \"~/bin/hugo server -D\"",
+    "build": "tinacms build && ~/bin/hugo --minify",
+    "start": "tinacms build && ~/bin/hugo server"
+  },
+  "dependencies": {
+    "@tinacms/cli": "latest",
+    "tinacms": "latest"
+  }
+}
