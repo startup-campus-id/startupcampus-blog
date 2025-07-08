@@ -1,0 +1,81 @@
+{{ define "main" }}
+<div class="homepage">
+  <div class="main-content">
+    <h1>{{ .Site.Title }}</h1>
+    <p>{{ .Site.Params.description }}</p>
+    
+    <h2>Recent Posts</h2>
+    <div class="post-list">
+      {{ range .Paginator.Pages }}
+        <article class="post-item">
+          {{ $img := findRE `<img[^>]+src="([^"]+)"` .Content 1 }}
+          {{ if $img }}
+            {{ $src := index (findRE `src="([^"]+)"` (index $img 0)) 0 }}
+            {{ $cleanSrc := replaceRE `src="([^"]+)"` "$1" $src }}
+            <img class="post-item-image" src="{{ $cleanSrc }}" alt="{{ .Title }}">
+          {{ else }}
+            <div class="post-item-image" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);"></div>
+          {{ end }}
+          <div class="post-item-content">
+            <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+            <time>{{ .Date.Format "2 January 2006" }}</time>
+            <p>{{ .Summary | truncate 150 }}</p>
+            <a href="{{ .Permalink }}" class="read-more">Read more →</a>
+          </div>
+        </article>
+      {{ end }}
+    </div>
+    
+    {{ if gt .Paginator.TotalPages 1 }}
+      <div class="pagination">
+        {{ if .Paginator.HasPrev }}
+          <a href="{{ .Paginator.Prev.URL }}" class="pagination-prev">← Previous</a>
+        {{ end }}
+        
+        <div class="pagination-numbers">
+          {{ range .Paginator.Pagers }}
+            {{ if eq . $.Paginator }}
+              <span class="pagination-current">{{ .PageNumber }}</span>
+            {{ else }}
+              <a href="{{ .URL }}" class="pagination-number">{{ .PageNumber }}</a>
+            {{ end }}
+          {{ end }}
+        </div>
+        
+        {{ if .Paginator.HasNext }}
+          <a href="{{ .Paginator.Next.URL }}" class="pagination-next">Next →</a>
+        {{ end }}
+      </div>
+    {{ end }}
+  </div>
+  
+  <aside class="sidebar">
+    <div class="sidebar-widget">
+      <h3>Categories</h3>
+      <ul class="category-list">
+        {{ range .Site.Taxonomies.categories }}
+          <li><a href="{{ .Page.Permalink }}">{{ .Page.Title }} ({{ .Count }})</a></li>
+        {{ end }}
+      </ul>
+    </div>
+    
+    <div class="sidebar-widget">
+      <h3>Recent Posts</h3>
+      <ul class="recent-posts">
+        {{ range first 5 .Site.RegularPages }}
+          <li>
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+            <time>{{ .Date.Format "2 Jan 2006" }}</time>
+          </li>
+        {{ end }}
+      </ul>
+    </div>
+    
+    <div class="sidebar-widget">
+      <h3>About Startup Campus</h3>
+      <p>Startup Campus adalah platform pembelajaran terdepan yang membantu mahasiswa dan fresh graduate mengembangkan skill digital dan mempersiapkan karier di dunia startup.</p>
+      <a href="https://startupcampus.id" class="cta-button">Learn More</a>
+    </div>
+  </aside>
+</div>
+{{ end }}

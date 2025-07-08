@@ -64,7 +64,15 @@ def parse_wordpress_xml(xml_file):
         slug = post_name.text if post_name is not None and post_name.text else slugify(title)
         
         post_date = item.find('.//wp:post_date', namespaces)
-        date = post_date.text if post_date is not None else datetime.now().isoformat()
+        if post_date is not None and post_date.text:
+            # Parse WordPress date format and convert to ISO format
+            try:
+                dt = datetime.strptime(post_date.text, '%Y-%m-%d %H:%M:%S')
+                date = dt.isoformat()
+            except:
+                date = datetime.now().isoformat()
+        else:
+            date = datetime.now().isoformat()
         
         # Get categories
         categories = []

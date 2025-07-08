@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+    <meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+    <link rel="stylesheet" href="{{ "css/style.css" | absURL }}">
+</head>
+<body>
+    <header>
+        <nav>
+            <a href="{{ "/" | absURL }}" class="logo">
+                <img src="{{ "/uploads/2022/11/SC-Logo-Full.png" | absURL }}" alt="{{ .Site.Title }}" height="40">
+            </a>
+            <ul>
+                {{ range .Site.Menus.main }}
+                <li><a href="{{ .URL | absURL }}">{{ .Name }}</a></li>
+                {{ end }}
+                <li><a href="https://startupcampus.id" target="_blank">Main Site</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <main>
+        {{ block "main" . }}{{ end }}
+    </main>
+    
+    <footer>
+        <div class="footer-content">
+            <img src="{{ "/uploads/2022/11/Startup-Campus-White-Logo.png" | absURL }}" alt="{{ .Site.Title }}" height="60" style="margin-bottom: 1rem;">
+            <p>Empowering Indonesia's digital talent through practical education</p>
+            <div style="margin-top: 2rem;">
+                <a href="https://startupcampus.id" target="_blank">Main Website</a> | 
+                <a href="https://startupcampus.id/about" target="_blank">About Us</a> | 
+                <a href="https://startupcampus.id/contact" target="_blank">Contact</a>
+            </div>
+            <p style="margin-top: 2rem; font-size: 0.9rem; opacity: 0.8;">&copy; {{ now.Year }} {{ .Site.Title }}. All rights reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>

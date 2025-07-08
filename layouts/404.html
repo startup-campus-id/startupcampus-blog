@@ -1,0 +1,37 @@
+{{ define "main" }}
+<div class="error-page">
+    <h1>404</h1>
+    <h2>Page Not Found</h2>
+    <p>Sorry, the page you're looking for doesn't exist.</p>
+    <a href="{{ "/" | absURL }}">← Back to Home</a>
+</div>
+
+<style>
+.error-page {
+    text-align: center;
+    padding: 4rem 0;
+}
+
+.error-page h1 {
+    font-size: 6rem;
+    margin-bottom: 1rem;
+    color: #e0e0e0;
+}
+
+.error-page h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+.error-page p {
+    font-size: 1.2rem;
+    color: #666;
+    margin-bottom: 2rem;
+}
+
+.error-page a {
+    color: #0066cc;
+    text-decoration: none;
+}
+</style>
+{{ end }}

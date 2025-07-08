@@ -1,0 +1,18 @@
+{{ define "main" }}
+<div class="list-page">
+    <h1>{{ .Title }}</h1>
+    
+    <div class="post-list">
+        {{ range .Paginator.Pages }}
+        <article class="post-item">
+            <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+            <time>{{ .Date.Format "2 January 2006" }}</time>
+            <p>{{ .Summary }}</p>
+            <a href="{{ .Permalink }}" class="read-more">Read more →</a>
+        </article>
+        {{ end }}
+    </div>
+    
+    {{ template "_internal/pagination.html" . }}
+</div>
+{{ end }}

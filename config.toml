@@ -1,7 +1,7 @@
-baseURL = "https://startupcampus.id/blog/"
+baseURL = "http://localhost:1313/"
 languageCode = "id"
 title = "Startup Campus Blog"
-paginate = 10
+paginate = 6
 enableRobotsTXT = true
 canonifyURLs = false
 relativeURLs = false
@@ -37,4 +37,6 @@ relativeURLs = false
 
 [taxonomies]
   category = "categories"
-  tag = "tags"theme = "ananke"
+  tag = "tags"
+
+# theme = "ananke"
