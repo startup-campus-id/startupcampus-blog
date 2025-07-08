@@ -4,7 +4,7 @@ date: 2024-10-10T09:21:01
 author: "Startup Campus"
 categories: ["Digital", "Update"]
 slug: "12-market-research-tools-yang-bikin-bisnismu-makin-cuan"
-featured_image: "/images/1e728b7adbf7.jpg"
+featured_image: "/blog/images/1e728b7adbf7.jpg"
 ---
 
 Mengelola bisnis di era digital saat ini memang bukan hal yang mudah. Persaingan semakin ketat, dan untuk bisa bersaing, kamu perlu memiliki informasi yang akurat tentang pasar dan perilaku konsumen. Nah, di sinilah peran penting **riset pasar**. 

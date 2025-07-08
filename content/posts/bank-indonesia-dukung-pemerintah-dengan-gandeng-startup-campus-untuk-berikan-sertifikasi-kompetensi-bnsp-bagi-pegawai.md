@@ -4,7 +4,7 @@ date: 2025-07-07T06:59:41
 author: "Startup Campus"
 categories: ["Digital", "Semua", "Update"]
 slug: "bank-indonesia-dukung-pemerintah-dengan-gandeng-startup-campus-untuk-berikan-sertifikasi-kompetensi-bnsp-bagi-pegawai"
-featured_image: "/images/24709e0bd014.jpg"
+featured_image: "/blog/images/24709e0bd014.jpg"
 ---
 
 Pemerintah Republik Indonesia saat ini tengah mewajibkan para pegawai di lembaga pemerintahan seperti PNS, BUMN, hingga pegawai Bank Indonesia (BI) dan Otoritas Jasa Keuangan (OJK) untuk segera memiliki Sertifikasi sesuai profesi dan kompetensinya masing-masing. Hal ini merupakan kebijakan yang positif karena setiap lembaga seolah berlomba memastikan para pegawainya kompeten. Banyak lembaga yang akhirnya mengevaluasi ulang data pegawai, melakukan mapping kompetensi dan kebutuhan lembaga, hingga akhirnya menentukan sertifikasi apa yang tepat bagi tiap pegawai.

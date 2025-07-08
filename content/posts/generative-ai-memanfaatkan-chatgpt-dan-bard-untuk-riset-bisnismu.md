@@ -4,7 +4,7 @@ date: 2023-11-24T11:53:32
 author: "Startup Campus"
 categories: ["Digital"]
 slug: "generative-ai-memanfaatkan-chatgpt-dan-bard-untuk-riset-bisnismu"
-featured_image: "/images/ef0a8e14362c.jpg"
+featured_image: "/blog/images/ef0a8e14362c.jpg"
 ---
 
 Eksplorasi bisnis tidak lagi terbatas pada sekadar mengumpulkan data, namun menjadi sebuah penjelajahan kreatif dalam memanfaatkan kecanggihan teknologi. Dalam dunia startup, pemanfaatan Generative AI seperti ChatGPT dan Bard tidak hanya mengubah cara kita melakukan riset bisnis, tetapi juga membuka pintu dalam mencari ide-ide inovatif untuk strategi, produk, dan layanan.

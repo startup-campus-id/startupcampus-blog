@@ -4,7 +4,7 @@ date: 2024-11-01T12:09:31
 author: "Startup Campus"
 categories: ["Digital", "Semua"]
 slug: "tips-strategi-mengatur-keuangan-startup-bagi-founder-pemula"
-featured_image: "/images/c244b52fcb36.jpg"
+featured_image: "/blog/images/c244b52fcb36.jpg"
 ---
 
 Bagi banyak founder pemula, tantangan terbesar dalam menjalankan startup bukan hanya bagaimana mengembangkan produk atau menarik pelanggan, tetapi juga mengelola keuangan dengan baik. 

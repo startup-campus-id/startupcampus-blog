@@ -4,7 +4,7 @@ date: 2024-05-26T10:36:30
 author: "Startup Campus"
 categories: ["Digital"]
 slug: "studi-independen-ui-ux-balik-lagi"
-featured_image: "/images/ca8c7d90a25c.jpg"
+featured_image: "/blog/images/ca8c7d90a25c.jpg"
 ---
 
 Magang dan [Studi Independen](https://startupcampus.id/studi-independen) (MSIB) dari [Kampus Merdeka ](https://kampusmerdeka.kemdikbud.go.id/)sudah membuka pendaftaran dan Startup Campus kembali hadir di batch 7. Kali ini Startup Campus hadir dengan trek UI/UX setelah sebelumnya hiatus di batch 6.

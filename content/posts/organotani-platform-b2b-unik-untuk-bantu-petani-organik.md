@@ -4,7 +4,7 @@ date: 2023-02-03T07:28:20
 author: "Startup Campus"
 categories: ["Alumni", "Semua"]
 slug: "organotani-platform-b2b-unik-untuk-bantu-petani-organik"
-featured_image: "/images/e5d972ba2835.jpg"
+featured_image: "/blog/images/e5d972ba2835.jpg"
 ---
 
 Bagi beberapa orang, bisa berkuliah di jurusan impian adalah sebuah achievement. Karena, mereka bisa mendalami passion dan mewujudkan cita-citanya. Tidak lain dengan Rachel, seorang mahasiswa jurusan Pertanian yang memiliki motivasi besar untuk memajukan komunitas petani. Setelah melihat masalah yang ada di lapangan, Ia tergerak untuk membangun Organotani.

@@ -4,7 +4,7 @@ date: 2024-07-30T03:07:26
 author: "Startup Campus"
 categories: ["Digital", "Semua"]
 slug: "apa-itu-machine-learning-penjelasan-dan-contoh-penerapannya"
-featured_image: "/images/4797504bca8a.webp"
+featured_image: "/blog/images/4797504bca8a.webp"
 ---
 
 Machine learning atau dalam bahasa Indonesia “pembelajaran mesin” adalah salah satu cabang dari Artificial Intelligence yang memungkinkan komputer untuk belajar dari data tanpa diprogram secara eksplisit. Lho komputer kok belajar? Maksudnya gimana?

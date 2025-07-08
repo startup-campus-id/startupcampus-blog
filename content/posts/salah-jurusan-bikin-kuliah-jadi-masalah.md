@@ -4,7 +4,7 @@ date: 2023-11-21T06:24:51
 author: "Startup Campus"
 categories: ["Semua"]
 slug: "salah-jurusan-bikin-kuliah-jadi-masalah"
-featured_image: "/images/de92fcfa2b8f.jpg"
+featured_image: "/blog/images/de92fcfa2b8f.jpg"
 ---
 
 Bukan hal baru mendengar lulusan SMA/SMK/sederajat melanjutkan perkuliahan di perguruan tinggi di Indonesia. Kuliah seolah pilihan utama ketika lulus. Meski tidak menutup fakta, ada juga yang tidak kuliah karena beberapa alasan.

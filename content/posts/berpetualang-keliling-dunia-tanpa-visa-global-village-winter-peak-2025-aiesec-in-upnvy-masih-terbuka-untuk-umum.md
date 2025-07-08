@@ -4,7 +4,7 @@ date: 2025-01-13T13:28:38
 author: "Startup Campus"
 categories: ["Update"]
 slug: "berpetualang-keliling-dunia-tanpa-visa-global-village-winter-peak-2025-aiesec-in-upnvy-masih-terbuka-untuk-umum"
-featured_image: "/images/e3a2dd9f3847.jpg"
+featured_image: "/blog/images/e3a2dd9f3847.jpg"
 ---
 
 ## **Masih Bingung Mau ke Mana? Yuk ke Global Village Winter Peak 2025!**

@@ -4,7 +4,7 @@ date: 2025-04-30T03:06:38
 author: "Startup Campus"
 categories: ["Digital", "Semua"]
 slug: "cara-daftar-sertifikasi-bnsp-online-2025-lengkap-dan-mudah"
-featured_image: "/images/d2798ea0b505.jpg"
+featured_image: "/blog/images/d2798ea0b505.jpg"
 ---
 
 Daftar sertifikasi BNSP kini makin mudah dilakukan secara online. Di tahun 2025, semakin banyak pencari kerja yang sadar pentingnya memiliki sertifikasi kompetensi BNSP untuk meningkatkan daya saing mereka di dunia kerja. Tapi bagaimana sebenarnya cara daftar sertifikasi BNSP yang tepat, cepat, dan dijamin aman?

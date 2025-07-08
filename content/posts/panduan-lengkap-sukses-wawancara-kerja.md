@@ -4,7 +4,7 @@ date: 2023-08-28T22:55:27
 author: "hal diah"
 categories: ["Digital"]
 slug: "panduan-lengkap-sukses-wawancara-kerja"
-featured_image: "/images/8859d5e3c331.jpg"
+featured_image: "/blog/images/8859d5e3c331.jpg"
 ---
 
 Dalam perjalanan mencari pekerjaan, wawancara kerja seringkali menjadi tahapan yang menegangkan bagi banyak orang. Baik itu wawancara secara online maupun offline, persiapan yang matang, sikap yang penuh percaya diri, serta pemahaman yang mendalam tentang prosesnya dapat menjadi kunci sukses Kamu. Dalam artikel ini, kami akan membahas secara lengkap mengenai berbagai tips, strategi, dan panduan praktis, mulai dari persiapan sebelum wawancara, tips saat wawancara, hingga strategi yang harus dilakukan setelah wawancara.Yuk, simak selengkapnya!

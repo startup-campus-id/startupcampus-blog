@@ -26,9 +26,10 @@
     {{ if .Params.image }}<meta name="twitter:image" content="{{ .Params.image | absURL }}">{{ end }}
     
     <!-- Favicons -->
-    <link rel="icon" type="image/png" href="{{ "/uploads/2022/11/SC-favicon.png" | absURL }}">
-    <link rel="apple-touch-icon" href="{{ "/uploads/2022/11/SC-favicon.png" | absURL }}">
-    <link rel="shortcut icon" href="{{ "/uploads/2022/11/SC-favicon.png" | absURL }}">
+    {{ $faviconPath := cond (eq .Site.BaseURL "http://localhost:1313/") "/uploads/2022/11/SC-favicon.png" "/blog/uploads/2022/11/SC-favicon.png" }}
+    <link rel="icon" type="image/png" href="{{ $faviconPath | absURL }}">
+    <link rel="apple-touch-icon" href="{{ $faviconPath | absURL }}">
+    <link rel="shortcut icon" href="{{ $faviconPath | absURL }}">
     
     <!-- Schema.org markup -->
     <script type="application/ld+json">
@@ -51,7 +52,7 @@
         "name": "{{ .Site.Title }}",
         "logo": {
           "@type": "ImageObject",
-          "url": "{{ "/uploads/2022/11/SC-Logo-Full.png" | absURL }}"
+          "url": "{{ $logoPath := cond (eq .Site.BaseURL "http://localhost:1313/") "/uploads/2022/11/SC-Logo-Full.png" "/blog/uploads/2022/11/SC-Logo-Full.png" }}{{ $logoPath | absURL }}"
         }
       }
     }
@@ -74,7 +75,8 @@
     <header>
         <nav>
             <a href="{{ "/" | absURL }}" class="logo">
-                <img src="{{ "/uploads/2022/11/SC-Logo-Full.png" | absURL }}" alt="{{ .Site.Title }}" height="40">
+                {{ $headerLogoPath := cond (eq .Site.BaseURL "http://localhost:1313/") "/uploads/2022/11/SC-Logo-Full.png" "/blog/uploads/2022/11/SC-Logo-Full.png" }}
+                <img src="{{ $headerLogoPath | absURL }}" alt="{{ .Site.Title }}" height="40">
             </a>
             <ul>
                 {{ range .Site.Menus.main }}
@@ -93,7 +95,8 @@
         <div class="footer-container">
             <div class="footer-top">
                 <div class="footer-logo">
-                    <img src="{{ "/uploads/2022/11/Startup-Campus-White-Logo.png" | absURL }}" alt="{{ .Site.Title }}" height="40">
+                    {{ $footerLogoPath := cond (eq .Site.BaseURL "http://localhost:1313/") "/uploads/2022/11/Startup-Campus-White-Logo.png" "/blog/uploads/2022/11/Startup-Campus-White-Logo.png" }}
+                    <img src="{{ $footerLogoPath | absURL }}" alt="{{ .Site.Title }}" height="40">
                     <p class="footer-tagline">#DariMahirJadiKarier</p>
                 </div>
                 

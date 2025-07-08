@@ -4,7 +4,7 @@ date: 2023-09-12T12:04:57
 author: "hal diah"
 categories: ["Digital"]
 slug: "rekomendasi-pelatihan-prakerja-yang-mudah-dan-cepat-selesai-2023"
-featured_image: "/images/0546b3186fc4.jpg"
+featured_image: "/blog/images/0546b3186fc4.jpg"
 ---
 
 Apakah kamu telah mendaftar program Prakerja tetapi masih bingung memilih pelatihan yang sesuai dengan minat dan kebutuhanmu? Jangan khawatir! Artikel ini akan memberikan rekomendasi pelatihan Prakerja yang mudah, cepat selesai, dan pastinya akan memberikan manfaat besar bagi kariermu ke depan. 

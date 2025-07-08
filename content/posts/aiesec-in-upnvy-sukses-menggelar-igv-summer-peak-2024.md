@@ -4,7 +4,7 @@ date: 2024-08-13T02:04:59
 author: "Startup Campus"
 categories: ["Update"]
 slug: "aiesec-in-upnvy-sukses-menggelar-igv-summer-peak-2024"
-featured_image: "/images/01a764547b75.jpg"
+featured_image: "/blog/images/01a764547b75.jpg"
 ---
 
 *Yogyakarta, 3 Agustus 2024* – AIESEC *in *UPNVY dengan bangga mengumumkan kesuksesan proyek Incoming Global Volunteer Summer Peak 2024 yang telah dilaksanakan dari tanggal 22 Juni sampai 3 Agustus 2024.  Peserta dari proyek ini diikuti oleh *Exchange Participants* dari berbagai negara, yakni Jepang, Vietnam, China, Tunisia, Mesir, dan Pakistan. Selain itu, acara ini juga diikuti oleh *Local Volunteer*, yaitu peserta lokal yang mendampingi *Exchange Participants *selama acara berlangsung.

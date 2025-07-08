@@ -4,7 +4,7 @@ date: 2023-12-08T05:36:20
 author: "Startup Campus"
 categories: ["Digital", "Semua"]
 slug: "data-privacy-vs-data-protection-apa-perbedaannya"
-featured_image: "/images/8b053dd3b794.png"
+featured_image: "/blog/images/8b053dd3b794.png"
 ---
 
 Di era digital ini, istilah data privacy dan data protection semakin menjadi perbincangan penting, terutama mengingat banyaknya informasi pribadi yang dipertukarkan secara daring. Artikel ini akan membimbing Anda untuk memahami konsep-konsep tersebut, memberikan contoh konkret, dan menguraikan perbedaan serta pentingnya data privacy.

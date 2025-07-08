@@ -4,7 +4,7 @@ date: 2024-07-02T03:46:06
 author: "Startup Campus"
 categories: ["Update"]
 slug: "telah-hadir-global-village-rasakan-sensasi-keliling-dunia-hanya-dalam-satu-hari"
-featured_image: "/images/0560605abc81.jpg"
+featured_image: "/blog/images/0560605abc81.jpg"
 ---
 
 **Yogyakarta, 27 Juni 2024 – **Apakah Anda pernah bermimpi untuk mengunjungi berbagai negara hanya dalam satu hari? Impian tersebut kini dapat terwujud dengan mengikuti event spektakuler Global Village Summer Peak 2024 yang akan diadakan oleh AIESEC *in *UPN “Veteran” Yogyakarta! Organisasi Internasional ini tidak hanya bergerak untuk melahirkan pemimpin namun juga memberikan wawasan budaya yang luas mengenai budaya Internasional.

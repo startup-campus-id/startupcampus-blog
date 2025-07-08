@@ -4,7 +4,7 @@ date: 2025-05-19T06:57:48
 author: "Startup Campus"
 categories: ["Update"]
 slug: "volunteer-vibes-edisi-siaran-crast-1078-fm-x-aiesec-in-upnvy"
-featured_image: "/images/e2435c833a39.jpg"
+featured_image: "/blog/images/e2435c833a39.jpg"
 ---
 
 Access the photo : [here](https://drive.google.com/file/d/1g7j-Pp6792cOxkpFBaQPQG8oBzpM9tNE/view?usp=drive_link)

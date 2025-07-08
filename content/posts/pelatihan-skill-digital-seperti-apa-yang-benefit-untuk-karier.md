@@ -4,7 +4,7 @@ date: 2023-02-17T08:03:22
 author: "Startup Campus"
 categories: ["Semua"]
 slug: "pelatihan-skill-digital-seperti-apa-yang-benefit-untuk-karier"
-featured_image: "/images/7e5159325b56.jpg"
+featured_image: "/blog/images/7e5159325b56.jpg"
 ---
 
 Di tengah ramainya isu resesi dan meningkatnya angka pengangguran di Indonesia, persaingan job seekers dalam mencari kerja juga makin sengit. Dari banyaknya lowongan kerja, bidang atau industri yang paling banyak menarik peminat adalah industri digital. Menurut riset JobStreet yang dikutip dari [KataData.co.id](https://katadata.co.id/desysetyowati/digital/62270e763396c/lowongan-kerja-talenta-digital-di-indonesia-melonjak-hingga-66), permintaan perusahaan akan tenaga IT dan digital meningkat 34% di akhir tahun 2021 dan terus meningkat hingga sekarang.

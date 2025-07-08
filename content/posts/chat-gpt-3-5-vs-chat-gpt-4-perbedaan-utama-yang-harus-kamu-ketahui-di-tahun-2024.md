@@ -4,7 +4,7 @@ date: 2024-06-07T13:09:04
 author: "Startup Campus"
 categories: ["Digital"]
 slug: "chat-gpt-3-5-vs-chat-gpt-4-perbedaan-utama-yang-harus-kamu-ketahui-di-tahun-2024"
-featured_image: "/images/12c23bcf970b.jpg"
+featured_image: "/blog/images/12c23bcf970b.jpg"
 ---
 
 Artificial Intelligence (AI) telah berkembang pesat dalam beberapa tahun terakhir, terutama di bidang Natural Language Processing (NLP). Salah satu teknologi paling menonjol di bidang ini adalah Generative Pre-trained Transformer (GPT), yang dikembangkan oleh OpenAI.  Dua versi terbaru dari Chat GPT yang paling banyak diperbincangkan adalah Chat GPT 3.5 dan Chat GPT 4. Namun, apa sebenarnya perbedaan antara keduanya? Yuk, baca selengkapnya!

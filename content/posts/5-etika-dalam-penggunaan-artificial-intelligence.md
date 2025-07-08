@@ -4,7 +4,7 @@ date: 2024-07-05T11:09:09
 author: "Startup Campus"
 categories: ["Digital"]
 slug: "5-etika-dalam-penggunaan-artificial-intelligence"
-featured_image: "/images/dc4d68cdda73.jpg"
+featured_image: "/blog/images/dc4d68cdda73.jpg"
 ---
 
 Teknologi AI atau kecerdasan buatan memang sedang berkembang pesat dan patut diakui AI membawa banyak manfaat bagi kehidupan manusia. Namun di balik manfaatnya, terdapat pula berbagai pertimbangan etika yang perlu diperhatikan agar AI digunakan secara bertanggungjawab.

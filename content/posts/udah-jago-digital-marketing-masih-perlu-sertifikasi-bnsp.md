@@ -4,7 +4,7 @@ date: 2025-05-22T07:35:07
 author: "Startup Campus"
 categories: ["Digital", "Semua"]
 slug: "udah-jago-digital-marketing-masih-perlu-sertifikasi-bnsp"
-featured_image: "/images/3bfc109851fa.jpg"
+featured_image: "/blog/images/3bfc109851fa.jpg"
 ---
 
 Pada 10 tahun terakhir ini memang perkembangan teknologi sangat di luar kontrol dan akhirnya memengaruhi karier para pelaku industri IT. Muncul banyak digital marketer alias orang yang jago digital marketing. Mereka jago memasarkan produknya melalui channel-channel yang 10-20 tahun lalu belum ada. Dari mulai email, blog, SEO, SEM, ads, KOL, dan lain sebagainya.

@@ -4,7 +4,7 @@ date: 2024-07-17T07:52:40
 author: "Startup Campus"
 categories: ["Digital", "Semua"]
 slug: "gimana-cara-membuat-portofolio-untuk-fresh-graduate"
-featured_image: "/images/eb9aa5dd4156.jpg"
+featured_image: "/blog/images/eb9aa5dd4156.jpg"
 ---
 
 Teman-teman, pernahkah dapet lowongan kerja dengan requirement mengirimkan portofolio? Padahal kan kamu baru lulus kuliah atau baru satu tahun kerja. Pasti kamu merasa bingung, galau dan kesulitan. Mau diisi apa portofolio ini? Apa gunanya portofolio sih?

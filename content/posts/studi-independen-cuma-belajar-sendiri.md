@@ -4,7 +4,7 @@ date: 2024-05-27T10:05:44
 author: "Startup Campus"
 categories: ["Digital", "Semua"]
 slug: "studi-independen-cuma-belajar-sendiri"
-featured_image: "/images/480f30264798.webp"
+featured_image: "/blog/images/480f30264798.webp"
 ---
 
 [Magang dan Studi Independen (MSIB)](https://pusatinformasi.mitrakm.kemdikbud.go.id/hc/id/articles/4414636620185-Tentang-Program-MSIB) dari [Kampus Merdeka ](https://kampusmerdeka.kemdikbud.go.id/)akan segera hadir kembali menyapa para mahasiswa. Saat ini masih di tahap persiapan untuk angkatan (batch) 7. Sejak pertama kemunculan program ini di 2021, Magang dan Studi Independen memiliki peminat yang paling tinggi dibandingkan program Kampus Merdeka lainnya karena banyak manfaat yang langsung dirasakan. Maka wajar banyak adik tingkat mahasiswa yang ingin mengikuti jejak kakak tingkatnya.

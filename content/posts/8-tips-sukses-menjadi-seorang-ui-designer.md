@@ -4,7 +4,7 @@ date: 2023-12-15T09:20:08
 author: "Startup Campus"
 categories: ["Digital", "Semua"]
 slug: "8-tips-sukses-menjadi-seorang-ui-designer"
-featured_image: "/images/ed2adcbf44f6.png"
+featured_image: "/blog/images/ed2adcbf44f6.png"
 ---
 
 Sebagai seorang desainer antarmuka (UI designer), kemampuan untuk merasakan dan memahami pengalaman pengguna adalah elemen penting dalam menciptakan desain yang tak hanya menawan secara visual, tetapi juga memberikan solusi yang efektif dan memuaskan. Empati dalam desain memungkinkan seorang desainer untuk menangkap kebutuhan, keinginan, dan tantangan yang dihadapi oleh pengguna produk. Dengan demikian, desain bukan sekadar penciptaan estetika, melainkan juga tentang menciptakan solusi yang sesuai dengan realitas kehidupan pengguna. Berikut adalah serangkaian tips dan trik yang dapat membantu Anda mengasah dan meningkatkan kemampuan empati sebagai seorang UI designer. 

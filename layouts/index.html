@@ -9,7 +9,8 @@
       {{ range .Paginator.Pages }}
         <article class="post-item">
           {{ if .Params.featured_image }}
-            <img class="post-item-image" src="{{ .Params.featured_image }}" alt="{{ .Title }}">
+            {{ $imagePath := cond (eq .Site.BaseURL "http://localhost:1313/") (strings.TrimPrefix "/blog" .Params.featured_image) .Params.featured_image }}
+            <img class="post-item-image" src="{{ $imagePath | absURL }}" alt="{{ .Title }}">
           {{ else }}
             {{ $imgSrc := "" }}
             {{ $imgMatches := findRE `!\[.*?\]\(([^)]+)\)` .Content 1 }}
@@ -18,7 +19,7 @@
               {{ $imgSrc = replaceRE `!\[.*?\]\(([^)]+)\)` "$1" $fullMatch }}
             {{ end }}
             {{ if and $imgSrc (ne $imgSrc "") }}
-              <img class="post-item-image" src="{{ $imgSrc }}" alt="{{ .Title }}">
+              <img class="post-item-image" src="{{ $imgSrc | absURL }}" alt="{{ .Title }}">
             {{ else }}
               <div class="post-item-image" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);"></div>
             {{ end }}

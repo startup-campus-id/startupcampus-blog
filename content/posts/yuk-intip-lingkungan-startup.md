@@ -4,7 +4,7 @@ date: 2022-12-07T09:01:09
 author: "Startup Campus"
 categories: ["Semua"]
 slug: "yuk-intip-lingkungan-startup"
-featured_image: "/images/640ea5d10248.png"
+featured_image: "/blog/images/640ea5d10248.png"
 ---
 
 STARTUPCAMPUS.ID- Budaya kerja adalah sikap, beliefs, dan perilaku yang membentuk suasana yang baik dalam lingkungan kerja. Setiap perusahaan punya budaya kerja yang berbeda-beda tergantung tujuan dan valuenya. Lalu bagaimana dengan budaya di lingkungan kerja startup? Yuk, kita bahas sesuatu yang lagi marak dibicarakan, Startup Environment & Culture !.

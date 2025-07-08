@@ -3,8 +3,10 @@
   "version": "1.0.0",
   "scripts": {
     "dev": "./hugo server -D --bind 0.0.0.0",
+    "dev:minified": "./hugo server -D --bind 0.0.0.0 --minify",
     "dev-cms": "tinacms dev -c \"/home/idos/sc/hugo server -D\"",
-    "build": "/home/idos/sc/hugo --minify",
+    "build": "./hugo --minify",
+    "build:production": "./hugo --minify --baseURL https://startupcampus.id/blog/",
     "build-cms": "tinacms build && /home/idos/sc/hugo --minify",
     "start": "/home/idos/sc/hugo server"
   },

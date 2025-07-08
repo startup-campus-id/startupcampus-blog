@@ -4,7 +4,7 @@ date: 2022-12-07T10:12:37
 author: "Startup Campus"
 categories: ["Semua"]
 slug: "tingkatkan-dirimu-dengan-10-top-skills-ai"
-featured_image: "/images/c125787dd67c.png"
+featured_image: "/blog/images/c125787dd67c.png"
 ---
 
 STARTUPCAMPUS.ID– Kecanggihan sistem yang mendukung sektor kehidupan manusia sangat dipengaruhi oleh kecerdasan buatan (Artificial Intelligence / AI). Seperti fungsinya, AI membantu manusia dalam meningkatkan kualitas sistem dengan mengutamakan efisiensi. Seorang profesional AI berperan dalam menyelesaikan masalah dan mengembangkan produk dengan kecanggihan teknologi.

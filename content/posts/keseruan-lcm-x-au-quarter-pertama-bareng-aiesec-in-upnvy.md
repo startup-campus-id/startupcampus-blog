@@ -4,7 +4,7 @@ date: 2025-05-13T12:28:57
 author: "Startup Campus"
 categories: ["Semua", "Update"]
 slug: "keseruan-lcm-x-au-quarter-pertama-bareng-aiesec-in-upnvy"
-featured_image: "/images/6db36f4dd7b4.jpg"
+featured_image: "/blog/images/6db36f4dd7b4.jpg"
 ---
 
 HOY AIESEC! Setelah 3 bulan berlalu, akhirnya AIESEC in UPNVY berhasil untuk melewati Quarter pertamanya, selama 3 bulan penuh untuk menjadi organisasi yang dapat mengembangkan *self development *dan *soft skill *bagi para membernya dan menjadi calon pemimpin yang akan membawa perubahan baik bagi diri sendiri, lingkungan sekitar dan akan partisipasi mereka di lingkungan masyarakat.

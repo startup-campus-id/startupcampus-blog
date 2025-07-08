@@ -4,7 +4,7 @@ date: 2023-07-07T11:10:03
 author: "hal diah"
 categories: ["Digital"]
 slug: "perbedaan-data-analyst-dan-data-analytics"
-featured_image: "/images/9ef09f376a9d.jpg"
+featured_image: "/blog/images/9ef09f376a9d.jpg"
 ---
 
 Data menjadi aset yang sangat berharga bagi perusahaan. Data tersebut dapat memberikan wawasan dan pengetahuan yang mendalam mengenai pelanggan, tren pasar, dan pengambilan keputusan yang lebih cerdas. 

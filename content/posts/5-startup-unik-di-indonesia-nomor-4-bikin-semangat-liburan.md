@@ -4,7 +4,7 @@ date: 2022-12-08T07:38:44
 author: "Startup Campus"
 categories: ["Semua"]
 slug: "5-startup-unik-di-indonesia-nomor-4-bikin-semangat-liburan"
-featured_image: "/images/ca73d867e49e.png"
+featured_image: "/blog/images/ca73d867e49e.png"
 ---
 
 STARTUPCAMPUS.ID–  Pertumbuhan startup berlangsung pesat di masa kini, ini dibuktikan dengan masyarakat yang berlomba-lomba mendirikan startup melalui berbagai kesempatan. Kemajuan teknologi dan bantuan dari pihak Pemerintah pun menjadi sebagian alasan yang mendukung perkembangan startup. Tak hanya itu, beragam kompetisi dan konferensi pun kian menyorot dan mengapresiasi eksistensi startup. 

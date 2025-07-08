@@ -4,7 +4,7 @@ date: 2025-06-26T08:21:57
 author: "Startup Campus"
 categories: ["Digital", "Semua"]
 slug: "sertifikasi-untuk-apa-ini-5-alasan-dosen-harus-punya-sertifikasi-bnsp"
-featured_image: "/images/57f30286b456.jpg"
+featured_image: "/blog/images/57f30286b456.jpg"
 ---
 
 Di tengah gempuran efisiensi dari pemerintah, banyak dosen di kampus-kampus ternama saat ini disibukkan dengan program wajib dari Kementerian Pendidikan Tinggi, Sains, dan Teknologi, yaitu pelatihan dan sertifikasi BNSP untuk dosen. Hal ini memunculkan pertanyaan di kalangan akademisi:** **Sertifikasi BNSP untuk apa, apalagi jika dosen tersebut sudah bergelar S1, S2, bahkan S3?

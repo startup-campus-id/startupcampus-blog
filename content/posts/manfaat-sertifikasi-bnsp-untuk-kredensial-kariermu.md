@@ -4,7 +4,7 @@ date: 2024-11-07T13:43:52
 author: "Startup Campus"
 categories: ["Digital", "Semua"]
 slug: "manfaat-sertifikasi-bnsp-untuk-kredensial-kariermu"
-featured_image: "/images/77113d01088c.jpg"
+featured_image: "/blog/images/77113d01088c.jpg"
 ---
 
 Kamu lagi cari kerja, atau mungkin lagi bangun personal branding biar kariermu makin berkembang? Atau kamu seorang influencer yang pengen meningkatkan kredibilitas di mata publik? Kalau jawabannya iya, ada satu hal penting yang bisa bantu kamu yaitu **sertifikasi BNSP**. 

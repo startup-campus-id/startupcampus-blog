@@ -4,7 +4,7 @@ date: 2024-04-02T01:39:44
 author: "Startup Campus"
 categories: ["Update"]
 slug: "rahasia-menjadi-freelancer-sukses-terungkap-di-bootcamp-ini"
-featured_image: "/images/431c395ef14f.jpg"
+featured_image: "/blog/images/431c395ef14f.jpg"
 ---
 
 Dalam era di mana fleksibilitas dan kemandirian semakin dihargai, tren pekerjaan freelance semakin berkembang, khususnya di kalangan generasi muda. Dukungan teknologi yang semakin matang dan aksesibilitas internet yang meluas membuka peluang bagi mereka untuk meraih sukses sebagai freelancer. Pekerjaan freelance tidak hanya tentang mendapatkan penghasilan tambahan, tetapi juga tentang menciptakan masa depan yang berkelanjutan dan memuaskan. 

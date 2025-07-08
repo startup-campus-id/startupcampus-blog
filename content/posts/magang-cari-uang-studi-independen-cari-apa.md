@@ -4,7 +4,7 @@ date: 2024-05-27T09:59:31
 author: "Startup Campus"
 categories: ["Semua"]
 slug: "magang-cari-uang-studi-independen-cari-apa"
-featured_image: "/images/f1b61de365e4.webp"
+featured_image: "/blog/images/f1b61de365e4.webp"
 ---
 
 Banyak yang sering bertanya apa sih manfaat ikut [Studi Independen Kampus Merdeka](https://startupcampus.id/studi-independen)? Sementara kita bisa belajar dan bekerja plus bonus uang di program Magang dari Kampus Merdeka. Tapi apakah sebenarnya manfaat sebuah program hanya diukur dari uang saja?

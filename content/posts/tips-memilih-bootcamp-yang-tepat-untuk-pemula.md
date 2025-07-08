@@ -4,7 +4,7 @@ date: 2024-08-23T12:18:20
 author: "Startup Campus"
 categories: ["Semua"]
 slug: "tips-memilih-bootcamp-yang-tepat-untuk-pemula"
-featured_image: "/images/dbf6208d751e.webp"
+featured_image: "/blog/images/dbf6208d751e.webp"
 ---
 
 Kita mungkin tertarik mempelajari sebuah topik yang lagi hangat seperti AI atau ChatGPT, namun kita bingung dari mana memulainya. Apakah dengan mengikuti course di youtube atau Coursera? Atau justru ikut online bootcamp?

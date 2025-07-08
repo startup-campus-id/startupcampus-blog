@@ -4,7 +4,7 @@ date: 2023-08-09T09:57:51
 author: "hal diah"
 categories: ["Digital"]
 slug: "10-side-hustle-paling-mudah-menjanjikan"
-featured_image: "/images/f8a797cf559c.jpg"
+featured_image: "/blog/images/f8a797cf559c.jpg"
 ---
 
 Menghadapi tingginya biaya hidup dan tantangan ekonomi, memiliki satu sumber pendapatan saja seringkali tidak cukup dalam memenuhi kebutuhan sehari-hari. Itulah sebabnya banyak orang mencari peluang untuk mengembangkan potensi dan keterampilan mereka dengan mencari pekerjaan sampingan atau side hustle. Side hustle atau pekerjaan sampingan adalah cara yang tepat untuk menambah penghasilanmu tanpa perlu meninggalkan pekerjaan utama. . 

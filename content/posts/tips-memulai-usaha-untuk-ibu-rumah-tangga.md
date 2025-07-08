@@ -4,7 +4,7 @@ date: 2024-10-24T12:36:53
 author: "Startup Campus"
 categories: ["Semua"]
 slug: "tips-memulai-usaha-untuk-ibu-rumah-tangga"
-featured_image: "/images/7b8b2c6c6f36.jpg"
+featured_image: "/blog/images/7b8b2c6c6f36.jpg"
 ---
 
 ## ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdlN79VWuAN-6_bGbdBiJPfhV2-cNP-d-TXTZ_8UdaJWF-1-UrTEwnD-6XW94LOP1eorKQ61-WmRupJfyt4_cdlbUoD2oq8FWJcgR7qEOec8DRzfMCYOtT5z3c_FuPfqCpskPygaM3fD9S8zZFmlubFvClB?key=VWejQMthVITQX9jn7lqfSw)

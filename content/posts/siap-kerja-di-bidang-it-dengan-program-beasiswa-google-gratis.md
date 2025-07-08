@@ -4,7 +4,7 @@ date: 2023-01-24T05:36:16
 author: "Startup Campus"
 categories: ["Semua", "Update"]
 slug: "siap-kerja-di-bidang-it-dengan-program-beasiswa-google-gratis"
-featured_image: "/images/27fd3672c7ac.png"
+featured_image: "/blog/images/27fd3672c7ac.png"
 ---
 
 Dengan berkembangnya industri Teknologi dan Informasi, peluang karier di bidang tersebut pun semakin luas. Perkembangan ini tentu saja adalah dampak langsung dari globalisasi dan industri 4.0 yang sedang berjalan sekarang. Melihat prospek karier di bidang IT yang semakin luas, peminat jurusan komunikasi atau teknologi informasi pun semakin meningkat. Bahkan, saking diminatinya, banyak orang yang pindah jurusan atau ikut kelas khusus untuk mendalami bidang ini hanya karena ingin mendapatkan peluang untuk bekerja di bidang IT.

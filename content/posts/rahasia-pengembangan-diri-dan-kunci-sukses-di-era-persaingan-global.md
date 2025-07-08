@@ -4,7 +4,7 @@ date: 2024-08-06T09:02:45
 author: "Startup Campus"
 categories: ["Update"]
 slug: "rahasia-pengembangan-diri-dan-kunci-sukses-di-era-persaingan-global"
-featured_image: "/images/217f209c3be2.jpeg"
+featured_image: "/blog/images/217f209c3be2.jpeg"
 ---
 
 **Yogyakarta, 10 Agustus 2024**

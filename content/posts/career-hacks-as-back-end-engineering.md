@@ -4,7 +4,7 @@ date: 2022-12-07T04:39:56
 author: "Startup Campus"
 categories: ["Semua"]
 slug: "career-hacks-as-back-end-engineering"
-featured_image: "/images/4b3d99fc1404.png"
+featured_image: "/blog/images/4b3d99fc1404.png"
 ---
 
 STARTUPCAMPUS.ID–Kemajuan digitalisasi menuntun kita untuk semakin canggih menggunakan berbagai aplikasi yang mendukung pemasaran produk, misalnya website. Nah, buat kamu yang tertarik gimana sih cara untuk mengejar profesi yang berkaitan dengan pembuatan website, yuk ikutin career hacks di artikel ini ya untuk jawabannya! 

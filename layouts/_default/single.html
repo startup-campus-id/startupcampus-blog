@@ -4,7 +4,8 @@
         <h1>{{ .Title }}</h1>
         {{ if .Params.featured_image }}
         <div class="featured-image">
-            <img src="{{ .Params.featured_image }}" alt="{{ .Title }}">
+            {{ $imagePath := cond (eq .Site.BaseURL "http://localhost:1313/") (strings.TrimPrefix "/blog" .Params.featured_image) .Params.featured_image }}
+            <img src="{{ $imagePath | absURL }}" alt="{{ .Title }}">
         </div>
         {{ end }}
         <div class="post-meta">

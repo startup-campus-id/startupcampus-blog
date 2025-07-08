@@ -4,7 +4,7 @@ date: 2024-09-02T05:15:47
 author: "Startup Campus"
 categories: ["Update"]
 slug: "pintu-gerbang-menuju-kesuksesan-di-era-global-akan-segera-ditutup"
-featured_image: "/images/5c12b9ede7b4.jpg"
+featured_image: "/blog/images/5c12b9ede7b4.jpg"
 ---
 
 Di tengah persaingan global yang semakin hari semakin ketat, para pemuda dihadapkan dengan tantangan yang semakin beragam. Mulai dari persaingan ketat di dunia kerja, kurangnya *leadership skill* yang dimiliki oleh para pemuda, hingga minimnya pengalaman internasional. Tantangan – tantangan ini secara tidak langsung telah menuntut para pemuda untuk memiliki kesadaran diri untuk mengembangkan kemampuan yang mencakup *soft skill *dan *hard skill* sekaligus potensi kepemimpinan mereka. Banyak pemuda yang seringkali merasa bingung dan kurang percaya diri dalam menghadapi permasalahan ini.Tantangan ini juga dipengaruhi oleh perkembangan teknologi dan globalisasi yang menuntut para pemuda untuk beradaptasi dengan cepat. Mereka harus mampu untuk berpikir kritis, berinovasi, dan bekerja sama dalam tim. Namun, tidak semua pemuda memiliki fasilitas atau kesempatan untuk mereka mengembangkan kemampuan-kemampuan tersebut. Mereka mengalami kesulitan untuk menemukan lingkungan yang mampu untuk mendukung perkembangan diri.

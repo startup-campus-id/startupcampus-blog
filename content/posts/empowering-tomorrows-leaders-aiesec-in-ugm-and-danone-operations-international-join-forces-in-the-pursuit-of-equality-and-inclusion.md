@@ -4,7 +4,7 @@ date: 2024-01-12T07:56:11
 author: "Startup Campus"
 categories: ["Semua"]
 slug: "empowering-tomorrows-leaders-aiesec-in-ugm-and-danone-operations-international-join-forces-in-the-pursuit-of-equality-and-inclusion"
-featured_image: "/images/e43b71bd52a0.jpg"
+featured_image: "/blog/images/e43b71bd52a0.jpg"
 ---
 
 Yogyakarta, November 3, 2023 – AIESEC in UGM, in collaboration with [Danone Operations International Future Leaders](https://www.careers-page.com/lifeatfmcg/job/QX87498R), successfully organized a seminar titled "Danone Campus Visit: Impact Circle X Danone IFL" with the theme "Breaking Invisible Barriers: Strategies for Equal Opportunities." The event aimed to raise awareness and knowledge about the development of equality and inclusivity issues in the workplace.

@@ -4,7 +4,7 @@ date: 2023-12-08T03:52:41
 author: "Startup Campus"
 categories: ["Digital"]
 slug: "menggali-potensi-big-data-panduan-sederhana-untuk-mahasiswa-ilmu-data"
-featured_image: "/images/bac03abd374c.png"
+featured_image: "/blog/images/bac03abd374c.png"
 ---
 
 ## Apa Itu Big Data?

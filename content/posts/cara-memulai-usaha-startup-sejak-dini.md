@@ -4,7 +4,7 @@ date: 2023-03-21T11:01:00
 author: "Startup Campus"
 categories: ["Semua"]
 slug: "cara-memulai-usaha-startup-sejak-dini"
-featured_image: "/images/9707e79b02de.jpg"
+featured_image: "/blog/images/9707e79b02de.jpg"
 ---
 
 Memulai startup sendiri dari nol memang tidak mudah, apapun bidang bisnisnya. Perlu perjuangan trial dan error agar usaha yang dirintis bisa mencapai target yang diinginkan. Bahkan dengan perkembangan teknologi pun, tidak membuat proses membangun bisnis ini bisa instan. Tetapi, tidak bisa dipungkiri bahwa digitalisasi banyak membawa kemudahan bagi pengusaha. Maka dari itu, sebagai calon pengusaha, kamu harus tahu cara memulai usaha startup agar tidak salah langkah!

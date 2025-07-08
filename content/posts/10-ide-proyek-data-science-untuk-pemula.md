@@ -4,7 +4,7 @@ date: 2024-06-27T12:38:50
 author: "Startup Campus"
 categories: ["Digital"]
 slug: "10-ide-proyek-data-science-untuk-pemula"
-featured_image: "/images/5decac1a77d1.jpg"
+featured_image: "/blog/images/5decac1a77d1.jpg"
 ---
 
 Data Science menjadi banyak incaran orang untuk berkarier saat ini. Namun ketika harus membuat project, tak sedikit yang bingung harus mulai dari mana. Topik-topik data science terkesan menakutkan dan jauh dari bahasan sehari-hari. Padahal ada banyak topik yang bisa dikaitkan dengan keseharian kita, sehingga relevan jika dijadikan project.

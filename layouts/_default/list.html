@@ -7,7 +7,8 @@
       {{ range .Paginator.Pages }}
         <article class="post-item">
           {{ if .Params.featured_image }}
-            <img class="post-item-image" src="{{ .Params.featured_image }}" alt="{{ .Title }}">
+            {{ $imagePath := cond (eq .Site.BaseURL "http://localhost:1313/") (strings.TrimPrefix "/blog" .Params.featured_image) .Params.featured_image }}
+            <img class="post-item-image" src="{{ $imagePath | absURL }}" alt="{{ .Title }}">
           {{ else }}
             {{ $imgSrc := "" }}
             {{ $imgMatches := findRE `!\[.*?\]\(([^)]+)\)` .Content 1 }}

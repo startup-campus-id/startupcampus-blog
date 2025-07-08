@@ -4,7 +4,7 @@ date: 2024-10-02T03:32:22
 author: "Startup Campus"
 categories: ["Semua"]
 slug: "strategi-belajar-market-research-untuk-pemula"
-featured_image: "/images/64486f23fd6c.png"
+featured_image: "/blog/images/64486f23fd6c.png"
 ---
 
 Apa itu market research? Kalo ditranslasikan, artinya riset pasar, meneliti pasar. 

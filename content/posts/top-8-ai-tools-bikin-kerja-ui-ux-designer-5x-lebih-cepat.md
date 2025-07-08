@@ -4,7 +4,7 @@ date: 2023-06-15T08:05:06
 author: "Startup Campus"
 categories: ["Digital"]
 slug: "top-8-ai-tools-bikin-kerja-ui-ux-designer-5x-lebih-cepat"
-featured_image: "/images/83d7e18103a2.jpg"
+featured_image: "/blog/images/83d7e18103a2.jpg"
 ---
 
 Kecerdasan Buatan atau Artificial Intelligence (AI) telah membawa dampak besar pada berbagai sektor, termasuk dalam bidang design User Interface (UI) dan User Experience (UX). Dengan memanfaatkan berbagai tools AI, seorang UI/UX designer dapat menciptakan desain yang lebih baik dan menghemat waktu secara signifikan. 

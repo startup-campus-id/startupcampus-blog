@@ -4,7 +4,7 @@ date: 2025-05-30T09:04:45
 author: "Startup Campus"
 categories: ["Digital", "Semua", "Update"]
 slug: "sertifikasi-bnsp-ai-panduan-lengkap-manfaat-biaya-dan-cara-daftar-terbaru-2025"
-featured_image: "/images/9aa84e60eb45.jpg"
+featured_image: "/blog/images/9aa84e60eb45.jpg"
 ---
 
 Artificial Intelligence (AI) telah menjadi salah satu bidang paling diminati di era digital. Perusahaan dari berbagai sektor, mulai dari startup hingga korporasi besar, kini aktif mencari talenta AI yang tidak hanya paham teori, tetapi juga memiliki sertifikasi resmi sebagai bukti kompetensi. Di sinilah pentingnya memiliki [**sertifikasi BNSP AI**](https://www.startupcampus.id/sertifikasi/bnsp?track=artificial-intelligence).
