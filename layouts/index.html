@@ -8,11 +8,14 @@
     <div class="post-list">
       {{ range .Paginator.Pages }}
         <article class="post-item">
-          {{ $img := findRE `<img[^>]+src="([^"]+)"` .Content 1 }}
-          {{ if $img }}
-            {{ $src := index (findRE `src="([^"]+)"` (index $img 0)) 0 }}
-            {{ $cleanSrc := replaceRE `src="([^"]+)"` "$1" $src }}
-            <img class="post-item-image" src="{{ $cleanSrc }}" alt="{{ .Title }}">
+          {{ $imgSrc := "" }}
+          {{ $imgMatches := findRE `!\[.*?\]\(([^)]+)\)` .Content 1 }}
+          {{ if $imgMatches }}
+            {{ $fullMatch := index $imgMatches 0 }}
+            {{ $imgSrc = replaceRE `!\[.*?\]\(([^)]+)\)` "$1" $fullMatch }}
+          {{ end }}
+          {{ if and $imgSrc (ne $imgSrc "") }}
+            <img class="post-item-image" src="{{ $imgSrc }}" alt="{{ .Title }}">
           {{ else }}
             <div class="post-item-image" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);"></div>
           {{ end }}

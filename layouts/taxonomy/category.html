@@ -1,0 +1,44 @@
+{{ define "main" }}
+<div class="category-page">
+    <h1>{{ .Title }}</h1>
+    <p>{{ .Params.Description }}</p>
+    
+    <div class="post-list">
+        {{ range .Paginator.Pages }}
+        <article class="post-item">
+            {{ $imgMatches := findRE `!\[.*?\]\(([^)]+)\)` .Content 1 }}
+            {{ if $imgMatches }}
+                {{ $imgMarkdown := index $imgMatches 0 }}
+                {{ $srcMatches := findRE `\(([^)]+)\)` $imgMarkdown 1 }}
+                {{ if $srcMatches }}
+                    {{ $src := index $srcMatches 0 }}
+                    {{ $src := strings.TrimPrefix $src "(" }}
+                    {{ $src := strings.TrimSuffix $src ")" }}
+                    {{ if and (ne $src "") (ne $src "()") }}
+                        <div class="post-image">
+                            <img src="{{ $src }}" alt="{{ .Title }}">
+                        </div>
+                    {{ end }}
+                {{ end }}
+            {{ end }}
+            
+            <div class="post-content">
+                <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+                
+                <div class="post-meta">
+                    <time>{{ .Date.Format "2 January 2006" }}</time>
+                    {{ if .Params.author }}
+                        <span class="author">By {{ .Params.author }}</span>
+                    {{ end }}
+                </div>
+                
+                <p>{{ .Summary }}</p>
+                <a href="{{ .Permalink }}" class="read-more">Read more →</a>
+            </div>
+        </article>
+        {{ end }}
+    </div>
+    
+    {{ template "_internal/pagination.html" . }}
+</div>
+{{ end }}

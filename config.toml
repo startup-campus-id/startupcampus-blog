@@ -1,7 +1,8 @@
 baseURL = "http://localhost:1313/"
 languageCode = "id"
 title = "Startup Campus Blog"
-paginate = 6
+[pagination]
+  pagerSize = 6
 enableRobotsTXT = true
 canonifyURLs = false
 relativeURLs = false
