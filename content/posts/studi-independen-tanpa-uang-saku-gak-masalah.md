@@ -1,8 +1,11 @@
 ---
 title: "Studi Independen Tanpa Uang Saku? Gak Masalah"
-date: 2024-06-04T09:10:49
+date: 2023-11-13T11:16:46
+author: "Startup Campus"
+categories: ["Digital", "Alumni", "Semua", "Update", "Pengajar"]
 slug: "studi-independen-tanpa-uang-saku-gak-masalah"
 ---
+
 Penulis : Nihaya Lastari 
 
 Pertanyaan yang sering masuk tentang Studi Independen di Startup Campus adalah, “Ada uang sakunya gak?”. Nah, sebenernya Studi Independen di Startup Campus tuh ngapain aja sih? Seberapa penting uang saku itu? Artikel ini akan memberikan jawaban lengkap untuk pertanyaan-pertanyaan tersebut. Yuk simak selengkapnya!.

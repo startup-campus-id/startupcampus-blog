@@ -1,8 +1,11 @@
 ---
 title: "Kerja Remote : Pengertian, Gaji, Contoh dan Cara Mendapatkannya"
-date: 2024-01-27T09:10:49
+date: 2023-07-10T07:54:12
+author: "hal diah"
+categories: ["Digital", "Alumni", "Semua", "Update", "Pengajar"]
 slug: "kerja-remote-adalah-pengertian-gaji-contoh-dan-cara-mendapatkannya"
 ---
+
 Kerja remote telah menjadi fenomena yang mengubah cara kita bekerja. Konsep kerja remote mengacu pada situasi di mana kamu dapat menjalankan tugas-tugas pekerjaanmu tanpa harus ke kantor.
 
 Dengan bantuan teknologi dan konektivitas yang semakin baik, kerja remote telah menjadi alternatif menarik bagi banyak orang yang mencari fleksibilitas dan keseimbangan antara pekerjaan dan kehidupan pribadi. 

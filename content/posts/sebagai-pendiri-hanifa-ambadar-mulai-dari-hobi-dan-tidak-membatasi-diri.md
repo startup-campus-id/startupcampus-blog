@@ -1,8 +1,11 @@
 ---
 title: "Sebagai Pendiri, Hanifa Ambadar Mulai dari Hobi dan Tidak Membatasi Diri"
-date: 2025-04-15T09:10:49
+date: 2022-12-07T05:46:27
+author: "Startup Campus"
+categories: ["Digital", "Alumni", "Semua", "Update", "Pengajar"]
 slug: "sebagai-pendiri-hanifa-ambadar-mulai-dari-hobi-dan-tidak-membatasi-diri"
 ---
+
 ![( Hanifa Ambadar)](/uploads/2022/12/Hanifa-ambadar-1024x449.png)
 
 STARTUPCAMPUS.ID– Saat ingin membeli skin care tapi bingung mana yang cocok, “Female Daily Network” pasti muncul di pencarian kita. Yup, [Female Daily Network (FDN),](https://femaledaily.com/about) forum perempuan terbesar di Indonesia, yang secara daring membagikan informasi seputar perempuan dan kecantikan. Dimulai dari forum hingga terbentuk e-commerce, terdapat sosok pencetus yang terus berjuang bersama timnya. Sosok tersebut ialah Hanifa Ambadar, Founder sekaligus Chief Executive Officer (CEO) FDN yang memulainya sejak tahun 2005. Melalui bisnisnya, beliau percaya bahwa empowered women give benefit to the whole country. Tapi tahukah kamu kalau pencapaiannya saat ini berawal dari kegemaran menulisnya di blog? Dari blogger bisa jadi founder? Hmm, kita tengok yuk perjalanannya!

@@ -1,8 +1,11 @@
 ---
 title: "Perbedaan Studi Independen vs Magang: Kenapa Studi Independen 10x Lebih Baik?"
-date: 2024-11-05T09:10:49
+date: 2024-05-20T09:29:27
+author: "Startup Campus"
+categories: ["Digital", "Alumni", "Semua", "Update", "Pengajar"]
 slug: "studi-independen-10x-lebih-baik-dari-magang"
 ---
+
 ![()](/uploads/2024/05/studiindependen-1024x683.webp)
 
 Magang dan Studi Independen (MSIB) dari [Kampus Merdeka](https://kampusmerdeka.kemdikbud.go.id/) akan segera hadir kembali menyapa para mahasiswa. Terkadang masih banyak yang bingung bagaimana menentukan program yang ingin dipilih. Apakah ikut [studi independen](https://startupcampus.id/studi-independen) dulu, atau langsung magang?

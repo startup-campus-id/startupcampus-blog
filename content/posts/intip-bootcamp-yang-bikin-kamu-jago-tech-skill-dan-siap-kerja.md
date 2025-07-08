@@ -1,8 +1,11 @@
 ---
 title: "Intip Bootcamp yang Bikin Kamu Jago Tech Skill dan Siap Kerja!"
-date: 2025-04-15T09:10:49
+date: 2022-12-07T04:58:02
+author: "Startup Campus"
+categories: ["Digital", "Alumni", "Semua", "Update", "Pengajar"]
 slug: "intip-bootcamp-yang-bikin-kamu-jago-tech-skill-dan-siap-kerja"
 ---
+
 ![(Intip Bootcamp yang Bikin Kamu Jago Tech Skill dan Siap Kerja!)](/uploads/2022/12/bootcamp-1024x449.png)
 
 STARTUPCAMPUS.ID– Seiring dengan berkembangnya tren digitalisasi dan startup, anak muda zaman sekarang berlomba mengasah diri untuk menjadi pendiri bisnis rintisan ataupun memiliki keahlian tersertifikasi di bidang teknologi. Dalam rangka mewadahi semangat tersebut, Achmad Zaky Foundation mendirikan Startup Campus guna mendukung lebih banyak anak Indonesia yang memajukan Indonesia dengan keahliannya di bidang teknologi dan bisnis. Inisiasi Startup Campus ini datang dari visi Achmad Zaky untuk mewujudkan lingkungan seperti Silicon Valley -pusat inovasi di Amerika Serikat yang mencetak banyak perusahaan teknologi besar- di Indonesia.

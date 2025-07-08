@@ -1,8 +1,11 @@
 ---
 title: "Mulai Journey Kalian di Luar Negeri, Gimana sih Caranya?"
-date: 2025-01-09T09:10:49
+date: 2024-05-20T08:42:20
+author: "hal diah"
+categories: ["Digital", "Alumni", "Semua", "Update", "Pengajar"]
 slug: "mulai-journey-kalian-di-luar-negeri-gimana-sih-caranya"
 ---
+
 Pada Sabtu 4 Mei 2024 di Kampus 1 UPN Veteran Yogyakarta.
 
 Youth Today sendiri adalah salah satu project dari AIESEC in UPNY yang mengadakan seminar yang fokus utamanya untuk meningkatkan kesadaran generasi muda dengan issue yang sedang terjadi. 

@@ -1,8 +1,11 @@
 ---
-title: "Rekomendasi Pelatihan Prakerja yang Mudah dan Cepat Selesai 2023 "
-date: 2025-01-20T09:10:49
+title: "Rekomendasi Pelatihan Prakerja yang Mudah dan Cepat Selesai 2023"
+date: 2023-09-12T12:04:57
+author: "hal diah"
+categories: ["Digital", "Alumni", "Semua", "Update", "Pengajar"]
 slug: "rekomendasi-pelatihan-prakerja-yang-mudah-dan-cepat-selesai-2023"
 ---
+
 Apakah kamu telah mendaftar program Prakerja tetapi masih bingung memilih pelatihan yang sesuai dengan minat dan kebutuhanmu? Jangan khawatir! Artikel ini akan memberikan rekomendasi pelatihan Prakerja yang mudah, cepat selesai, dan pastinya akan memberikan manfaat besar bagi kariermu ke depan. 
 
 Yuk, simak selengkapnya!

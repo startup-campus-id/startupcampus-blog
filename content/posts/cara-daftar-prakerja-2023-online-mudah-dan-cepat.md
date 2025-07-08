@@ -1,8 +1,11 @@
 ---
 title: "Cara Daftar Prakerja 2023 Online Mudah dan Cepat!"
-date: 2025-03-19T09:10:49
+date: 2023-03-03T10:55:57
+author: "Startup Campus"
+categories: ["Digital", "Alumni", "Semua", "Update", "Pengajar"]
 slug: "cara-daftar-prakerja-2023-online-mudah-dan-cepat"
 ---
+
 Sejak diluncurkan pada tahun 2020, program Kartu Prakerja berhasil menarik banyak peminat dari berbagai kalangan. Menurut data dari tim Prakerja, sepanjang tahun 2020-2022 saja, ada 16,4 juta orang yang menjadi penerima Kartu Prakerja. Benar-benar angka yang besar, bukan? Tidak aneh jika di tahun ketiganya, program ini juga kembali digandrungi. Sayangnya, masih banyak yang belum tahu cara daftar prakerja di tahun 2023 maupun apa itu kartu prakerja. Di artikel ini, kami harap bisa merangkum segala yang harus kamu ketahui soal Kartu Prakerja!
 
 ## Apa itu Kartu Prakerja?

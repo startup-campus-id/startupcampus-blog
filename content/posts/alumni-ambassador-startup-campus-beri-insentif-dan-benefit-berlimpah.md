@@ -1,8 +1,11 @@
 ---
 title: "Alumni Ambassador Startup Campus Beri Insentif dan Benefit Berlimpah!"
-date: 2024-03-05T09:10:49
+date: 2023-03-10T07:06:34
+author: "Startup Campus"
+categories: ["Digital", "Alumni", "Semua", "Update", "Pengajar"]
 slug: "alumni-ambassador-startup-campus-beri-insentif-dan-benefit-berlimpah"
 ---
+
 Apa yang ada di pikiran kamu ketika mendengar kata “Ambassador”? Mungkin istilah yang paling akrab adalah Brand Ambassador, yang merujuk ke seseorang yang mempromosikan sebuah produk atau brand. Tapi ternyata, di lingkup industri yang sudah luas seperti sekarang, ada banyak ambassador-ambassador dengan konteks lain. Salah satunya adalah Alumni Ambassador. Apa itu Alumni Ambassador, dan bagaimana seseorang bisa menjadi Alumni Ambassador? Di artikel ini, kami akan bahas sampai tuntas!
 
 ## Apa itu Alumni Ambassador?

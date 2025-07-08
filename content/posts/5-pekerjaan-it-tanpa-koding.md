@@ -1,8 +1,11 @@
 ---
 title: "5 Pekerjaan IT Tanpa Koding!"
-date: 2025-06-18T09:10:49
+date: 2023-11-17T11:22:56
+author: "Startup Campus"
+categories: ["Digital", "Alumni", "Semua", "Update", "Pengajar"]
 slug: "5-pekerjaan-it-tanpa-koding"
 ---
+
 Kita mungkin sudah tahu bahwa bidang pekerjaan IT memiliki prospek kerja yang tinggi dikarenakan banyak perusahaan yang mebutuhkannya. Tapi tahukah kamu bahwa bidang IT itu gak melulu tentang koding?
 
 Jika 10 tahun lalu stereotype yang berkembang adalah kerja IT harus ngerti koding, sekarang sudah berganti. Pekerjaan di bidang IT sudah sangat luas dengan berbagai turunannya, jadi gak sempit di bagian koding terutama urusan bikin website atau aplikasi saja. 

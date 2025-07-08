@@ -1,8 +1,11 @@
 ---
 title: "Pemerataan Pendidikan di Indonesia Jadi Hak Anak Timur Juga!"
-date: 2023-09-11T09:10:49
+date: 2023-02-17T10:37:18
+author: "Startup Campus"
+categories: ["Digital", "Alumni", "Semua", "Update", "Pengajar"]
 slug: "pemerataan-pendidikan-di-indonesia-timur-melalui-belajarsekaligusberbagi"
 ---
+
 Pemerataan Pendidikan di Indonesia Jadi Hak Anak Timur Juga - Hak mendapat pendidikan telah ditulis di Pasal 31 Ayat 1 UUD 1945 yang berbunyi, “Setiap warga negara berhak mendapat pendidikan.” Tetapi pada kenyataannya, bagi beberapa orang di daerah tertentu, akses mendapatkan pendidikan tidak semudah itu. Seperti misalnya di daerah Timur Indonesia yang memiliki nilai Indeks Pembangunan Manusia (IPM) terendah. Maka dari itu, dibutuhkan pemerataan pendidikan di Indonesia!
 
 ## Apa itu pemerataan pendidikan?

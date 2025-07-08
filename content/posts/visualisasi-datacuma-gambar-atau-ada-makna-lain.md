@@ -1,8 +1,11 @@
 ---
 title: "Visualisasi data:cuma gambar atau ada makna lain?"
-date: 2024-11-06T09:10:49
+date: 2024-03-22T10:09:19
+author: "Startup Campus"
+categories: ["Digital", "Alumni", "Semua", "Update", "Pengajar"]
 slug: "visualisasi-datacuma-gambar-atau-ada-makna-lain"
 ---
+
 Capek-capek ngolah data, tapi gak bisa visualisasikan dengan baik. Hasilnya malah gak bisa dipahami orang banyak. Sebenarnya, apa yang dimaksud visualisasi data atau data visualization?
 
 Menurut Tableau, visualisasi data atau data visualization adalah tampilan berupa grafis atau visual dari informasi dan data. Data visualization mengubah kumpulan data menjadi hal lebih sederhana untuk ditampilkan. Misalnya berupa diagram pie, diagram baris, dan lain sebagainya. Mengubah deretan angka menjadi sebuah tampilan visual memang tidak bisa instan, ada banyak prinsip, ada banyak fungsi. Mari kita kulik satu per satu.

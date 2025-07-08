@@ -1,8 +1,11 @@
 ---
 title: "Bootcamp adalah Solusi Tepat untuk Belajar IT yang Menyenangkan!"
-date: 2025-06-19T09:10:49
+date: 2023-01-12T04:37:14
+author: "Startup Campus"
+categories: ["Digital", "Alumni", "Semua", "Update", "Pengajar"]
 slug: "bootcamp-adalah-solusi-tepat-untuk-belajar-it-yang-menyenangkan"
 ---
+
 Bagi mahasiswa atau fresh graduate, kata bootcamp mungkin bukan suatu hal yang asing lagi. Adapun belum mengenal kata bootcamp, kata ini pasti pernah kamu baca lewat broadcast message, promoted ads, atau poster baik di sosial media maupun secara langsung. Jika ada yang bertanya “apa itu bootcamp?”, mungkin jawaban singkatnya, bootcamp adalah sebuah program pelatihan. Tetapi, berbeda dengan program pelatihan yang umumnya dilaksanakan sebuah lembaga, ternyata bootcamp punya spesifikasi lain dan bisa memberikan hal yang lebih.
 
 Jika kamu masih ragu untuk ikut kelas bootcamp atau ingin tahu lebih dalam sebelum memutuskan untuk mendaftar, simak artikel ini sampai habis untuk mengenal apa itu bootcamp terlebih dahulu yuk!

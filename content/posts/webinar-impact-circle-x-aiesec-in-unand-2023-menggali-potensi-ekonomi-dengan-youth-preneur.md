@@ -1,9 +1,8 @@
 ---
-title: "Webinar Impact Circle x AIESEC in Unand 2023: Menggali Potensi Ekonomi dengan 'Youth-Preneur'"
-date: 2023-11-09T10:00:00
-author: "Nanda Oktaviana"
-categories: ["Update"]
-tags: ["AIESEC", "Webinar", "Youth Entrepreneurship"]
+title: "Webinar Impact Circle x AIESEC in Unand 2023: Menggali Potensi Ekonomi dengan ‘Youth-Preneur’"
+date: 2023-11-09T09:22:00
+author: "Startup Campus"
+categories: ["Digital", "Alumni", "Semua", "Update", "Pengajar"]
 slug: "webinar-impact-circle-x-aiesec-in-unand-2023-menggali-potensi-ekonomi-dengan-youth-preneur"
 ---
 

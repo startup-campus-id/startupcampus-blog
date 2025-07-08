@@ -1,8 +1,11 @@
 ---
 title: "CivilArch: Dari Kuliah Teknik Sipil Sampai Bisa Bikin Project Riil"
-date: 2024-11-09T09:10:49
+date: 2023-02-07T08:37:03
+author: "Startup Campus"
+categories: ["Digital", "Alumni", "Semua", "Update", "Pengajar"]
 slug: "civilarch-dari-kuliah-teknik-sipil-sampai-bisa-bikin-project-riil"
 ---
+
 Ada yang bilang, mahasiswa adalah agent of change. Untuk menjadi perwujudan dari titel tersebut, mereka harus berani membuat perubahan. Bagi Rafi, perubahan itu dimulai dari sebuah langkah kecil. Berangkat dari ilmu yang didapat saat berkuliah di jurusan teknik sipil, ia berhasil mewujudkan startup impiannya yang bergerak di bidang konstruksi dengan tujuan membantu semua orang untuk memiliki hunian sesuai keinginan mereka. Simak cerita Rafi, Co-Founder CivilArch di sini!
 
 ## Dari Keresahan Jadi Kesadaran

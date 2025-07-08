@@ -1,8 +1,11 @@
 ---
 title: "Psikologi Warna dalam Desain Interface"
-date: 2023-11-08T09:10:49
+date: 2023-07-03T09:37:41
+author: "hal diah"
+categories: ["Digital", "Alumni", "Semua", "Update", "Pengajar"]
 slug: "psikologi-warna-dalam-desain-interface"
 ---
+
 Kamu pernah mengunjungi sebuah website atau menggunakan aplikasi yang menurutmu sangat menarik secara visual? Nah, di balik kesuksesan desain antarmuka yang menarik tersebut terdapat satu faktor penting yang harus kamu ketahui, yaitu psikologi warna dalam UX Design. Dalam artikel ini, kita akan mengupas lebih dalam mengenai psikologi warna dan betapa pentingnya peran warna dalam menciptakan desain antarmuka yang sukses. 
 
 Baca juga : [Cara Menjadi UI/UX Designer untuk Pemula! ](https://startupcampus.id/blog/cara-menjadi-ui-ux-designer-untuk-pemula/)

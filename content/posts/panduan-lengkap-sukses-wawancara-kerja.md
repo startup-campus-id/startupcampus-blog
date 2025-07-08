@@ -1,8 +1,11 @@
 ---
-title: "Panduan Lengkap Sukses Wawancara Kerja "
-date: 2024-12-06T09:10:49
+title: "Panduan Lengkap Sukses Wawancara Kerja"
+date: 2023-08-28T22:55:27
+author: "hal diah"
+categories: ["Digital", "Alumni", "Semua", "Update", "Pengajar"]
 slug: "panduan-lengkap-sukses-wawancara-kerja"
 ---
+
 Dalam perjalanan mencari pekerjaan, wawancara kerja seringkali menjadi tahapan yang menegangkan bagi banyak orang. Baik itu wawancara secara online maupun offline, persiapan yang matang, sikap yang penuh percaya diri, serta pemahaman yang mendalam tentang prosesnya dapat menjadi kunci sukses Kamu. Dalam artikel ini, kami akan membahas secara lengkap mengenai berbagai tips, strategi, dan panduan praktis, mulai dari persiapan sebelum wawancara, tips saat wawancara, hingga strategi yang harus dilakukan setelah wawancara.Yuk, simak selengkapnya!
 
 Baca juga : [7 Tips Apply Kerja di JobStreet, Auto Dipanggil Wawancara!](https://www.startupcampus.id/blog/7-tips-apply-kerja-di-jobstreet-auto-dipanggil-wawancara/?_gl=1*nigora*_ga*MTk0ODIyMjA0Ni4xNjY1NDY4MTQ5*_ga_3G9FB2PL4B*MTY5MzI2MzAzNy4xNC4wLjE2OTMyNjMwMzcuMC4wLjA.*_ga_S5WKMBQ8R2*MTY5MzI2MzAzOC4xMy4wLjE2OTMyNjMwMzguMC4wLjA.&_ga=2.73768530.197464934.1693263038-1948222046.1665468149)

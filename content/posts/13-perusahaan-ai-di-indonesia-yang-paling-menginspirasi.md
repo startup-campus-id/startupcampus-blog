@@ -1,8 +1,11 @@
 ---
 title: "13 Perusahaan AI di Indonesia yang paling menginspirasi!"
-date: 2025-02-26T09:10:49
+date: 2024-01-16T08:39:31
+author: "Startup Campus"
+categories: ["Digital", "Alumni", "Semua", "Update", "Pengajar"]
 slug: "13-perusahaan-ai-di-indonesia-yang-paling-menginspirasi"
 ---
+
 Kecerdasan buatan atau [Artificial Intelligence](https://startupcampus.id/public-bootcamp/artificial-intelligence) (AI) merupakan salah satu teknologi yang berkembang pesat dalam beberapa tahun terakhir. AI memiliki potensi untuk mengubah berbagai aspek kehidupan masyarakat, mulai dari industri, pendidikan, hingga layanan publik.
 
 Beberapa perusahaan dunia yang mengembangkan AI ialah Google dengan [Bard](https://bard.google.com/), [OpenAI ](https://openai.com/)dengan [ChatGPT](https://chat.openai.com/) dan [Dall-E](https://openai.com/dall-e-2), serta Landing AI dengan MLOps. Produk tersebut sudah banyak digunakan masyarakat dunia dan membantu dalam pekerjaan sehari-hari.

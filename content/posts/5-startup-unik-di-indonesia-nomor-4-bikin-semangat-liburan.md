@@ -1,8 +1,11 @@
 ---
 title: "5 Startup Unik di Indonesia, Nomor 4 Bikin Semangat Liburan!"
-date: 2024-03-17T09:10:49
+date: 2022-12-08T07:38:44
+author: "Startup Campus"
+categories: ["Digital", "Alumni", "Semua", "Update", "Pengajar"]
 slug: "5-startup-unik-di-indonesia-nomor-4-bikin-semangat-liburan"
 ---
+
 ![(Startup unik)](/uploads/2022/12/Startup-unik-1024x449.png)
 
 STARTUPCAMPUS.ID–  Pertumbuhan startup berlangsung pesat di masa kini, ini dibuktikan dengan masyarakat yang berlomba-lomba mendirikan startup melalui berbagai kesempatan. Kemajuan teknologi dan bantuan dari pihak Pemerintah pun menjadi sebagian alasan yang mendukung perkembangan startup. Tak hanya itu, beragam kompetisi dan konferensi pun kian menyorot dan mengapresiasi eksistensi startup. 

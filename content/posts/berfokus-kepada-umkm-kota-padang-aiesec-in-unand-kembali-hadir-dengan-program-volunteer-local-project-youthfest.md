@@ -1,8 +1,11 @@
 ---
 title: "Berfokus kepada UMKM Kota Padang, AIESEC in Unand kembali hadir dengan program volunteer Local Project “YouthFest”"
-date: 2023-12-29T09:10:49
+date: 2023-10-03T13:38:58
+author: "Startup Campus"
+categories: ["Digital", "Alumni", "Semua", "Update", "Pengajar"]
 slug: "berfokus-kepada-umkm-kota-padang-aiesec-in-unand-kembali-hadir-dengan-program-volunteer-local-project-youthfest"
 ---
+
 By Laura Tri Julisa - 18 Agustus 2023
 
 Tercatat adanya kenaikan signifikan dari jumlah UMKM di Kota padang pasca pandemi Covid-19. Berdasarkan pendataan yang dilakukan oleh Dinas Koperasi dan UMKM di Kota Padang pada tahun 2021, ada sebanyak 11.787 pelaku UMKM, hal ini membuktikan bahwa UMKM di Kota Padang memiliki potensi yang kuat di bidang kewirausahaan. Namun, melihat dari kemajuan era digital dan bisnis, Kota Padang masih belum memaksimalkan kemajuan tersebut dalam mendorong perekonomian melalui UMKM yang ada. Berdasarkan artikel dari [www.jurnal.id](http://www.jurnal.id) menyatakan bahwa terdapat 4 kota dengan kemajuan teknologi bisnis di indonesia (Jakarta, Bandung, Surabaya dan Medan). Disini, Kota padang masih terhitung belum bisa memaksimalkan kemajuan teknologi bisnis tersebut.

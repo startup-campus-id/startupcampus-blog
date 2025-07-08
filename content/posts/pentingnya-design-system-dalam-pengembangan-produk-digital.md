@@ -1,8 +1,11 @@
 ---
 title: "Pentingnya Design System dalam Pengembangan Produk Digital"
-date: 2024-07-15T09:10:49
+date: 2024-01-09T03:14:34
+author: "Startup Campus"
+categories: ["Digital", "Alumni", "Semua", "Update", "Pengajar"]
 slug: "pentingnya-design-system-dalam-pengembangan-produk-digital"
 ---
+
 Desain merupakan inti dari pengembangan produk digital yang berhasil. Di tengah persaingan ketat dan tuntutan pasar yang berubah cepat, keberhasilan suatu produk seringkali tergantung pada bagaimana desainnya mampu memenuhi kebutuhan pengguna dan membedakan dirinya dari pesaing. Salah satu pendekatan yang semakin diterima secara luas dalam mencapai desain yang konsisten dan efisien adalah penggunaan Design System.
 
 Design System bukan hanya sebuah panduan, tetapi merupakan fondasi utama dalam mengembangkan produk digital. Artikel ini akan menjelaskan lebih lanjut mengapa Design System menjadi begitu penting dalam pengembangan produk digital.

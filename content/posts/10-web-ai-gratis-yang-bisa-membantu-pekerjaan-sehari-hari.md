@@ -1,8 +1,11 @@
 ---
 title: "10 Web AI Gratis Yang Bisa Membantu Pekerjaan Sehari-hari!"
-date: 2025-02-07T09:10:49
+date: 2023-06-02T12:52:10
+author: "hal diah"
+categories: ["Digital", "Alumni", "Semua", "Update", "Pengajar"]
 slug: "10-web-ai-gratis-yang-bisa-membantu-pekerjaan-sehari-hari"
 ---
+
 Ketika berbicara tentang kecerdasan buatan (AI), mungkin terlintas dalam pikiran kita teknologi yang rumit dan mahal. Kamu pasti penasaran bagaimana bisa menggunakan teknologi AI tanpa harus merogoh kocek dalam-dalam. Nah, kabar baiknya, kali ini kita akan mengulas 10 web AI gratis yang dapat kamu manfaatkan untuk mengembangkan potensi dirimu! Tetapi sebelum kita mulai, ada baiknya kamu kenal lebih dekat dengan AI.
 ## Apa itu AI (Artificial Intelligence) ?
 AI (Artificial Intelligence) adalah teknologi yang menghadirkan kemampuan komputer untuk belajar dan berpikir mirip dengan manusia. Bayangkan jika komputer bisa melihat, mendengar, dan memahami seperti kita. Ini adalah konsep yang mendasari AI.

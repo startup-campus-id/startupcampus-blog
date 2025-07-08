@@ -1,8 +1,11 @@
 ---
 title: "Gaji Data Scientist Bisa Mendekati Gaji CEO?!"
-date: 2024-09-30T09:10:49
+date: 2024-02-16T12:55:05
+author: "Startup Campus"
+categories: ["Digital", "Alumni", "Semua", "Update", "Pengajar"]
 slug: "gaji-data-scientist-bisa-mendekati-gaji-ceo"
 ---
+
 Setiap membahas data scientist selalu dikaitkan dengan gajinya yang cukup tinggi di perusahaan. Kabarnya hanya berbeda tipis dengan para C-level? Bidang data memang saat ini menjadi komoditas yang unik untuk diolah menjadi berbagai “produk”. Contohnya saja, produk visualisasi data sales yang digunakan para decision maker di perusahaan untuk menentukan campaign berikutnya. Atau produk tools AI yang biasa kita pakai, ChatGPT dan Bard.AI, keduanya produk pengolahan data dengan kesulitan cukup tinggi.
 
 Seorang data scientist bahkan dianggap manusia setengah dewa karena bisa mengulik data dalam hitungan menit untuk memberi insight yang bernilai puluhan bahkan ratusan juta. Tak heran jika divisi HRD dan pimpinan perusahaan mau berinventasi dengan membayar tinggi data scientist di kantornya. Tapi sebenarnya apa kriteria yang membuat gaji para data scientist ini tinggi?

@@ -1,8 +1,11 @@
 ---
 title: "LesQ: Bimbel untuk Mahasiswa yang Butuh Waktu Belajar Extra"
-date: 2024-09-25T09:10:49
+date: 2023-01-31T09:40:24
+author: "Startup Campus"
+categories: ["Digital", "Alumni", "Semua", "Update", "Pengajar"]
 slug: "lesq-bimbel-untuk-mahasiswa-yang-butuh-waktu-belajar-extra"
 ---
+
 Mengikuti bimbingan belajar sudah umum dilakukan untuk siswa di bangku SD, SMP, dan SMA. Tapi kenapa ya, bimbingan belajar untuk bangku kuliah jarang ada? Untungnya, ada Al dan tim LesQ. Baca kisah mereka merintis bimbel khusus untuk mahasiswa ini yuk!
 
 ## Kenapa bimbel untuk mahasiswa tidak ada?

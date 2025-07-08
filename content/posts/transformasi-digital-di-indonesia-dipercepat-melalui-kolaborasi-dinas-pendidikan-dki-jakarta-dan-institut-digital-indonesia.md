@@ -1,8 +1,11 @@
 ---
 title: "Transformasi Digital di Indonesia Dipercepat Melalui Kolaborasi Dinas Pendidikan DKI Jakarta dan Institut Digital Indonesia"
-date: 2024-11-29T09:10:49
+date: 2024-01-11T11:08:27
+author: "Startup Campus"
+categories: ["Digital", "Alumni", "Semua", "Update", "Pengajar"]
 slug: "transformasi-digital-di-indonesia-dipercepat-melalui-kolaborasi-dinas-pendidikan-dki-jakarta-dan-institut-digital-indonesia"
 ---
+
 Pada tanggal 10 Januari 2024, [Dinas Pendidikan DKI Jakarta](https://disdik.jakarta.go.id/) dan [Institut Digital Indonesia](https://institutdigital.id/) (IDigital) bersinergi untuk mempercepat transformasi digital di Indonesia, khususnya di sektor pendidikan demi menghasilkan inovasi digital. Hasil Global Innovation Index 2023 yang dirilis oleh [WIPO (World Intellectual Property Organization)](https://www.wipo.int/portal/en/index.html) menunjukkan bahwa kapabilitas inovasi Indonesia berada di peringkat 61 dari 132 negara, sebuah tantangan yang perlu diatasi.
 
 Meskipun Indonesia telah mencatat peningkatan peringkat selama sepuluh tahun terakhir (2013-2023), namun perbandingan dengan negara-negara ASEAN seperti Singapura, Vietnam, Thailand, dan Malaysia menunjukkan bahwa Indonesia masih perlu mengejar ketertinggalannya. Sebagai negara yang memiliki sumber daya manusia dan alam yang besar, tantangan ini menjadi panggilan untuk meningkatkan capaian inovasi.

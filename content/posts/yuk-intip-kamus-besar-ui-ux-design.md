@@ -1,8 +1,11 @@
 ---
 title: "Yuk, intip Kamus Besar UI/UX Design!"
-date: 2024-12-01T09:10:49
+date: 2022-12-07T10:31:15
+author: "Startup Campus"
+categories: ["Digital", "Alumni", "Semua", "Update", "Pengajar"]
 slug: "yuk-intip-kamus-besar-ui-ux-design"
 ---
+
 ![(Kamus besar ui/ux design)](/uploads/2022/12/kamus-besar-ui-ux-design-1024x449.png)
 
 STARTUPCAMPUS.ID– Memesan makanan secara online sudah menjadi hal lumrah, namun kamu dan temanmu bisa saja memilih aplikasi online food yang berbeda-beda. Hal ini dikarenakan kesan setiap orang bisa beragam saat menggunakan suatu aplikasi, seperti halnya kepuasan kamu dan temanmu berbeda-beda pada aplikasi online food tertentu. Nah, pengalaman pengguna dalam menggunakan layanan dari aplikasi inilah yang disebut dengan User Experience (UX). 

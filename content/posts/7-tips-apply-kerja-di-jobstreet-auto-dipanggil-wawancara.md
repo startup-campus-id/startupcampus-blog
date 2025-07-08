@@ -1,8 +1,11 @@
 ---
 title: "7 Tips Apply Kerja di JobStreet, Auto Dipanggil Wawancara!"
-date: 2024-06-07T09:10:49
+date: 2023-05-26T10:02:31
+author: "hal diah"
+categories: ["Digital", "Alumni", "Semua", "Update", "Pengajar"]
 slug: "7-tips-apply-kerja-di-jobstreet-auto-dipanggil-wawancara"
 ---
+
 JobStreet merupakan salah satu platform pencarian pekerjaan yang sangat populer dan terpercaya di Indonesia. Hingga saat ini, JobStreet sudah berhasil menghubungkan jutaan pencari kerja dengan beragam perusahaan yang ada di wilayah Indonesia, Malaysia, Singapura, Filipina, hingga Vietnam. 
 
 Namun, seiring dengan popularitasnya, persaingan mendapatkan pekerjaan di JobStreet juga semakin tinggi. Untuk berhasil mendapatkan pekerjaan yang diidamkan, kamu perlu memiliki strategi yang efektif dalam memaksimalkan penggunaan platform ini. 

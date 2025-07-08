@@ -1,8 +1,11 @@
 ---
 title: "Jenis Analisis Data dan Manfaatnya Sehari-hari"
-date: 2024-07-14T09:10:49
+date: 2023-06-10T08:46:50
+author: "hal diah"
+categories: ["Digital", "Alumni", "Semua", "Update", "Pengajar"]
 slug: "jenis-analisis-data-dan-manfaatnya-sehari-hari"
 ---
+
 Setiap hari, kumpulan data yang dihasilkan dari berbagai sumber seperti media sosial, transaksi bisnis, dan perangkat mobile terus meningkat dengan cepat. Namun, data itu sendiri tidak bermanfaat jika tidak dianalisis dengan baik. Inilah mengapa analisis data memiliki peran yang sangat penting dalam berbagai bidang industri. Melalui artikel ini, kami akan membahas berbagai jenis analisis data dan manfaatnya di berbagai bidang. Yuk simak selengkapnya!
 ## **Apa itu Analisis Data?**
 

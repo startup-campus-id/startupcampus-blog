@@ -1,8 +1,11 @@
 ---
 title: "Apa Itu Passion dan 5 Cara Menemukannya dalam Karier"
-date: 2025-03-01T09:10:49
+date: 2023-06-16T11:53:54
+author: "hal diah"
+categories: ["Digital", "Alumni", "Semua", "Update", "Pengajar"]
 slug: "apa-itu-passion-dan-5-cara-menemukannya-dalam-karier"
 ---
+
 Pernahkah kamu merasa terjebak dalam rutinitas yang membosankan dan tidak semangat saat bekerja? Atau mungkin kamu belum menemukan arah yang jelas dalam karirmu?
 
 Jika iya, maka kamu berada di tempat yang tepat! Artikel ini membahas 5 langkah cara menemukan passion dalam karir, perbedaannya dengan hobi dan bakat, serta bagaimana passion bisa dibentuk melalui mindset yang tepat. Yuk, simak selengkapnya!

@@ -1,8 +1,11 @@
 ---
 title: "Panduan Ringkas Memahami Perbedaan Data Analyst dan Data Analytics"
-date: 2024-06-02T09:10:49
+date: 2023-07-07T11:10:03
+author: "hal diah"
+categories: ["Digital", "Alumni", "Semua", "Update", "Pengajar"]
 slug: "perbedaan-data-analyst-dan-data-analytics"
 ---
+
 Data menjadi aset yang sangat berharga bagi perusahaan. Data tersebut dapat memberikan wawasan dan pengetahuan yang mendalam mengenai pelanggan, tren pasar, dan pengambilan keputusan yang lebih cerdas. 
 
 Dalam rangka mengelola dan menganalisis data ini, perusahaan membutuhkan profesional yang terampil dalam bidang data, seperti Data Analyst dan Data Analytics. 

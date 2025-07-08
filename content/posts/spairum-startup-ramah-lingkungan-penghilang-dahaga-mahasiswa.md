@@ -1,8 +1,11 @@
 ---
 title: "SPAIRUM: Startup Ramah Lingkungan, Penghilang Dahaga Mahasiswa!"
-date: 2024-03-25T09:10:49
+date: 2023-01-26T03:46:55
+author: "Startup Campus"
+categories: ["Digital", "Alumni", "Semua", "Update", "Pengajar"]
 slug: "spairum-startup-ramah-lingkungan-penghilang-dahaga-mahasiswa"
 ---
+
 ![(Minum air kemasan )](/uploads/2023/01/Untitled-design-4.png)
 
 Kegiatan perkuliahan yang padat pasti membuat teman-teman merasa cepat lelah. Karena itu, air minum adalah salah satu bawaan wajib agar tetap fokus kegiatan sehari-hari. Untuk mencari yang praktis, pasti banyak yang memilih untuk membeli air minum kemasan di kampus. Sayangnya, ini berdampak pada banyaknya sampah plastik di lingkungan kampus.

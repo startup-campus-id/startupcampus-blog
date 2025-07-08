@@ -1,8 +1,11 @@
 ---
 title: "Cara Menjadi Digital Marketer Menurut Startup Campus di ICCN Bootcamp Career 2024"
-date: 2025-03-21T09:10:49
+date: 2024-02-23T13:47:16
+author: "Startup Campus"
+categories: ["Digital", "Alumni", "Semua", "Update", "Pengajar"]
 slug: "cara-menjadi-digital-marketer-menurut-startup-campus-di-iccn-bootcamp-career-2024"
 ---
+
 Digital marketing bukan lagi hal yang baru bagi pegiat product and sales, namun perkembangan digital marketing setiap harinya pun tidak bisa dikendalikan dengan mudah. Selalu ada temuan tips dan trik baru yang bisa diterapkan sehari-hari.
 
 [Startup Campus](https://startupcampus.id/) pun diundang ke event bergengsi dari Indonesia Career Center Network yaitu event ICCN Bootcamp Career 2024 di bulan Februari ini. Acara tersebut menampilkan puluhan sesi menarik seputar dunia teknologi digital. Salah satu pembicaranya yaitu Halimah, mewakili Startup Campus yang membawakan materi mengenai langkah-langkah dan cara menjadi seorang digital marketer. Lalu bagaimana caranya menjadi seorang digital marketer ? Yuk simak artikel ini selengkapnya! 

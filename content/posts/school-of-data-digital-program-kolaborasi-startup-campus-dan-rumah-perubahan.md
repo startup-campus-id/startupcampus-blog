@@ -1,8 +1,11 @@
 ---
-title: "School of Data &amp; Digital: Program Kolaborasi Startup Campus dan Rumah Perubahan"
-date: 2025-02-24T09:10:49
+title: "School of Data & Digital: Program Kolaborasi Startup Campus dan Rumah Perubahan"
+date: 2024-04-16T06:52:35
+author: "Startup Campus"
+categories: ["Digital", "Alumni", "Semua", "Update", "Pengajar"]
 slug: "school-of-data-digital-program-kolaborasi-startup-campus-dan-rumah-perubahan"
 ---
+
 ## School of Data & Digital: Program Kolaborasi Startup Campus dan Rumah Perubahan
 
 Kebutuhan terhadap talenta di bidang saat ini sedang sangat tinggi. Dari Data Analyst, Data Engineer, hingga Data Scientist semuanya gencar dicari perusahaan. Tidak hanya di bidang teknologi, tidak hanya di perusahaan start up/rintisan. Oleh karena itu, Startup Campus menggandeng Rumah Perubahan untuk berkolaborasi dalam program School of Data & Digital.

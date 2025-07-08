@@ -1,8 +1,11 @@
 ---
 title: "Perbedaan Data Science dan Data Analyst : Mana yang Lebih Cocok Buat Kamu?"
-date: 2024-01-21T09:10:49
+date: 2024-01-26T06:40:35
+author: "Startup Campus"
+categories: ["Digital", "Alumni", "Semua", "Update", "Pengajar"]
 slug: "perbedaan-data-science-dan-data-analyst-mana-yang-lebih-cocok-buat-kamu"
 ---
+
 Data Science dan Data Analyst merupakan dua konsep yang sering kali dianggap sama, tetapi keduanya memiliki peran yang berbeda dalam dunia analisis data. Artikel ini akan menjelaskan secara sederhana tentang apa itu Data Science dan Data Analyst hingga implementasinya dalam dunia kerja. Yuk baca selengkapnya!
 
 ## 1. Apa itu Data Science?

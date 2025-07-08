@@ -1,8 +1,11 @@
 ---
 title: "7 Pelatihan Gratis Google AI dari Basic sampai Advance"
-date: 2024-11-10T09:10:49
+date: 2024-04-03T08:24:12
+author: "Startup Campus"
+categories: ["Digital", "Alumni", "Semua", "Update", "Pengajar"]
 slug: "7-pelatihan-gratis-google-ai-dari-basic-sampai-advance"
 ---
+
 Google, si raksasa teknologi, sekarang lagi baik hati banget nih karena menyediakan kesempatan bagi siapa aja yang penasaran dan pengen belajar AI dari nol, semuanya GRATIS! Yup, kamu gak salah dengar. Gak perlu keluar duit sepeser pun, dan gak usah khawatir kalau kamu gak punya latar belakang di bidang IT sekalipun. Yuk, kita bahas satu-satu tentang [Kursus AI](https://startupcampus.id/public-bootcamp/artificial-intelligence) gratis dari Google dibawah ini !
 
 Baca juga : [10 Web AI Gratis Yang Bisa Membantu Pekerjaan Sehari-hari!](https://startupcampus.id/blog/10-web-ai-gratis-yang-bisa-membantu-pekerjaan-sehari-hari/)

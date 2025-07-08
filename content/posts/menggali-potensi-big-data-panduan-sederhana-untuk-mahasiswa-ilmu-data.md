@@ -1,8 +1,11 @@
 ---
 title: "Menggali Potensi Big Data: Panduan Sederhana untuk Mahasiswa Ilmu Data"
-date: 2024-04-02T09:10:49
+date: 2023-12-08T03:52:41
+author: "Startup Campus"
+categories: ["Digital", "Alumni", "Semua", "Update", "Pengajar"]
 slug: "menggali-potensi-big-data-panduan-sederhana-untuk-mahasiswa-ilmu-data"
 ---
+
 ## Apa Itu Big Data?
 
 Big data adalah istilah yang digunakan untuk menggambarkan kumpulan data yang sangat besar dan kompleks, sehingga sulit untuk diproses menggunakan metode tradisional. Big data dapat terdiri dari berbagai jenis data, termasuk data terstruktur, semi-terstruktur, dan tidak terstruktur. Data terstruktur adalah data yang memiliki format yang jelas dan konsisten, seperti data dalam database. Data semi-terstruktur adalah data yang memiliki format yang tidak konsisten, seperti data dalam file teks. Data tidak terstruktur adalah data yang tidak memiliki format, seperti data dalam media sosial.

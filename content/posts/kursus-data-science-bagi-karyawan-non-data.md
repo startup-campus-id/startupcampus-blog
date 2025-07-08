@@ -1,8 +1,11 @@
 ---
-title: "Kursus Data Science Bagi Karyawan Non Data"
-date: 2023-10-02T09:10:49
+title: "Kursus Data Science Bagi Karyawan “Non Data”"
+date: 2024-02-07T05:40:54
+author: "Startup Campus"
+categories: ["Digital", "Alumni", "Semua", "Update", "Pengajar"]
 slug: "kursus-data-science-bagi-karyawan-non-data"
 ---
+
 Data science saat ini banyak dikenal sebagai pekerjaan yang populer seiring berkembangnya era digital. Data dianggap sebagai sebuah komoditas yang seksi untuk diolah menjadi terobosan besar seperti: elektabilitas capres di Pemilu, isu transformasi pendidikan, tingkat inflasi negara, hingga munculnya beragam tools AI yang membantu keseharian. Data menjadi industri yang diminati, dapat dilihat dengan bermunculan kelas [pelatihan di bidang data](https://startupcampus.id/public-bootcamp/data-science), buku-buku ilmu data, hingga [komunitas pecinta data](https://docs.google.com/forms/d/e/1FAIpQLScmBmRYBQB8QCFcrkp21lyrDnwgkLODYvXHVjq6Za6EzVUGiQ/viewform).
 
 ![()](https://lh7-us.googleusercontent.com/UGSpoXWyruwaZWQ3X28ueD3D68Vy8BeZ0pJgMF2XoXobxsEiPGMweVtC0guwm_2bHN9v-P9onYNtKDRilVkTOpStlve2tONPLxiBOv3pnGIvxNh2Tli2jr-t18LMTLzaX4UkHLhxXbwwWoiKNhPcGn4)

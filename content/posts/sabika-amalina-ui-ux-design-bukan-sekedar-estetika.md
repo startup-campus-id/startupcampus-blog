@@ -1,8 +1,11 @@
 ---
 title: "Sabika Amalina: UI/UX Design Bukan Sekedar Estetika!"
-date: 2023-08-23T09:10:49
+date: 2023-03-01T01:46:11
+author: "Startup Campus"
+categories: ["Digital", "Alumni", "Semua", "Update", "Pengajar"]
 slug: "sabika-amalina-ui-ux-design-bukan-sekedar-estetika"
 ---
+
 UI/UX Design biasanya tidak disebut pertama kali ketika ada pertanyaan soal bidang karier impian. Tetapi, hal ini tidak berlaku untuk Sabika Amalina. Wanita lulusan jurusan Informatika ini sudah memiliki gambaran career planning sejak mengenal mata pelajaran komputer di bangku Sekolah Menengah Pertama. Berbeda dengan teman-teman lainnya yang lebih menyukai pelajaran Matematika, Ilmu Sosial, atau Bahasa, Sabika memililih mata pelajaran komputer sebagai favoritnya. Siapa sangka, itu menjadi bibit lahirnya seorang Product Researcher handal di usia mudanya!
 
 ## Dari custom blogspot hingga magang di GOJEK

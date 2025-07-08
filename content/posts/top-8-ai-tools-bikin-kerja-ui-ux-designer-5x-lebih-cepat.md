@@ -1,8 +1,11 @@
 ---
 title: "Top 8 AI Tools Bikin Kerja UI/UX Designer 5x Lebih Cepat"
-date: 2024-11-15T09:10:49
+date: 2023-06-15T08:05:06
+author: "Startup Campus"
+categories: ["Digital", "Alumni", "Semua", "Update", "Pengajar"]
 slug: "top-8-ai-tools-bikin-kerja-ui-ux-designer-5x-lebih-cepat"
 ---
+
 Kecerdasan Buatan atau Artificial Intelligence (AI) telah membawa dampak besar pada berbagai sektor, termasuk dalam bidang design User Interface (UI) dan User Experience (UX). Dengan memanfaatkan berbagai tools AI, seorang UI/UX designer dapat menciptakan desain yang lebih baik dan menghemat waktu secara signifikan. 
 
 Nah, jika kamu tertarik, yuk simak lebih lanjut tentang Top 8 AI Tools yang bisa mempercepat kinerja designer UI/UX hingga 5 kali lipat!

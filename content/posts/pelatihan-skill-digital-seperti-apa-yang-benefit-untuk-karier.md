@@ -1,8 +1,11 @@
 ---
 title: "Pelatihan Skill Digital Seperti Apa yang Benefit untuk Karier?"
-date: 2024-05-23T09:10:49
+date: 2023-02-17T08:03:22
+author: "Startup Campus"
+categories: ["Digital", "Alumni", "Semua", "Update", "Pengajar"]
 slug: "pelatihan-skill-digital-seperti-apa-yang-benefit-untuk-karier"
 ---
+
 Di tengah ramainya isu resesi dan meningkatnya angka pengangguran di Indonesia, persaingan job seekers dalam mencari kerja juga makin sengit. Dari banyaknya lowongan kerja, bidang atau industri yang paling banyak menarik peminat adalah industri digital. Menurut riset JobStreet yang dikutip dari [KataData.co.id](https://katadata.co.id/desysetyowati/digital/62270e763396c/lowongan-kerja-talenta-digital-di-indonesia-melonjak-hingga-66), permintaan perusahaan akan tenaga IT dan digital meningkat 34% di akhir tahun 2021 dan terus meningkat hingga sekarang.
 
 Sayangnya, dengan persaingan yang sengit, lowongan kerja di bidang tersebut belum cukup untuk melingkupi banyaknya angka pengangguran di Indonesia saat ini. Bagaimana tidak? Menurut penelitian Bank Dunia dan McKinsey, diketahui bahwa hingga tahun 2030 nanti, Indonesia membutuhkan total 9 juta talenta digital atau sekitar 600 ribu orang setiap tahun. Sedangkan, ada sekitar 1 juta lulusan S1/diploma pengangguran tiap tahunnya, dan angka ini harus bersaing juga dengan job seeker lain yang sudah memiliki pengalaman kerja. Sebuah kompetisi yang sulit, bukan? Problema ini ada namanya loh, yaitu skill gap.
