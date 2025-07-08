@@ -4,9 +4,8 @@ date: 2024-11-21T10:49:51
 author: "Startup Campus"
 categories: ["Digital", "Update"]
 slug: "kenapa-sertifikasi-bnsp-wajib-kamu-punya-mahasiswa-wajib-baca"
+featured_image: "/images/b108815964de.jpg"
 ---
-
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXftVNYrz9VIXAIVBHntoHzbs18FKI3LW1wC9UzYTyLutqlCRoVxDLt6p6HuBrCoKsP56GGIza1be6B40Igm9l_hv-Mq-N_ccQrgnAWx-A5fMgSF_Gt_93MbrfV2bMcWqu57t76FRQ?key=_q5KsUcOqYmsQVoC7Q_A4meY)
 
 **Kuliah 4 Tahun, Tapi Masih Sulit Dapat Kerja?**
 

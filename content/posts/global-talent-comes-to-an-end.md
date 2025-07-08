@@ -4,9 +4,8 @@ date: 2025-01-28T09:55:48
 author: "Startup Campus"
 categories: ["Update"]
 slug: "global-talent-comes-to-an-end"
+featured_image: "/images/29a8755d4813.jpg"
 ---
-
-![](https://www.startupcampus.id/blog/wp-content/uploads/2025/01/6107427080003239924-1-576x1024.jpg)
 
 Tidak terasa bahwa AIESEC in UPNVY akan segera melakukan pergantian periode dan setahun telah berjalan selama 2024 dengan penuh tantangan dan hari-hari yang selalu membangun dan menginspirasi bagi para member-membernya, begitu pun dilalui dengan program yang ditawarkan berupa Global Talent atau magang internasional.
 

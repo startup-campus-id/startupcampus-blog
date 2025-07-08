@@ -2,8 +2,9 @@
 title: "School of Data & Digital: Program Kolaborasi Startup Campus dan Rumah Perubahan"
 date: 2024-04-16T06:52:35
 author: "Startup Campus"
-categories: ["Digital", "Alumni", "Semua", "Update", "Pengajar"]
+categories: ["Update"]
 slug: "school-of-data-digital-program-kolaborasi-startup-campus-dan-rumah-perubahan"
+featured_image: "/images/a070564f56a6.jpg"
 ---
 
 ## School of Data & Digital: Program Kolaborasi Startup Campus dan Rumah Perubahan

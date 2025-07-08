@@ -4,9 +4,8 @@ date: 2024-10-09T04:53:43
 author: "Startup Campus"
 categories: ["Update"]
 slug: "transformasi-digital-menanti-bergabunglah-dengan-aiesec-future-leaders-untuk-ciptakan-masa-depan-kreatif"
+featured_image: "/images/40872ba7c2ba.jpg"
 ---
-
-![ meja](https://www.startupcampus.id/blog/wp-content/uploads/2024/10/pexels-pixabay-356056.jpg)
 
 **Yogykarta, 8 Oktober 2024** – Di era digital yang terus berkembang, tantangan besar muncul bagi generasi muda. Banyak dari mereka merasa kesulitan untuk menemukan arah dan memanfaatkan potensi kreatif mereka di tengah kemajuan teknologi yang cepat. Kurangnya pengetahuan tentang tren digital dan keterampilan yang relevan menghambat mereka untuk berkontribusi secara efektif dalam industri yang semakin kompetitif.
 

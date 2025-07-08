@@ -2,8 +2,9 @@
 title: "Cara Menjadi Digital Marketer Menurut Startup Campus di ICCN Bootcamp Career 2024"
 date: 2024-02-23T13:47:16
 author: "Startup Campus"
-categories: ["Digital", "Alumni", "Semua", "Update", "Pengajar"]
+categories: ["Pengajar", "Semua"]
 slug: "cara-menjadi-digital-marketer-menurut-startup-campus-di-iccn-bootcamp-career-2024"
+featured_image: "/images/25d9b154925e.jpg"
 ---
 
 Digital marketing bukan lagi hal yang baru bagi pegiat product and sales, namun perkembangan digital marketing setiap harinya pun tidak bisa dikendalikan dengan mudah. Selalu ada temuan tips dan trik baru yang bisa diterapkan sehari-hari.

@@ -4,9 +4,8 @@ date: 2024-10-15T10:11:37
 author: "Startup Campus"
 categories: ["Update"]
 slug: "magang-di-luar-negeriglobal-talent-jawabannya"
+featured_image: "/images/4ddc3619343c.jpg"
 ---
-
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcmNAX8b0KoNi0MaVz6yi8bBeRO5NKq_tcdyeXXL-GXaWKCsXXCl_udu1yeqAS-CO4oCGFNiUiqRqi4LBMfc2-PPE7QbcIS_Hlbuq_C_Oun2avEiqcoDs6WTV9gIBaTk54o4IOkPEPzVTALFHseC59FHJRzcGllhk3vdXsIKkIiOjfpcxs8pg?key=wwlgO1Uxqi3BuJQLP3r7MQ)
 
 **HOY AIESEC!**
 

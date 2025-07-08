@@ -4,6 +4,7 @@ date: 2024-12-23T13:35:10
 author: "Startup Campus"
 categories: ["Semua"]
 slug: "afl-6-0-illuminating-the-future-of-creative-digitals-in-upnvy"
+featured_image: "/images/f8191191442b.jpg"
 ---
 
 **Yogyakarta, 22 December 2024**

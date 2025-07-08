@@ -2,7 +2,7 @@
 title: "Jenis Analisis Data dan Manfaatnya Sehari-hari"
 date: 2023-06-10T08:46:50
 author: "hal diah"
-categories: ["Digital", "Alumni", "Semua", "Update", "Pengajar"]
+categories: ["Semua"]
 slug: "jenis-analisis-data-dan-manfaatnya-sehari-hari"
 ---
 

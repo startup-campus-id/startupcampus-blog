@@ -2,7 +2,7 @@
 title: "7 Tips Apply Kerja di JobStreet, Auto Dipanggil Wawancara!"
 date: 2023-05-26T10:02:31
 author: "hal diah"
-categories: ["Digital", "Alumni", "Semua", "Update", "Pengajar"]
+categories: ["Semua"]
 slug: "7-tips-apply-kerja-di-jobstreet-auto-dipanggil-wawancara"
 ---
 

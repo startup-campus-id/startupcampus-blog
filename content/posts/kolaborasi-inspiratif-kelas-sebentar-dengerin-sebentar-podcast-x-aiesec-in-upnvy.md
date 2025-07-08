@@ -4,9 +4,8 @@ date: 2025-06-12T10:28:56
 author: "Startup Campus"
 categories: ["Update"]
 slug: "kolaborasi-inspiratif-kelas-sebentar-dengerin-sebentar-podcast-x-aiesec-in-upnvy"
+featured_image: "/images/d831814daefb.jpg"
 ---
-
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcMF9jVgNFZzfC2NBCxqj1tSQPv9kY-uD15xYplime3VqP40vTVHMFOCB5sb6dncpiHykKkjNeS_wpa6lHaLvqm1cJGxIF2N2AU07QgtBUy7rIyhZxXg39cy-bBu_3PYTUw3Lj9wCo8h2QlC4XJE5c?key=QRnS44lGs8dOCK9fVwTHEg)
 
 *It’s a wrap!*
 

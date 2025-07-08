@@ -4,9 +4,8 @@ date: 2024-11-13T13:46:18
 author: "Startup Campus"
 categories: ["Semua", "Update"]
 slug: "mau-customer-engagement-startup-kamu-meningkat-ikut-program-gratis-dari-ini"
+featured_image: "/images/2aea79acf79a.png"
 ---
-
-![](https://www.startupcampus.id/blog/wp-content/uploads/2024/11/REV-x-Startup-Campus-1-1024x536.png)
 
 Buat kamu yang punya startup, pasti tahu dong betapa pentingnya menjaga loyalitas pelanggan. Kalau pelanggan sudah beli produk kamu, tapi jarang balik lagi, itu bisa bikin bisnis kamu stuck. Nah, untuk itu, **customer engagement** adalah kunci utama yang harus banget diperhatikan.
 

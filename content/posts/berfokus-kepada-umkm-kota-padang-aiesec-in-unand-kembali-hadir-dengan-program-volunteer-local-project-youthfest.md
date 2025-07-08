@@ -2,8 +2,9 @@
 title: "Berfokus kepada UMKM Kota Padang, AIESEC in Unand kembali hadir dengan program volunteer Local Project “YouthFest”"
 date: 2023-10-03T13:38:58
 author: "Startup Campus"
-categories: ["Digital", "Alumni", "Semua", "Update", "Pengajar"]
+categories: ["Update"]
 slug: "berfokus-kepada-umkm-kota-padang-aiesec-in-unand-kembali-hadir-dengan-program-volunteer-local-project-youthfest"
+featured_image: "/images/0f0a418b2729.jpg"
 ---
 
 By Laura Tri Julisa - 18 Agustus 2023

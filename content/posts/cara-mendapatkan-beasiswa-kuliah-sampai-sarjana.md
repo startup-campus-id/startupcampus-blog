@@ -2,8 +2,9 @@
 title: "Cara Mendapatkan Beasiswa Kuliah Sampai Sarjana!"
 date: 2023-10-27T10:42:12
 author: "Startup Campus"
-categories: ["Digital", "Alumni", "Semua", "Update", "Pengajar"]
+categories: ["Digital"]
 slug: "cara-mendapatkan-beasiswa-kuliah-sampai-sarjana"
+featured_image: "/images/46d1789351ef.jpg"
 ---
 
 Pendidikan tinggi di Indonesia semakin mahal dari tahun ke tahun. Inflasi biaya pendidikan yang mencapai lebih dari 10% setiap tahunnya telah membuat biaya kuliah mencapai angka yang tak terjangkau bagi banyak orang. Jika kita melihat 20 tahun yang lalu, biaya kuliah atau SPP mungkin hanya sekitar 2-3 juta rupiah per semester. Namun, hari ini, biaya kuliah bisa mencapai angka 20-30 juta rupiah per semester, dan ini baru untuk tingkat sarjana atau S1, belum lagi jika melanjutkan ke S2 dan S3.

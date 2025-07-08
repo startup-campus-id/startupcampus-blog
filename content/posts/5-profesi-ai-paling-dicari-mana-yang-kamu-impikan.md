@@ -2,11 +2,10 @@
 title: "5 Profesi AI Paling Dicari, Mana Yang Kamu Impikan?"
 date: 2022-12-07T06:07:11
 author: "Startup Campus"
-categories: ["Digital", "Alumni", "Semua", "Update", "Pengajar"]
+categories: ["Semua"]
 slug: "5-profesi-ai-paling-dicari-mana-yang-kamu-impikan"
+featured_image: "/images/1a8bbca9796e.png"
 ---
-
-![(Profesi AI)](/uploads/2022/12/Profesi-Ai-1-1024x449.png)
 
 STARTUPCAMPUS.ID– Sebagai generasi muda, mendukung kemajuan teknologi dan belajar lebih banyak mengenai teknologi menjadi hak dan tanggung jawab kita, seperti misalnya menekuni bidang AI (Artificial Intelligence). Eksistensi AI atau kecerdasan buatan sebagai faktor penting yang mempengaruhi seluruh sektor kehidupan manusia membuat AI menjadi salah satu bidang pekerjaan yang paling dicari. 
 

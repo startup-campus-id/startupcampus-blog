@@ -4,9 +4,8 @@ date: 2025-05-08T03:10:03
 author: "Startup Campus"
 categories: ["Digital", "Semua"]
 slug: "sudah-punya-sertifikasi-bnsp-masih-susah-dapet-kerja"
+featured_image: "/images/d084275ddf6c.jpg"
 ---
-
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXewzUTJ1N8A9ffC40UR6FrkX_cF-SsQZul5Ruee2R92GUwVikKHsWRmVPt6VxYRSOxXyPoto4uc2M3W06MVZa_K_uo9Fslw9_GThAOfqU6_zWLf1fDWZ9pW9EYPb3-Y7G6PX9dJ-w?key=BcxOVagKvLiAKlehcQYLiCt9)
 
 Bukan rahasia umum lagi kalau lapangan kerja di Indonesia masih sempit dan banyak penduduk Indonesia berstatus pengangguran. Dari **214,00 juta **penduduk usia kerja pada Februari 2024, sebanyak **149,38 juta **orang diantaranya merupakan angkatan kerja. Maka Tingkat Partisipasi Angkatan Kerja (TPAK) mencapai 69,80%. Sisanya mereka masih hidup bergantung keluarga, rekan, atau akhirnya menjadi beban negara.
 

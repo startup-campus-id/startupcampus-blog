@@ -2,8 +2,9 @@
 title: "Cara Menjadi UI/UX Designer untuk Pemula!"
 date: 2023-06-22T09:34:44
 author: "hal diah"
-categories: ["Digital", "Alumni", "Semua", "Update", "Pengajar"]
+categories: ["Digital"]
 slug: "cara-menjadi-ui-ux-designer-untuk-pemula"
+featured_image: "/images/d4ad99c07837.jpg"
 ---
 
 Seiring dengan maraknya bisnis dan perkembangan teknologi, bidang UI/UX Design semakin diminati oleh banyak perusahaan. Profesi ini menawarkan peluang karir yang menjanjikan, terutama bagi para pemula yang memiliki minat dan ketertarikan dalam menciptakan pengalaman pengguna yang menarik dan intuitif. 

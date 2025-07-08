@@ -4,9 +4,8 @@ date: 2024-05-26T10:18:40
 author: "Startup Campus"
 categories: ["Update"]
 slug: "volunteer-lokal-rasa-internasional-memang-ada"
+featured_image: "/images/3824ae437a8e.jpeg"
 ---
-
-![](https://www.startupcampus.id/blog/wp-content/uploads/2024/05/WhatsApp-Image-2024-05-26-at-17.29.22-576x1024.jpeg)
 
 AIESEC in UPN “Veteran” Yogyakarta hadir memberikan kesempatan bagi pemuda-pemudi di Yogyakarta untuk mendapatkan international exposure sekaligus meningkatkan softskill dan hardskill, melalui program Local Volunteer.
 

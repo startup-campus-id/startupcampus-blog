@@ -4,6 +4,7 @@ date: 2024-10-18T01:25:57
 author: "Startup Campus"
 categories: ["Digital", "Semua"]
 slug: "mengapa-harus-belajar-business-blueprint-dengan-anton-rifco"
+featured_image: "/images/dc15e58d4d97.png"
 ---
 
 Menjamurnya berbagai bisnis saat ini membuat persaingan di tiap industri semakin ketat. Ada bisnis kopi, dari harga 8 ribuan sampe ratusan ribu. Ada bisnis skincare, dari level maklon sampe punya pabrik sendiri. Ada bisnis clothing line, dari baju thrifting sampe desain sendiri. Semua industri saling terpicu menghasilkan produk terbaik sambil mencapai penjualan tertinggi. Ada yang gugur di tengah perang, ada yang mencoba rebranding, ada yang semakin berjaya.

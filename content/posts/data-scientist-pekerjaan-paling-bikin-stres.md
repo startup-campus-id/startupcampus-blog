@@ -2,8 +2,9 @@
 title: "Data Scientist Pekerjaan Paling Bikin Stres"
 date: 2024-03-14T08:37:51
 author: "Startup Campus"
-categories: ["Digital", "Alumni", "Semua", "Update", "Pengajar"]
+categories: ["Digital"]
 slug: "data-scientist-pekerjaan-paling-bikin-stres"
+featured_image: "/images/1770df1b7281.jpg"
 ---
 
 Data Scientist kini menjadi hangat diperbincangkan karena demand yang tinggi terutama di perusahaan IT atau startup. Data Scientist bahkan masuk kategori pekerjaan bergaji besar karena demand yang tinggi namun supplynya sedikit, alias masih belum banyak talenta data, terutama di Indonesia.

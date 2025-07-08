@@ -2,7 +2,7 @@
 title: "Studi Independen Tanpa Uang Saku? Gak Masalah"
 date: 2023-11-13T11:16:46
 author: "Startup Campus"
-categories: ["Digital", "Alumni", "Semua", "Update", "Pengajar"]
+categories: ["Digital"]
 slug: "studi-independen-tanpa-uang-saku-gak-masalah"
 ---
 

@@ -2,8 +2,9 @@
 title: "Lulus Manajemen Proyek di Startup Campus Berhasil Dapat Kerja Sesuai Impian!"
 date: 2024-02-29T12:45:56
 author: "Startup Campus"
-categories: ["Digital", "Alumni", "Semua", "Update", "Pengajar"]
+categories: ["Update"]
 slug: "lulus-manajemen-proyek-di-startup-campus-berhasil-dapat-kerja-sesuai-impian"
+featured_image: "/images/d7af847238fe.jpg"
 ---
 
 Program [Startup Campus](https://startupcampus.id/) Bersama Google Batch 2 sudah memasuki tahap akhir. Semua peserta sudah berhasil menyelesaikan [Kursus Manajemen Proyek](https://startupcampus.id/beasiswa/google/manajemen-proyek) di Coursera yang didistribusikan oleh [Google Career Certificate](https://grow.google/intl/id_id/certificates/). Para peserta hadir di sesi graduation pada 17 Januari 2024 yang lalu untuk saling memberi apresiasi atas kerja kerasnya dan melakukan refleksi apa saja yang sudah dicapai bersama.

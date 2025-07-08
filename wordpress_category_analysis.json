@@ -1,0 +1,1611 @@
+{
+  "wordpress_categories": {
+    "342": {
+      "name": "Alumni",
+      "slug": "alumni",
+      "count": 8
+    },
+    "343": {
+      "name": "Digital",
+      "slug": "digital",
+      "count": 58
+    },
+    "341": {
+      "name": "Pengajar",
+      "slug": "pengajar",
+      "count": 3
+    },
+    "1": {
+      "name": "Semua",
+      "slug": "semua",
+      "count": 69
+    },
+    "344": {
+      "name": "Update",
+      "slug": "update",
+      "count": 32
+    },
+    "2": {
+      "name": "Website Utama",
+      "slug": "website-utama",
+      "count": 0
+    }
+  },
+  "comparison_results": {
+    "discrepancies": [
+      {
+        "slug": "studi-independen-10x-lebih-baik-dari-magang",
+        "wordpress_categories": [
+          "Semua"
+        ],
+        "hugo_categories": [
+          "Digital",
+          "Alumni",
+          "Semua",
+          "Update",
+          "Pengajar"
+        ],
+        "missing_in_hugo": [],
+        "extra_in_hugo": [
+          "Update",
+          "Alumni",
+          "Pengajar",
+          "Digital"
+        ]
+      },
+      {
+        "slug": "mulai-journey-kalian-di-luar-negeri-gimana-sih-caranya",
+        "wordpress_categories": [
+          "Update"
+        ],
+        "hugo_categories": [
+          "Digital",
+          "Alumni",
+          "Semua",
+          "Update",
+          "Pengajar"
+        ],
+        "missing_in_hugo": [],
+        "extra_in_hugo": [
+          "Pengajar",
+          "Alumni",
+          "Semua",
+          "Digital"
+        ]
+      },
+      {
+        "slug": "school-of-data-digital-program-kolaborasi-startup-campus-dan-rumah-perubahan",
+        "wordpress_categories": [
+          "Update"
+        ],
+        "hugo_categories": [
+          "Digital",
+          "Alumni",
+          "Semua",
+          "Update",
+          "Pengajar"
+        ],
+        "missing_in_hugo": [],
+        "extra_in_hugo": [
+          "Pengajar",
+          "Alumni",
+          "Semua",
+          "Digital"
+        ]
+      },
+      {
+        "slug": "7-pelatihan-gratis-google-ai-dari-basic-sampai-advance",
+        "wordpress_categories": [
+          "Digital"
+        ],
+        "hugo_categories": [
+          "Digital",
+          "Alumni",
+          "Semua",
+          "Update",
+          "Pengajar"
+        ],
+        "missing_in_hugo": [],
+        "extra_in_hugo": [
+          "Update",
+          "Alumni",
+          "Semua",
+          "Pengajar"
+        ]
+      },
+      {
+        "slug": "rahasia-menjadi-freelancer-sukses-terungkap-di-bootcamp-ini",
+        "wordpress_categories": [
+          "Update"
+        ],
+        "hugo_categories": [
+          "Digital",
+          "Alumni",
+          "Semua",
+          "Update",
+          "Pengajar"
+        ],
+        "missing_in_hugo": [],
+        "extra_in_hugo": [
+          "Pengajar",
+          "Alumni",
+          "Semua",
+          "Digital"
+        ]
+      },
+      {
+        "slug": "visualisasi-datacuma-gambar-atau-ada-makna-lain",
+        "wordpress_categories": [
+          "Digital"
+        ],
+        "hugo_categories": [
+          "Digital",
+          "Alumni",
+          "Semua",
+          "Update",
+          "Pengajar"
+        ],
+        "missing_in_hugo": [],
+        "extra_in_hugo": [
+          "Update",
+          "Alumni",
+          "Semua",
+          "Pengajar"
+        ]
+      },
+      {
+        "slug": "data-scientist-pekerjaan-paling-bikin-stres",
+        "wordpress_categories": [
+          "Digital"
+        ],
+        "hugo_categories": [
+          "Digital",
+          "Alumni",
+          "Semua",
+          "Update",
+          "Pengajar"
+        ],
+        "missing_in_hugo": [],
+        "extra_in_hugo": [
+          "Update",
+          "Alumni",
+          "Semua",
+          "Pengajar"
+        ]
+      },
+      {
+        "slug": "cara-mendaftar-prakerja-lewat-hp-panduan-lengkap-dan-cepat",
+        "wordpress_categories": [
+          "Digital"
+        ],
+        "hugo_categories": [
+          "Digital",
+          "Alumni",
+          "Semua",
+          "Update",
+          "Pengajar"
+        ],
+        "missing_in_hugo": [],
+        "extra_in_hugo": [
+          "Update",
+          "Alumni",
+          "Semua",
+          "Pengajar"
+        ]
+      },
+      {
+        "slug": "lulus-manajemen-proyek-di-startup-campus-berhasil-dapat-kerja-sesuai-impian",
+        "wordpress_categories": [
+          "Update"
+        ],
+        "hugo_categories": [
+          "Digital",
+          "Alumni",
+          "Semua",
+          "Update",
+          "Pengajar"
+        ],
+        "missing_in_hugo": [],
+        "extra_in_hugo": [
+          "Pengajar",
+          "Alumni",
+          "Semua",
+          "Digital"
+        ]
+      },
+      {
+        "slug": "cara-menjadi-digital-marketer-menurut-startup-campus-di-iccn-bootcamp-career-2024",
+        "wordpress_categories": [
+          "Pengajar",
+          "Semua"
+        ],
+        "hugo_categories": [
+          "Digital",
+          "Alumni",
+          "Semua",
+          "Update",
+          "Pengajar"
+        ],
+        "missing_in_hugo": [],
+        "extra_in_hugo": [
+          "Update",
+          "Alumni",
+          "Digital"
+        ]
+      },
+      {
+        "slug": "gaji-data-scientist-bisa-mendekati-gaji-ceo",
+        "wordpress_categories": [
+          "Digital"
+        ],
+        "hugo_categories": [
+          "Digital",
+          "Alumni",
+          "Semua",
+          "Update",
+          "Pengajar"
+        ],
+        "missing_in_hugo": [],
+        "extra_in_hugo": [
+          "Update",
+          "Alumni",
+          "Semua",
+          "Pengajar"
+        ]
+      },
+      {
+        "slug": "kursus-data-science-bagi-karyawan-non-data",
+        "wordpress_categories": [
+          "Semua"
+        ],
+        "hugo_categories": [
+          "Digital",
+          "Alumni",
+          "Semua",
+          "Update",
+          "Pengajar"
+        ],
+        "missing_in_hugo": [],
+        "extra_in_hugo": [
+          "Update",
+          "Alumni",
+          "Pengajar",
+          "Digital"
+        ]
+      },
+      {
+        "slug": "menjadi-data-scientist-hanya-dalam-3-bulan-mungkin-gak-sih",
+        "wordpress_categories": [
+          "Digital",
+          "Semua"
+        ],
+        "hugo_categories": [
+          "Digital",
+          "Alumni",
+          "Semua",
+          "Update",
+          "Pengajar"
+        ],
+        "missing_in_hugo": [],
+        "extra_in_hugo": [
+          "Update",
+          "Alumni",
+          "Pengajar"
+        ]
+      },
+      {
+        "slug": "perbedaan-data-science-dan-data-analyst-mana-yang-lebih-cocok-buat-kamu",
+        "wordpress_categories": [
+          "Digital"
+        ],
+        "hugo_categories": [
+          "Digital",
+          "Alumni",
+          "Semua",
+          "Update",
+          "Pengajar"
+        ],
+        "missing_in_hugo": [],
+        "extra_in_hugo": [
+          "Update",
+          "Alumni",
+          "Semua",
+          "Pengajar"
+        ]
+      },
+      {
+        "slug": "13-perusahaan-ai-di-indonesia-yang-paling-menginspirasi",
+        "wordpress_categories": [
+          "Alumni"
+        ],
+        "hugo_categories": [
+          "Digital",
+          "Alumni",
+          "Semua",
+          "Update",
+          "Pengajar"
+        ],
+        "missing_in_hugo": [],
+        "extra_in_hugo": [
+          "Pengajar",
+          "Update",
+          "Semua",
+          "Digital"
+        ]
+      },
+      {
+        "slug": "empowering-tomorrows-leaders-aiesec-in-ugm-and-danone-operations-international-join-forces-in-the-pursuit-of-equality-and-inclusion",
+        "wordpress_categories": [
+          "Semua"
+        ],
+        "hugo_categories": [
+          "Digital",
+          "Alumni",
+          "Semua",
+          "Update",
+          "Pengajar"
+        ],
+        "missing_in_hugo": [],
+        "extra_in_hugo": [
+          "Update",
+          "Alumni",
+          "Pengajar",
+          "Digital"
+        ]
+      },
+      {
+        "slug": "transformasi-digital-di-indonesia-dipercepat-melalui-kolaborasi-dinas-pendidikan-dki-jakarta-dan-institut-digital-indonesia",
+        "wordpress_categories": [
+          "Semua"
+        ],
+        "hugo_categories": [
+          "Digital",
+          "Alumni",
+          "Semua",
+          "Update",
+          "Pengajar"
+        ],
+        "missing_in_hugo": [],
+        "extra_in_hugo": [
+          "Update",
+          "Alumni",
+          "Pengajar",
+          "Digital"
+        ]
+      },
+      {
+        "slug": "pentingnya-design-system-dalam-pengembangan-produk-digital",
+        "wordpress_categories": [
+          "Digital"
+        ],
+        "hugo_categories": [
+          "Digital",
+          "Alumni",
+          "Semua",
+          "Update",
+          "Pengajar"
+        ],
+        "missing_in_hugo": [],
+        "extra_in_hugo": [
+          "Update",
+          "Alumni",
+          "Semua",
+          "Pengajar"
+        ]
+      },
+      {
+        "slug": "8-tips-sukses-menjadi-seorang-ui-designer",
+        "wordpress_categories": [
+          "Digital",
+          "Semua"
+        ],
+        "hugo_categories": [
+          "Digital",
+          "Alumni",
+          "Semua",
+          "Update",
+          "Pengajar"
+        ],
+        "missing_in_hugo": [],
+        "extra_in_hugo": [
+          "Update",
+          "Alumni",
+          "Pengajar"
+        ]
+      },
+      {
+        "slug": "data-privacy-vs-data-protection-apa-perbedaannya",
+        "wordpress_categories": [
+          "Digital",
+          "Semua"
+        ],
+        "hugo_categories": [
+          "Digital",
+          "Alumni",
+          "Semua",
+          "Update",
+          "Pengajar"
+        ],
+        "missing_in_hugo": [],
+        "extra_in_hugo": [
+          "Update",
+          "Alumni",
+          "Pengajar"
+        ]
+      },
+      {
+        "slug": "menggali-potensi-big-data-panduan-sederhana-untuk-mahasiswa-ilmu-data",
+        "wordpress_categories": [
+          "Digital"
+        ],
+        "hugo_categories": [
+          "Digital",
+          "Alumni",
+          "Semua",
+          "Update",
+          "Pengajar"
+        ],
+        "missing_in_hugo": [],
+        "extra_in_hugo": [
+          "Update",
+          "Alumni",
+          "Semua",
+          "Pengajar"
+        ]
+      },
+      {
+        "slug": "generative-ai-memanfaatkan-chatgpt-dan-bard-untuk-riset-bisnismu",
+        "wordpress_categories": [
+          "Digital"
+        ],
+        "hugo_categories": [
+          "Digital",
+          "Alumni",
+          "Semua",
+          "Update",
+          "Pengajar"
+        ],
+        "missing_in_hugo": [],
+        "extra_in_hugo": [
+          "Update",
+          "Alumni",
+          "Semua",
+          "Pengajar"
+        ]
+      },
+      {
+        "slug": "salah-jurusan-bikin-kuliah-jadi-masalah",
+        "wordpress_categories": [
+          "Semua"
+        ],
+        "hugo_categories": [
+          "Digital",
+          "Alumni",
+          "Semua",
+          "Update",
+          "Pengajar"
+        ],
+        "missing_in_hugo": [],
+        "extra_in_hugo": [
+          "Update",
+          "Alumni",
+          "Pengajar",
+          "Digital"
+        ]
+      },
+      {
+        "slug": "5-pekerjaan-it-tanpa-koding",
+        "wordpress_categories": [
+          "Digital"
+        ],
+        "hugo_categories": [
+          "Digital",
+          "Alumni",
+          "Semua",
+          "Update",
+          "Pengajar"
+        ],
+        "missing_in_hugo": [],
+        "extra_in_hugo": [
+          "Update",
+          "Alumni",
+          "Semua",
+          "Pengajar"
+        ]
+      },
+      {
+        "slug": "studi-independen-tanpa-uang-saku-gak-masalah",
+        "wordpress_categories": [
+          "Digital"
+        ],
+        "hugo_categories": [
+          "Digital",
+          "Alumni",
+          "Semua",
+          "Update",
+          "Pengajar"
+        ],
+        "missing_in_hugo": [],
+        "extra_in_hugo": [
+          "Update",
+          "Alumni",
+          "Semua",
+          "Pengajar"
+        ]
+      },
+      {
+        "slug": "webinar-impact-circle-x-aiesec-in-unand-2023-menggali-potensi-ekonomi-dengan-youth-preneur",
+        "wordpress_categories": [
+          "Update"
+        ],
+        "hugo_categories": [
+          "Digital",
+          "Alumni",
+          "Semua",
+          "Update",
+          "Pengajar"
+        ],
+        "missing_in_hugo": [],
+        "extra_in_hugo": [
+          "Pengajar",
+          "Alumni",
+          "Semua",
+          "Digital"
+        ]
+      },
+      {
+        "slug": "cara-mendapatkan-beasiswa-kuliah-sampai-sarjana",
+        "wordpress_categories": [
+          "Digital"
+        ],
+        "hugo_categories": [
+          "Digital",
+          "Alumni",
+          "Semua",
+          "Update",
+          "Pengajar"
+        ],
+        "missing_in_hugo": [],
+        "extra_in_hugo": [
+          "Update",
+          "Alumni",
+          "Semua",
+          "Pengajar"
+        ]
+      },
+      {
+        "slug": "berfokus-kepada-umkm-kota-padang-aiesec-in-unand-kembali-hadir-dengan-program-volunteer-local-project-youthfest",
+        "wordpress_categories": [
+          "Update"
+        ],
+        "hugo_categories": [
+          "Digital",
+          "Alumni",
+          "Semua",
+          "Update",
+          "Pengajar"
+        ],
+        "missing_in_hugo": [],
+        "extra_in_hugo": [
+          "Pengajar",
+          "Alumni",
+          "Semua",
+          "Digital"
+        ]
+      },
+      {
+        "slug": "9-bootcamp-terbaik-di-indonesia-2023",
+        "wordpress_categories": [
+          "Digital"
+        ],
+        "hugo_categories": [
+          "Digital",
+          "Alumni",
+          "Semua",
+          "Update",
+          "Pengajar"
+        ],
+        "missing_in_hugo": [],
+        "extra_in_hugo": [
+          "Update",
+          "Alumni",
+          "Semua",
+          "Pengajar"
+        ]
+      },
+      {
+        "slug": "discovering-youths-x-factor-and-building-resilience-with-aiesec-in-ugm",
+        "wordpress_categories": [
+          "Update"
+        ],
+        "hugo_categories": [
+          "Digital",
+          "Alumni",
+          "Semua",
+          "Update",
+          "Pengajar"
+        ],
+        "missing_in_hugo": [],
+        "extra_in_hugo": [
+          "Pengajar",
+          "Alumni",
+          "Semua",
+          "Digital"
+        ]
+      },
+      {
+        "slug": "rekomendasi-pelatihan-prakerja-yang-mudah-dan-cepat-selesai-2023",
+        "wordpress_categories": [
+          "Digital"
+        ],
+        "hugo_categories": [
+          "Digital",
+          "Alumni",
+          "Semua",
+          "Update",
+          "Pengajar"
+        ],
+        "missing_in_hugo": [],
+        "extra_in_hugo": [
+          "Update",
+          "Alumni",
+          "Semua",
+          "Pengajar"
+        ]
+      },
+      {
+        "slug": "panduan-lengkap-sukses-wawancara-kerja",
+        "wordpress_categories": [
+          "Digital"
+        ],
+        "hugo_categories": [
+          "Digital",
+          "Alumni",
+          "Semua",
+          "Update",
+          "Pengajar"
+        ],
+        "missing_in_hugo": [],
+        "extra_in_hugo": [
+          "Update",
+          "Alumni",
+          "Semua",
+          "Pengajar"
+        ]
+      },
+      {
+        "slug": "10-side-hustle-paling-mudah-menjanjikan",
+        "wordpress_categories": [
+          "Digital"
+        ],
+        "hugo_categories": [
+          "Digital",
+          "Alumni",
+          "Semua",
+          "Update",
+          "Pengajar"
+        ],
+        "missing_in_hugo": [],
+        "extra_in_hugo": [
+          "Update",
+          "Alumni",
+          "Semua",
+          "Pengajar"
+        ]
+      },
+      {
+        "slug": "kerja-remote-adalah-pengertian-gaji-contoh-dan-cara-mendapatkannya",
+        "wordpress_categories": [
+          "Digital"
+        ],
+        "hugo_categories": [
+          "Digital",
+          "Alumni",
+          "Semua",
+          "Update",
+          "Pengajar"
+        ],
+        "missing_in_hugo": [],
+        "extra_in_hugo": [
+          "Update",
+          "Alumni",
+          "Semua",
+          "Pengajar"
+        ]
+      },
+      {
+        "slug": "perbedaan-data-analyst-dan-data-analytics",
+        "wordpress_categories": [
+          "Digital"
+        ],
+        "hugo_categories": [
+          "Digital",
+          "Alumni",
+          "Semua",
+          "Update",
+          "Pengajar"
+        ],
+        "missing_in_hugo": [],
+        "extra_in_hugo": [
+          "Update",
+          "Alumni",
+          "Semua",
+          "Pengajar"
+        ]
+      },
+      {
+        "slug": "psikologi-warna-dalam-desain-interface",
+        "wordpress_categories": [
+          "Digital"
+        ],
+        "hugo_categories": [
+          "Digital",
+          "Alumni",
+          "Semua",
+          "Update",
+          "Pengajar"
+        ],
+        "missing_in_hugo": [],
+        "extra_in_hugo": [
+          "Update",
+          "Alumni",
+          "Semua",
+          "Pengajar"
+        ]
+      },
+      {
+        "slug": "8-buku-ui-ux-design-yang-wajib-dibaca-oleh-pemula",
+        "wordpress_categories": [
+          "Digital"
+        ],
+        "hugo_categories": [
+          "Digital",
+          "Alumni",
+          "Semua",
+          "Update",
+          "Pengajar"
+        ],
+        "missing_in_hugo": [],
+        "extra_in_hugo": [
+          "Update",
+          "Alumni",
+          "Semua",
+          "Pengajar"
+        ]
+      },
+      {
+        "slug": "cara-menjadi-ui-ux-designer-untuk-pemula",
+        "wordpress_categories": [
+          "Digital"
+        ],
+        "hugo_categories": [
+          "Digital",
+          "Alumni",
+          "Semua",
+          "Update",
+          "Pengajar"
+        ],
+        "missing_in_hugo": [],
+        "extra_in_hugo": [
+          "Update",
+          "Alumni",
+          "Semua",
+          "Pengajar"
+        ]
+      },
+      {
+        "slug": "apa-itu-passion-dan-5-cara-menemukannya-dalam-karier",
+        "wordpress_categories": [
+          "Digital"
+        ],
+        "hugo_categories": [
+          "Digital",
+          "Alumni",
+          "Semua",
+          "Update",
+          "Pengajar"
+        ],
+        "missing_in_hugo": [],
+        "extra_in_hugo": [
+          "Update",
+          "Alumni",
+          "Semua",
+          "Pengajar"
+        ]
+      },
+      {
+        "slug": "top-8-ai-tools-bikin-kerja-ui-ux-designer-5x-lebih-cepat",
+        "wordpress_categories": [
+          "Digital"
+        ],
+        "hugo_categories": [
+          "Digital",
+          "Alumni",
+          "Semua",
+          "Update",
+          "Pengajar"
+        ],
+        "missing_in_hugo": [],
+        "extra_in_hugo": [
+          "Update",
+          "Alumni",
+          "Semua",
+          "Pengajar"
+        ]
+      },
+      {
+        "slug": "jenis-analisis-data-dan-manfaatnya-sehari-hari",
+        "wordpress_categories": [
+          "Semua"
+        ],
+        "hugo_categories": [
+          "Digital",
+          "Alumni",
+          "Semua",
+          "Update",
+          "Pengajar"
+        ],
+        "missing_in_hugo": [],
+        "extra_in_hugo": [
+          "Update",
+          "Alumni",
+          "Pengajar",
+          "Digital"
+        ]
+      },
+      {
+        "slug": "10-web-ai-gratis-yang-bisa-membantu-pekerjaan-sehari-hari",
+        "wordpress_categories": [
+          "Semua"
+        ],
+        "hugo_categories": [
+          "Digital",
+          "Alumni",
+          "Semua",
+          "Update",
+          "Pengajar"
+        ],
+        "missing_in_hugo": [],
+        "extra_in_hugo": [
+          "Update",
+          "Alumni",
+          "Pengajar",
+          "Digital"
+        ]
+      },
+      {
+        "slug": "7-tips-apply-kerja-di-jobstreet-auto-dipanggil-wawancara",
+        "wordpress_categories": [
+          "Semua"
+        ],
+        "hugo_categories": [
+          "Digital",
+          "Alumni",
+          "Semua",
+          "Update",
+          "Pengajar"
+        ],
+        "missing_in_hugo": [],
+        "extra_in_hugo": [
+          "Update",
+          "Alumni",
+          "Pengajar",
+          "Digital"
+        ]
+      },
+      {
+        "slug": "cara-membuat-portofolio-di-hp-gratis",
+        "wordpress_categories": [
+          "Semua"
+        ],
+        "hugo_categories": [
+          "Digital",
+          "Alumni",
+          "Semua",
+          "Update",
+          "Pengajar"
+        ],
+        "missing_in_hugo": [],
+        "extra_in_hugo": [
+          "Update",
+          "Alumni",
+          "Pengajar",
+          "Digital"
+        ]
+      },
+      {
+        "slug": "cara-memulai-usaha-startup-sejak-dini",
+        "wordpress_categories": [
+          "Semua"
+        ],
+        "hugo_categories": [
+          "Digital",
+          "Alumni",
+          "Semua",
+          "Update",
+          "Pengajar"
+        ],
+        "missing_in_hugo": [],
+        "extra_in_hugo": [
+          "Update",
+          "Alumni",
+          "Pengajar",
+          "Digital"
+        ]
+      },
+      {
+        "slug": "alumni-ambassador-startup-campus-beri-insentif-dan-benefit-berlimpah",
+        "wordpress_categories": [
+          "Semua",
+          "Update"
+        ],
+        "hugo_categories": [
+          "Digital",
+          "Alumni",
+          "Semua",
+          "Update",
+          "Pengajar"
+        ],
+        "missing_in_hugo": [],
+        "extra_in_hugo": [
+          "Alumni",
+          "Pengajar",
+          "Digital"
+        ]
+      },
+      {
+        "slug": "cara-daftar-prakerja-2023-online-mudah-dan-cepat",
+        "wordpress_categories": [
+          "Semua"
+        ],
+        "hugo_categories": [
+          "Digital",
+          "Alumni",
+          "Semua",
+          "Update",
+          "Pengajar"
+        ],
+        "missing_in_hugo": [],
+        "extra_in_hugo": [
+          "Update",
+          "Alumni",
+          "Pengajar",
+          "Digital"
+        ]
+      },
+      {
+        "slug": "sabika-amalina-ui-ux-design-bukan-sekedar-estetika",
+        "wordpress_categories": [
+          "Pengajar",
+          "Semua"
+        ],
+        "hugo_categories": [
+          "Digital",
+          "Alumni",
+          "Semua",
+          "Update",
+          "Pengajar"
+        ],
+        "missing_in_hugo": [],
+        "extra_in_hugo": [
+          "Update",
+          "Alumni",
+          "Digital"
+        ]
+      },
+      {
+        "slug": "pemerataan-pendidikan-di-indonesia-timur-melalui-belajarsekaligusberbagi",
+        "wordpress_categories": [
+          "Semua"
+        ],
+        "hugo_categories": [
+          "Digital",
+          "Alumni",
+          "Semua",
+          "Update",
+          "Pengajar"
+        ],
+        "missing_in_hugo": [],
+        "extra_in_hugo": [
+          "Update",
+          "Alumni",
+          "Pengajar",
+          "Digital"
+        ]
+      },
+      {
+        "slug": "pelatihan-skill-digital-seperti-apa-yang-benefit-untuk-karier",
+        "wordpress_categories": [
+          "Semua"
+        ],
+        "hugo_categories": [
+          "Digital",
+          "Alumni",
+          "Semua",
+          "Update",
+          "Pengajar"
+        ],
+        "missing_in_hugo": [],
+        "extra_in_hugo": [
+          "Update",
+          "Alumni",
+          "Pengajar",
+          "Digital"
+        ]
+      },
+      {
+        "slug": "civilarch-dari-kuliah-teknik-sipil-sampai-bisa-bikin-project-riil",
+        "wordpress_categories": [
+          "Alumni",
+          "Semua"
+        ],
+        "hugo_categories": [
+          "Digital",
+          "Alumni",
+          "Semua",
+          "Update",
+          "Pengajar"
+        ],
+        "missing_in_hugo": [],
+        "extra_in_hugo": [
+          "Update",
+          "Pengajar",
+          "Digital"
+        ]
+      },
+      {
+        "slug": "organotani-platform-b2b-unik-untuk-bantu-petani-organik",
+        "wordpress_categories": [
+          "Alumni",
+          "Semua"
+        ],
+        "hugo_categories": [
+          "Digital",
+          "Alumni",
+          "Semua",
+          "Update",
+          "Pengajar"
+        ],
+        "missing_in_hugo": [],
+        "extra_in_hugo": [
+          "Update",
+          "Pengajar",
+          "Digital"
+        ]
+      },
+      {
+        "slug": "lesq-bimbel-untuk-mahasiswa-yang-butuh-waktu-belajar-extra",
+        "wordpress_categories": [
+          "Alumni",
+          "Semua"
+        ],
+        "hugo_categories": [
+          "Digital",
+          "Alumni",
+          "Semua",
+          "Update",
+          "Pengajar"
+        ],
+        "missing_in_hugo": [],
+        "extra_in_hugo": [
+          "Update",
+          "Pengajar",
+          "Digital"
+        ]
+      },
+      {
+        "slug": "spairum-startup-ramah-lingkungan-penghilang-dahaga-mahasiswa",
+        "wordpress_categories": [
+          "Alumni",
+          "Semua"
+        ],
+        "hugo_categories": [
+          "Digital",
+          "Alumni",
+          "Semua",
+          "Update",
+          "Pengajar"
+        ],
+        "missing_in_hugo": [],
+        "extra_in_hugo": [
+          "Update",
+          "Pengajar",
+          "Digital"
+        ]
+      },
+      {
+        "slug": "siap-kerja-di-bidang-it-dengan-program-beasiswa-google-gratis",
+        "wordpress_categories": [
+          "Semua",
+          "Update"
+        ],
+        "hugo_categories": [
+          "Digital",
+          "Alumni",
+          "Semua",
+          "Update",
+          "Pengajar"
+        ],
+        "missing_in_hugo": [],
+        "extra_in_hugo": [
+          "Alumni",
+          "Pengajar",
+          "Digital"
+        ]
+      },
+      {
+        "slug": "salah-jurusan-kuliah-jangan-nyesel-ada-aksel",
+        "wordpress_categories": [
+          "Alumni",
+          "Semua"
+        ],
+        "hugo_categories": [
+          "Digital",
+          "Alumni",
+          "Semua",
+          "Update",
+          "Pengajar"
+        ],
+        "missing_in_hugo": [],
+        "extra_in_hugo": [
+          "Update",
+          "Pengajar",
+          "Digital"
+        ]
+      },
+      {
+        "slug": "bootcamp-adalah-solusi-tepat-untuk-belajar-it-yang-menyenangkan",
+        "wordpress_categories": [
+          "Semua"
+        ],
+        "hugo_categories": [
+          "Digital",
+          "Alumni",
+          "Semua",
+          "Update",
+          "Pengajar"
+        ],
+        "missing_in_hugo": [],
+        "extra_in_hugo": [
+          "Update",
+          "Alumni",
+          "Pengajar",
+          "Digital"
+        ]
+      },
+      {
+        "slug": "untuk-kesuksesan-produk-product-manager-harus-ahli-di-semua-bidang",
+        "wordpress_categories": [
+          "Semua"
+        ],
+        "hugo_categories": [
+          "Digital",
+          "Alumni",
+          "Semua",
+          "Update",
+          "Pengajar"
+        ],
+        "missing_in_hugo": [],
+        "extra_in_hugo": [
+          "Update",
+          "Alumni",
+          "Pengajar",
+          "Digital"
+        ]
+      },
+      {
+        "slug": "5-startup-unik-di-indonesia-nomor-4-bikin-semangat-liburan",
+        "wordpress_categories": [
+          "Semua"
+        ],
+        "hugo_categories": [
+          "Digital",
+          "Alumni",
+          "Semua",
+          "Update",
+          "Pengajar"
+        ],
+        "missing_in_hugo": [],
+        "extra_in_hugo": [
+          "Update",
+          "Alumni",
+          "Pengajar",
+          "Digital"
+        ]
+      },
+      {
+        "slug": "yuk-intip-kamus-besar-ui-ux-design",
+        "wordpress_categories": [
+          "Semua"
+        ],
+        "hugo_categories": [
+          "Digital",
+          "Alumni",
+          "Semua",
+          "Update",
+          "Pengajar"
+        ],
+        "missing_in_hugo": [],
+        "extra_in_hugo": [
+          "Update",
+          "Alumni",
+          "Pengajar",
+          "Digital"
+        ]
+      },
+      {
+        "slug": "tingkatkan-dirimu-dengan-10-top-skills-ai",
+        "wordpress_categories": [
+          "Semua"
+        ],
+        "hugo_categories": [
+          "Digital",
+          "Alumni",
+          "Semua",
+          "Update",
+          "Pengajar"
+        ],
+        "missing_in_hugo": [],
+        "extra_in_hugo": [
+          "Update",
+          "Alumni",
+          "Pengajar",
+          "Digital"
+        ]
+      },
+      {
+        "slug": "yuk-intip-lingkungan-startup",
+        "wordpress_categories": [
+          "Semua"
+        ],
+        "hugo_categories": [
+          "Digital",
+          "Alumni",
+          "Semua",
+          "Update",
+          "Pengajar"
+        ],
+        "missing_in_hugo": [],
+        "extra_in_hugo": [
+          "Update",
+          "Alumni",
+          "Pengajar",
+          "Digital"
+        ]
+      },
+      {
+        "slug": "5-profesi-ai-paling-dicari-mana-yang-kamu-impikan",
+        "wordpress_categories": [
+          "Semua"
+        ],
+        "hugo_categories": [
+          "Digital",
+          "Alumni",
+          "Semua",
+          "Update",
+          "Pengajar"
+        ],
+        "missing_in_hugo": [],
+        "extra_in_hugo": [
+          "Update",
+          "Alumni",
+          "Pengajar",
+          "Digital"
+        ]
+      },
+      {
+        "slug": "sebagai-pendiri-hanifa-ambadar-mulai-dari-hobi-dan-tidak-membatasi-diri",
+        "wordpress_categories": [
+          "Semua"
+        ],
+        "hugo_categories": [
+          "Digital",
+          "Alumni",
+          "Semua",
+          "Update",
+          "Pengajar"
+        ],
+        "missing_in_hugo": [],
+        "extra_in_hugo": [
+          "Update",
+          "Alumni",
+          "Pengajar",
+          "Digital"
+        ]
+      },
+      {
+        "slug": "data-scientist-dari-balik-layar-zulfikar-lazuardi-maulana",
+        "wordpress_categories": [
+          "Pengajar",
+          "Semua"
+        ],
+        "hugo_categories": [
+          "Digital",
+          "Alumni",
+          "Semua",
+          "Update",
+          "Pengajar"
+        ],
+        "missing_in_hugo": [],
+        "extra_in_hugo": [
+          "Update",
+          "Alumni",
+          "Digital"
+        ]
+      },
+      {
+        "slug": "intip-bootcamp-yang-bikin-kamu-jago-tech-skill-dan-siap-kerja",
+        "wordpress_categories": [
+          "Semua"
+        ],
+        "hugo_categories": [
+          "Digital",
+          "Alumni",
+          "Semua",
+          "Update",
+          "Pengajar"
+        ],
+        "missing_in_hugo": [],
+        "extra_in_hugo": [
+          "Update",
+          "Alumni",
+          "Pengajar",
+          "Digital"
+        ]
+      },
+      {
+        "slug": "career-hacks-as-back-end-engineering",
+        "wordpress_categories": [
+          "Semua"
+        ],
+        "hugo_categories": [
+          "Digital",
+          "Alumni",
+          "Semua",
+          "Update",
+          "Pengajar"
+        ],
+        "missing_in_hugo": [],
+        "extra_in_hugo": [
+          "Update",
+          "Alumni",
+          "Pengajar",
+          "Digital"
+        ]
+      }
+    ],
+    "wp_distribution": {
+      "Digital": 58,
+      "Semua": 69,
+      "Update": 32,
+      "Alumni": 8,
+      "Pengajar": 3
+    },
+    "hugo_distribution": {
+      "Digital": 99,
+      "Semua": 100,
+      "Update": 90,
+      "Alumni": 69,
+      "Pengajar": 67
+    },
+    "total_wp_posts": 125,
+    "total_hugo_posts": 125
+  },
+  "corrections": {
+    "studi-independen-10x-lebih-baik-dari-magang": [
+      "Semua"
+    ],
+    "mulai-journey-kalian-di-luar-negeri-gimana-sih-caranya": [
+      "Update"
+    ],
+    "school-of-data-digital-program-kolaborasi-startup-campus-dan-rumah-perubahan": [
+      "Update"
+    ],
+    "7-pelatihan-gratis-google-ai-dari-basic-sampai-advance": [
+      "Digital"
+    ],
+    "rahasia-menjadi-freelancer-sukses-terungkap-di-bootcamp-ini": [
+      "Update"
+    ],
+    "visualisasi-datacuma-gambar-atau-ada-makna-lain": [
+      "Digital"
+    ],
+    "data-scientist-pekerjaan-paling-bikin-stres": [
+      "Digital"
+    ],
+    "cara-mendaftar-prakerja-lewat-hp-panduan-lengkap-dan-cepat": [
+      "Digital"
+    ],
+    "lulus-manajemen-proyek-di-startup-campus-berhasil-dapat-kerja-sesuai-impian": [
+      "Update"
+    ],
+    "cara-menjadi-digital-marketer-menurut-startup-campus-di-iccn-bootcamp-career-2024": [
+      "Pengajar",
+      "Semua"
+    ],
+    "gaji-data-scientist-bisa-mendekati-gaji-ceo": [
+      "Digital"
+    ],
+    "kursus-data-science-bagi-karyawan-non-data": [
+      "Semua"
+    ],
+    "menjadi-data-scientist-hanya-dalam-3-bulan-mungkin-gak-sih": [
+      "Digital",
+      "Semua"
+    ],
+    "perbedaan-data-science-dan-data-analyst-mana-yang-lebih-cocok-buat-kamu": [
+      "Digital"
+    ],
+    "13-perusahaan-ai-di-indonesia-yang-paling-menginspirasi": [
+      "Alumni"
+    ],
+    "empowering-tomorrows-leaders-aiesec-in-ugm-and-danone-operations-international-join-forces-in-the-pursuit-of-equality-and-inclusion": [
+      "Semua"
+    ],
+    "transformasi-digital-di-indonesia-dipercepat-melalui-kolaborasi-dinas-pendidikan-dki-jakarta-dan-institut-digital-indonesia": [
+      "Semua"
+    ],
+    "pentingnya-design-system-dalam-pengembangan-produk-digital": [
+      "Digital"
+    ],
+    "8-tips-sukses-menjadi-seorang-ui-designer": [
+      "Digital",
+      "Semua"
+    ],
+    "data-privacy-vs-data-protection-apa-perbedaannya": [
+      "Digital",
+      "Semua"
+    ],
+    "menggali-potensi-big-data-panduan-sederhana-untuk-mahasiswa-ilmu-data": [
+      "Digital"
+    ],
+    "generative-ai-memanfaatkan-chatgpt-dan-bard-untuk-riset-bisnismu": [
+      "Digital"
+    ],
+    "salah-jurusan-bikin-kuliah-jadi-masalah": [
+      "Semua"
+    ],
+    "5-pekerjaan-it-tanpa-koding": [
+      "Digital"
+    ],
+    "studi-independen-tanpa-uang-saku-gak-masalah": [
+      "Digital"
+    ],
+    "webinar-impact-circle-x-aiesec-in-unand-2023-menggali-potensi-ekonomi-dengan-youth-preneur": [
+      "Update"
+    ],
+    "cara-mendapatkan-beasiswa-kuliah-sampai-sarjana": [
+      "Digital"
+    ],
+    "berfokus-kepada-umkm-kota-padang-aiesec-in-unand-kembali-hadir-dengan-program-volunteer-local-project-youthfest": [
+      "Update"
+    ],
+    "9-bootcamp-terbaik-di-indonesia-2023": [
+      "Digital"
+    ],
+    "discovering-youths-x-factor-and-building-resilience-with-aiesec-in-ugm": [
+      "Update"
+    ],
+    "rekomendasi-pelatihan-prakerja-yang-mudah-dan-cepat-selesai-2023": [
+      "Digital"
+    ],
+    "panduan-lengkap-sukses-wawancara-kerja": [
+      "Digital"
+    ],
+    "10-side-hustle-paling-mudah-menjanjikan": [
+      "Digital"
+    ],
+    "kerja-remote-adalah-pengertian-gaji-contoh-dan-cara-mendapatkannya": [
+      "Digital"
+    ],
+    "perbedaan-data-analyst-dan-data-analytics": [
+      "Digital"
+    ],
+    "psikologi-warna-dalam-desain-interface": [
+      "Digital"
+    ],
+    "8-buku-ui-ux-design-yang-wajib-dibaca-oleh-pemula": [
+      "Digital"
+    ],
+    "cara-menjadi-ui-ux-designer-untuk-pemula": [
+      "Digital"
+    ],
+    "apa-itu-passion-dan-5-cara-menemukannya-dalam-karier": [
+      "Digital"
+    ],
+    "top-8-ai-tools-bikin-kerja-ui-ux-designer-5x-lebih-cepat": [
+      "Digital"
+    ],
+    "jenis-analisis-data-dan-manfaatnya-sehari-hari": [
+      "Semua"
+    ],
+    "10-web-ai-gratis-yang-bisa-membantu-pekerjaan-sehari-hari": [
+      "Semua"
+    ],
+    "7-tips-apply-kerja-di-jobstreet-auto-dipanggil-wawancara": [
+      "Semua"
+    ],
+    "cara-membuat-portofolio-di-hp-gratis": [
+      "Semua"
+    ],
+    "cara-memulai-usaha-startup-sejak-dini": [
+      "Semua"
+    ],
+    "alumni-ambassador-startup-campus-beri-insentif-dan-benefit-berlimpah": [
+      "Semua",
+      "Update"
+    ],
+    "cara-daftar-prakerja-2023-online-mudah-dan-cepat": [
+      "Semua"
+    ],
+    "sabika-amalina-ui-ux-design-bukan-sekedar-estetika": [
+      "Pengajar",
+      "Semua"
+    ],
+    "pemerataan-pendidikan-di-indonesia-timur-melalui-belajarsekaligusberbagi": [
+      "Semua"
+    ],
+    "pelatihan-skill-digital-seperti-apa-yang-benefit-untuk-karier": [
+      "Semua"
+    ],
+    "civilarch-dari-kuliah-teknik-sipil-sampai-bisa-bikin-project-riil": [
+      "Alumni",
+      "Semua"
+    ],
+    "organotani-platform-b2b-unik-untuk-bantu-petani-organik": [
+      "Alumni",
+      "Semua"
+    ],
+    "lesq-bimbel-untuk-mahasiswa-yang-butuh-waktu-belajar-extra": [
+      "Alumni",
+      "Semua"
+    ],
+    "spairum-startup-ramah-lingkungan-penghilang-dahaga-mahasiswa": [
+      "Alumni",
+      "Semua"
+    ],
+    "siap-kerja-di-bidang-it-dengan-program-beasiswa-google-gratis": [
+      "Semua",
+      "Update"
+    ],
+    "salah-jurusan-kuliah-jangan-nyesel-ada-aksel": [
+      "Alumni",
+      "Semua"
+    ],
+    "bootcamp-adalah-solusi-tepat-untuk-belajar-it-yang-menyenangkan": [
+      "Semua"
+    ],
+    "untuk-kesuksesan-produk-product-manager-harus-ahli-di-semua-bidang": [
+      "Semua"
+    ],
+    "5-startup-unik-di-indonesia-nomor-4-bikin-semangat-liburan": [
+      "Semua"
+    ],
+    "yuk-intip-kamus-besar-ui-ux-design": [
+      "Semua"
+    ],
+    "tingkatkan-dirimu-dengan-10-top-skills-ai": [
+      "Semua"
+    ],
+    "yuk-intip-lingkungan-startup": [
+      "Semua"
+    ],
+    "5-profesi-ai-paling-dicari-mana-yang-kamu-impikan": [
+      "Semua"
+    ],
+    "sebagai-pendiri-hanifa-ambadar-mulai-dari-hobi-dan-tidak-membatasi-diri": [
+      "Semua"
+    ],
+    "data-scientist-dari-balik-layar-zulfikar-lazuardi-maulana": [
+      "Pengajar",
+      "Semua"
+    ],
+    "intip-bootcamp-yang-bikin-kamu-jago-tech-skill-dan-siap-kerja": [
+      "Semua"
+    ],
+    "career-hacks-as-back-end-engineering": [
+      "Semua"
+    ]
+  },
+  "analysis_date": "2025-07-08 12:10:23"
+}

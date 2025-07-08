@@ -2,8 +2,9 @@
 title: "Mulai Journey Kalian di Luar Negeri, Gimana sih Caranya?"
 date: 2024-05-20T08:42:20
 author: "hal diah"
-categories: ["Digital", "Alumni", "Semua", "Update", "Pengajar"]
+categories: ["Update"]
 slug: "mulai-journey-kalian-di-luar-negeri-gimana-sih-caranya"
+featured_image: "/images/4c137c2ca018.jpg"
 ---
 
 Pada Sabtu 4 Mei 2024 di Kampus 1 UPN Veteran Yogyakarta.

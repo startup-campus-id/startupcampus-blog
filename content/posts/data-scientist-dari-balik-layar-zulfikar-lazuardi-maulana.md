@@ -2,11 +2,10 @@
 title: "Data Scientist Dari Balik Layar: Zulfikar Lazuardi Maulana"
 date: 2022-12-07T05:25:15
 author: "Startup Campus"
-categories: ["Digital", "Alumni", "Semua", "Update", "Pengajar"]
+categories: ["Pengajar", "Semua"]
 slug: "data-scientist-dari-balik-layar-zulfikar-lazuardi-maulana"
+featured_image: "/images/330eb7ea5e14.png"
 ---
-
-![(Data Scientist Dari Balik Layar: Zulfikar Lazuardi Maulana)](/uploads/2022/12/ZULFIKAR-LAZUARDI-MAULANA-1024x449.png)
 
 STARTUPCAMPUS.ID – Tahukah kamu bahwa 21,7 juta orang Indonesia menggunakan layanan ride hailing? Hal ini menyebabkan munculnya puluhan terabyte data yang dihasilkan oleh salah satu jasa layanan transportasi daring yang sangat tenar di Indonesia, Grab. Kumpulan data yang kompleks ini memberikan Grab kesempatan untuk mengetahui pola perilaku konsumen dan menjawab tantangan lalu lintas. Dalam perusahaan, data tersebut memberikan informasi yang sangat berguna untuk memberikan layanan yang lebih inovatif dan bermanfaat di masa depan. Salah satu orang yang berperan penting dalam memberikan inovasi bagi Grab adalah [Zulfikar Lazuardi Maulana](https://www.linkedin.com/in/zulfikar-lazuardi/), yang saat ini sedang menjabat sebagai Lead Data Scientist.
 

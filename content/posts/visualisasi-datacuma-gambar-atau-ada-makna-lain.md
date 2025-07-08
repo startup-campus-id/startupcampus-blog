@@ -2,8 +2,9 @@
 title: "Visualisasi data:cuma gambar atau ada makna lain?"
 date: 2024-03-22T10:09:19
 author: "Startup Campus"
-categories: ["Digital", "Alumni", "Semua", "Update", "Pengajar"]
+categories: ["Digital"]
 slug: "visualisasi-datacuma-gambar-atau-ada-makna-lain"
+featured_image: "/images/e3df9f1414c6.jpg"
 ---
 
 Capek-capek ngolah data, tapi gak bisa visualisasikan dengan baik. Hasilnya malah gak bisa dipahami orang banyak. Sebenarnya, apa yang dimaksud visualisasi data atau data visualization?

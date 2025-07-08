@@ -4,9 +4,8 @@ date: 2024-11-26T12:31:40
 author: "Startup Campus"
 categories: ["Semua", "Update"]
 slug: "transformasi-limbah-menjadi-kekayaan-bagaimana-caranya"
+featured_image: "/images/7cc74c15a98d.jpg"
 ---
-
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfb0QsSanV7iQXR2yTC2_rOnzFsZRXQM1AkOhugdSbFku3YbzTP9i3D4n1rktmBK1tOs16wK1rap_0hUhrXLVhAXZtLJ6KuTfW2f92NexIFOgBN00slou4yuXEjbtRUw6Ine9egNScq2DS5tx4cyg?key=EDA8WWW1xmkVhVXC1lFIf9PE)
 
 AIESEC in UPN “Veteran” Yogyakarta, salah satu organisasi kepemudaan global terbesar di dunia, kembali menginisiasi program inovasi demi terwujudnya perubahan positif dalam komunitas lokal. Kali ini, kami kembali menyelenggarakan program Impact Circle 7.0 yang mengusung tema *Waste to Wealth “Innovating for Sustainable Future”.* Acara ini direncanakan untuk digelar pada tanggal 1 Desember 2024 dan akan berupa kombinasi antara seminar dan workshop relevan. 
 

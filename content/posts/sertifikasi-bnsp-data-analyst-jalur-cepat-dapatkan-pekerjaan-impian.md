@@ -4,9 +4,8 @@ date: 2024-11-22T14:04:55
 author: "Startup Campus"
 categories: ["Digital", "Semua"]
 slug: "sertifikasi-bnsp-data-analyst-jalur-cepat-dapatkan-pekerjaan-impian"
+featured_image: "/images/e9b5b6d14d69.jpg"
 ---
-
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfRAQnp8gRCxudX9ynjpMgpdFFf_zYK-RoUyo91AgAEbPenHSTehYj6-Hl-FUB0PoyfTXuiKQPmaObG8gDmx9q01ShW5Yr_ZJw8FIyPIp_J83_krkT9PLuVzl2PGTNIvW0awnvo?key=kWHgakcsyJNdewRKhFL6Xb09)
 
 Apakah kamu merasa sudah belajar banyak tentang data, tapi tetap kesulitan mendapatkan pekerjaan impian? Atau, sudah bekerja sebagai Data Analyst tapi karier terasa begitu-begitu saja? Mungkin, yang kamu butuhkan adalah **sertifikasi profesional** untuk membuktikan kompetensimu.  
 

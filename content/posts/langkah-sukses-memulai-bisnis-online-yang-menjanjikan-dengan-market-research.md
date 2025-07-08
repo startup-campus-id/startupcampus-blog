@@ -4,9 +4,8 @@ date: 2024-10-02T03:23:01
 author: "Startup Campus"
 categories: ["Semua"]
 slug: "langkah-sukses-memulai-bisnis-online-yang-menjanjikan-dengan-market-research"
+featured_image: "/images/4ae3dc74f0d1.jpg"
 ---
-
-![market research](https://www.startupcampus.id/blog/wp-content/uploads/2024/10/market-research.jpg)
 
 Halo, teman-teman! Siapa di sini yang lagi kepikiran buat mulai bisnis online? Atau justru udah punya bisnis tapi profitnya masih stagnan dan selalu gagal nembus target? Tenang, kamu nggak sendiri! Banyak bisnis yang menghadapi tantangan serupa. Nah, salah satu kunci penting biar bisnis kamu nggak cuma sekadar jalan, tapi bisa berkembang, adalah **riset pasar**.  Apa sih riset pasar itu? Mari kita bahas lebih dalam agar kamu bisa memahami betapa pentingnya hal ini untuk bisnismu!
 

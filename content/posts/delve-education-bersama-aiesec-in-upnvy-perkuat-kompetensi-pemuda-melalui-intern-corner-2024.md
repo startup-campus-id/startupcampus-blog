@@ -4,9 +4,8 @@ date: 2024-12-11T10:26:45
 author: "Startup Campus"
 categories: ["Semua"]
 slug: "delve-education-bersama-aiesec-in-upnvy-perkuat-kompetensi-pemuda-melalui-intern-corner-2024"
+featured_image: "/images/dd19056a0606.jpg"
 ---
-
-![](https://www.startupcampus.id/blog/wp-content/uploads/2024/12/intern-corner_11zon-1024x666.jpg)
 
 Dalam pelaksanaan event webinar Intern Corner 2024, AIESEC in UPNVY berkolaborasi dengan Delve Education. Intern Corner adalah *event* inisiasi dari AIESEC in UPNVY yang bertujuan untuk meningkatkan *awareness *dari para pemuda di Yogyakarta mengenai kesempatan untuk magang di luar negeri melalui beberapa program yang ditawarkan oleh AIESEC in UPNVY yaitu *Global Talent *dan *Global Teacher. *Kedua program ini dikenalkan dengan event Intern Corner yang dikemas dalam format webinar dan diikuti oleh berbagai pemuda di Yogyakarta yang tertarik untuk meningkatkan prospek kerja mereka dengan berpartisipasi dalam *event* Intern Corner tersebut. Dalam rangka penyuksesan acara ini Delve Education berkolaborasi dengan AIESEC in UPNVY untuk memberikan edukasi bahwa pendidikan lanjutan setelah S1 dapat menjadi penambah suksesnya karir seseorang setelah melakukan magang luar negeri. 
 

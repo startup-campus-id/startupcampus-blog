@@ -4,9 +4,8 @@ date: 2025-06-26T08:03:06
 author: "Startup Campus"
 categories: ["Digital", "Semua"]
 slug: "rekomendasi-9-sertifikasi-bnsp-yang-wajib-diikuti-oleh-dosen"
+featured_image: "/images/94fe00aaf318.jpg"
 ---
-
-![dosen bersertifikasi bnsp yang sedang mengajar](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdk4l1GkFUG7jmoyXk6_mILhK_TsFa4qmtuYOolGoRZUC5Jus7Cx_ZWYUT_eygkOWJMSrNEpmQzbJW92yJPynP3LaY6jgNNAB-eV8yKYmz2tkn8mJN2Ndap8SitSw0y4pRilnzktA?key=h2CbjSkJiL87Ml2NgpihFw)
 
 Sebagai tenaga pendidik di era digital, dosen dituntut untuk terus mengembangkan kompetensinya agar materi yang disampaikan relevan dan aplikatif. Salah satu cara terbaik untuk meningkatkan kompetensi dan kredibilitas adalah melalui **sertifikasi BNSP**.
 

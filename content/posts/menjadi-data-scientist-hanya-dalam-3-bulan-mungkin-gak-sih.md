@@ -2,8 +2,9 @@
 title: "Menjadi Data Scientist dalam 3 bulan, Mungkin Gak Sih?"
 date: 2024-01-31T05:04:22
 author: "Startup Campus"
-categories: ["Digital", "Alumni", "Semua", "Update", "Pengajar"]
+categories: ["Digital", "Semua"]
 slug: "menjadi-data-scientist-hanya-dalam-3-bulan-mungkin-gak-sih"
+featured_image: "/images/5ff8e8a0b2ec.jpg"
 ---
 
 Data Scientist atau seseorang yang memiliki pemahaman mendalam dalam meneliti dan menganalisis data, merupakan profesi yang sangat dicari di era digital saat ini. Namun, pertanyaan muncul, apakah mungkin seseorang bisa menjadi Data Scientist dalam waktu singkat, hanya dalam 3 bulan? Jawabannya, ya sangat mungkin. Ingin tahu bagaimana caranya? Yuk, baca artikel ini selengkapnya! 

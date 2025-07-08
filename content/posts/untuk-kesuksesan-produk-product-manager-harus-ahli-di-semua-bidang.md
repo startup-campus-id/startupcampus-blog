@@ -2,11 +2,10 @@
 title: "Untuk Kesuksesan Produk, Product Manager Harus Ahli di Semua Bidang?"
 date: 2022-12-08T08:24:03
 author: "Startup Campus"
-categories: ["Digital", "Alumni", "Semua", "Update", "Pengajar"]
+categories: ["Semua"]
 slug: "untuk-kesuksesan-produk-product-manager-harus-ahli-di-semua-bidang"
+featured_image: "/images/807af9ab007b.png"
 ---
-
-![()](/uploads/2022/12/product-manager-1024x449.png)
 
 STARTUPCAMPUS.ID– Product manager ialah posisi pekerjaan yang mengemban tanggung jawab atas pengembangan dan keberhasilan sebuah produk. Mengulas product manager yang menjadi salah satu pekerjaan dengan pendapatan besar, posisi ini tidak lepas dari 3 hal penting yang harus kamu ketahui. Yup, peranan dan kemampuan yang diperlukan product manager untuk kesuksesan produk. Seberapa penting sih peranan product manager dalam proses produksi? Apa benar product manager harus mumpuni di semua bidang? Mari kita cari tahu sekarang!
 

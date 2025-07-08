@@ -4,9 +4,8 @@ date: 2024-10-09T06:57:46
 author: "Startup Campus"
 categories: ["Digital"]
 slug: "bikin-skincare-brand-sendiri-ternyata-segampang-ini"
+featured_image: "/images/7a116773f63c.jpg"
 ---
-
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeplQB1WZgqwk03y8rJUfMf5WzgiTEbmDeQh9illqbTAJppCXtBevUOKfZWUgzLvfNZ-9A_qdyk2pb4-ohTgrHMKoKYcpAbbMl67vSvAIx7Uej6zP-ZI5OdimCbPifkFNkVsjRm9g_ctmCjJYJ5C904WIes?key=vV_9f1MQ7LzHdtp7ANtlyQ)
 
 Bisnis skincare lokal saat ini makin berkembang dan menjamur dimana-mana. Brand lokal sekarang juga banyak yang ngeluarin produk skincare dengan kualitas yang nggak kalah bagus dari brand luar, tapi harganya lebih terjangkau. Mereka juga lebih paham kebutuhan kulit orang Indonesia, kayak produk yang fokus buat masalah jerawat, kulit berminyak, atau kulit kusam karena cuaca panas dan lembap.
 

@@ -4,6 +4,7 @@ date: 2025-06-12T10:37:47
 author: "Startup Campus"
 categories: ["Update"]
 slug: "ilead-2025-perjalanan-menemukan-diri-di-wonderland-of-ayodya"
+featured_image: "/images/a66811f9bdde.jpg"
 ---
 
 **Yogyakarta,  11 Juni 2**025

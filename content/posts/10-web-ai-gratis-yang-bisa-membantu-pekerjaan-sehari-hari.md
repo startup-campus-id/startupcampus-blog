@@ -2,7 +2,7 @@
 title: "10 Web AI Gratis Yang Bisa Membantu Pekerjaan Sehari-hari!"
 date: 2023-06-02T12:52:10
 author: "hal diah"
-categories: ["Digital", "Alumni", "Semua", "Update", "Pengajar"]
+categories: ["Semua"]
 slug: "10-web-ai-gratis-yang-bisa-membantu-pekerjaan-sehari-hari"
 ---
 

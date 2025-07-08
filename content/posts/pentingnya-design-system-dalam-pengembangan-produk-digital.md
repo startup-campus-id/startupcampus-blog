@@ -2,7 +2,7 @@
 title: "Pentingnya Design System dalam Pengembangan Produk Digital"
 date: 2024-01-09T03:14:34
 author: "Startup Campus"
-categories: ["Digital", "Alumni", "Semua", "Update", "Pengajar"]
+categories: ["Digital"]
 slug: "pentingnya-design-system-dalam-pengembangan-produk-digital"
 ---
 

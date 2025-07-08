@@ -4,9 +4,8 @@ date: 2025-01-10T08:37:39
 author: "Startup Campus"
 categories: ["Digital"]
 slug: "prediksi-tren-skill-digital-2025-bocoran-skill-masa-depan-yang-wajib-kamu-tahu"
+featured_image: "/images/2023d34d3bb2.jpg"
 ---
-
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeyCOe72V2TjDsZbWNQ9dfrtMDidlnoJJflUALGInwzlKH0fc7_Cph4q6kWycRZwnq1rgDGGu0FubS7HnZS2sz-Y_-rQ1y_tYgPcIlotMQk1kx73QuqCAVF8jpp7Uyi3GuDyV0b?key=jPpoZF4QzWIK3TgtNtY-Hxl-)
 
 Dunia digital terus berkembang, dan tahun 2025 diprediksi akan membawa perubahan besar dalam teknologi dan industri. Apa saja tren digital yang bakal booming? Apa skill yang harus kamu kuasai untuk tetap relevan di dunia kerja? Yuk, simak bocoran tren dan skill digital berikut ini!
 

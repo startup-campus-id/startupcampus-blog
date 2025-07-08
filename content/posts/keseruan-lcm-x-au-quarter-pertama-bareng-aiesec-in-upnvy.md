@@ -4,9 +4,8 @@ date: 2025-05-13T12:28:57
 author: "Startup Campus"
 categories: ["Semua", "Update"]
 slug: "keseruan-lcm-x-au-quarter-pertama-bareng-aiesec-in-upnvy"
+featured_image: "/images/6db36f4dd7b4.jpg"
 ---
-
-![Keseruan LCM x AU Quarter Pertama Bareng AIESEC in UPNVY!](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdUrDS0yB5IsgDlNqxgmVGsP8W27FnvlibrpvMRCxRIxZo0VwBvp3qlYeW7eO9i-STFyzQflhdmH9WQnuYnRfxCXCQi7FiYuleYknr-PEMqsoCY_CdOtHclEUlmLAKi6vPsFXJW9widPTXMNeUTCw?key=y_kE-tTVIHeQ1fPe_RxarA)
 
 HOY AIESEC! Setelah 3 bulan berlalu, akhirnya AIESEC in UPNVY berhasil untuk melewati Quarter pertamanya, selama 3 bulan penuh untuk menjadi organisasi yang dapat mengembangkan *self development *dan *soft skill *bagi para membernya dan menjadi calon pemimpin yang akan membawa perubahan baik bagi diri sendiri, lingkungan sekitar dan akan partisipasi mereka di lingkungan masyarakat.
 

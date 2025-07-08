@@ -4,9 +4,8 @@ date: 2025-05-22T09:13:45
 author: "Startup Campus"
 categories: ["Alumni", "Semua"]
 slug: "galih-dwi-santiko-mahasiswa-ilmu-komputer-yang-membuktikan-sertifikasi-bnsp-bukan-cuma-untuk-karyawan"
+featured_image: "/images/67111aa1cf9f.jpg"
 ---
-
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXc4Zl1tPRtHlw6urxLtZjuh3r6_1lqVmYJmwf4TvglzRW8qdtaW4K09nPOBEho3PmkQUO07Nxp6IL6M-dGR7ZWQqbNb9awkSD3nm0KhQ06W7OdNBwSP01ZkIQAhoKzjNJSPsIkrZw?key=tNqg-datHbRw1fyvG-C2rQ)
 
 Kalau kamu masih berpikir bahwa **sertifikasi BNSP** itu cuma penting buat karyawan yang udah kerja, yuk kenalan sama **Galih Dwi Santiko**, mahasiswa semester 6 Fakultas Ilmu Komputer yang berhasil membuktikan sebaliknya.
 

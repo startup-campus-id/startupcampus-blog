@@ -4,9 +4,8 @@ date: 2024-11-15T08:42:51
 author: "Startup Campus"
 categories: ["Semua", "Update"]
 slug: "intern-corner-2024-dapatkan-peluang-dan-informasi-mengenai-magang-di-luar-negeri"
+featured_image: "/images/15ba6dbfb0e2.jpg"
 ---
-
-![](https://www.startupcampus.id/blog/wp-content/uploads/2024/11/Photo-1-1_11zon-1024x768.jpg)
 
 Intern Corner 2024 hadir sebagai jawaban bagi generasi muda Yogyakarta yang berusia 21 hingga 30 tahun untuk menjelajahi peluang karir internasional. Sebuah webinar interaktif dengan fokus pada informasi seputar *Internship Abroad dan Teaching Abroad Opportunities*, webinar ini bertujuan untuk memberdayakan anak muda yang bercita-cita memulai karir di luar negeri. Diselenggarakan oleh AIESEC in UPNVY, acara ini akan menjadi titik awal perjalanan Kawan menuju dunia kerja global.
 

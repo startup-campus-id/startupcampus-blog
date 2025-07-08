@@ -4,9 +4,8 @@ date: 2024-10-25T06:13:30
 author: "Startup Campus"
 categories: ["Digital", "Semua"]
 slug: "apa-itu-pitching-dan-kenapa-penting-untuk-kesuksesan-bisnis-kamu"
+featured_image: "/images/0c0c1c6f6360.png"
 ---
-
-![](https://www.startupcampus.id/blog/wp-content/uploads/2024/10/image.png)
 
 Bayangkan kamu punya ide bisnis keren. Misalnya, bikin aplikasi yang bisa bantu orang pilih makanan sehat sesuai dengan selera mereka. Kamu yakin banget ide ini bisa sukses besar! Tapi, sayangnya, untuk mewujudkan ide ini kamu butuh modal. Nah, di sinilah momen **pitching** jadi krusial. Kamu harus menyampaikan ide tersebut di depan investor dengan cara yang singkat, jelas, tapi juga memikat.
 

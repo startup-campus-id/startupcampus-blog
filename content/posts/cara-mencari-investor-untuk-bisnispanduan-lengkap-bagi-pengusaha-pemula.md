@@ -4,6 +4,7 @@ date: 2024-10-18T02:12:25
 author: "Startup Campus"
 categories: ["Digital", "Semua"]
 slug: "cara-mencari-investor-untuk-bisnispanduan-lengkap-bagi-pengusaha-pemula"
+featured_image: "/images/0dd2e5745f7f.jpg"
 ---
 
 **![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfa7kGkzk7GJu5Jlk55gGvAM1QJGxAI5nWxWG7N3ZMUk5xjvT1HShGEdpoZy_j97Ze3TIBLGlfxsAeYaUItxR22t9aE0azndpa9JnJy6MmV2KwPYdVzVv9s1Ds0Z_Ufa98O70B60O9zvwGzcEzH5JfbDXU?key=-f5IKYG12zgPHRYEZyJT0g)**

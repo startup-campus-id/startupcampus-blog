@@ -4,9 +4,8 @@ date: 2025-05-07T08:34:35
 author: "Startup Campus"
 categories: ["Digital", "Semua"]
 slug: "cara-menambah-floating-button-di-wordpress-tanpa-coding"
+featured_image: "/images/78ebeb0ce727.png"
 ---
-
-![Wordpress plugin](https://www.startupcampus.id/blog/wp-content/uploads/2025/05/Case-1-1024x470.png)
 
 ## **Tombol Kecil, Pengaruh Gede Banget**
 

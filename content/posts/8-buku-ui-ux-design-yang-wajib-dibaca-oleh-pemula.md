@@ -2,8 +2,9 @@
 title: "8 Buku UI/UX Design yang Wajib Dibaca oleh Pemula"
 date: 2023-06-28T03:24:32
 author: "hal diah"
-categories: ["Digital", "Alumni", "Semua", "Update", "Pengajar"]
+categories: ["Digital"]
 slug: "8-buku-ui-ux-design-yang-wajib-dibaca-oleh-pemula"
+featured_image: "/images/47bf3ad9f95c.jpg"
 ---
 
 UI/UX Design telah menjadi salah satu bidang yang sangat penting dalam pengembangan produk dan layanan digital. Untuk menjadi seorang desainer UI/UX yang kompeten, penting bagi pemula untuk memiliki pemahaman yang baik tentang prinsip-prinsip desain, tren terkini, dan alat-alat yang digunakan dalam industri ini. Salah satu cara terbaik untuk memperluas pengetahuan dan keterampilan adalah melalui membaca buku-buku yang berkualitas tentang UI/UX Design. Dalam artikel ini, kami akan membahas 8 buku UI/UX Design yang wajib dibaca oleh pemula. Yuk, simak selengkapnya!

@@ -2,11 +2,10 @@
 title: "Discovering Youth’s X-Factor and Building Resilience with AIESEC in UGM"
 date: 2023-09-14T05:39:00
 author: "Startup Campus"
-categories: ["Digital", "Alumni", "Semua", "Update", "Pengajar"]
+categories: ["Update"]
 slug: "discovering-youths-x-factor-and-building-resilience-with-aiesec-in-ugm"
+featured_image: "/images/de5b3ee3444d.jpg"
 ---
-
-![()](/uploads/2023/09/5-1.jpg)
 
 AIESEC in UGM is back again with the long awaited webinar event that was held on September 2nd-3rd 2023 exclusive for join aiesec 2023 applicants with the theme, “Unlocking Your Leadership: Building Resilience and Discovering Your X-Factor”, this two-day event was attended by over 1100 participants.
 

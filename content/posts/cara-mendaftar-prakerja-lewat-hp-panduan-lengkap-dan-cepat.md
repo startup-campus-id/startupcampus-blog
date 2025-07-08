@@ -2,8 +2,9 @@
 title: "Cara Mendaftar Prakerja Lewat HP: Panduan Lengkap dan Cepat"
 date: 2024-03-08T10:00:58
 author: "Startup Campus"
-categories: ["Digital", "Alumni", "Semua", "Update", "Pengajar"]
+categories: ["Digital"]
 slug: "cara-mendaftar-prakerja-lewat-hp-panduan-lengkap-dan-cepat"
+featured_image: "/images/913b58bfa5a3.jpeg"
 ---
 
 Gelombang Kartu [Prakerja](https://dashboard.prakerja.go.id/) sudah dibuka, pendaftaran akunnya pun sudah bisa diakses para pengincarnya. Namun masih banyak yang kesulitan saat mendaftar atau membuat akun prakerja dan lolos saat tes. Ikuti langkah ini untuk lebih memudahkan membuat akun dan memastikan kamu lolos.
