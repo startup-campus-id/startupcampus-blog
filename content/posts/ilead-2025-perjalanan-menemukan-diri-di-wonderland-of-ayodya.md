@@ -7,9 +7,8 @@ slug: "ilead-2025-perjalanan-menemukan-diri-di-wonderland-of-ayodya"
 featured_image: "/images/a66811f9bdde.jpg"
 ---
 
-**Yogyakarta,  11 Juni 2**025
+**Yogyakarta,  11 Juni 2025
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdvAtue8U3-xarDzgz0CukJEoK10v5d-WMjntNws-xqTW-JXE8y4V3W8J5UOGBtRYb_5gQf9jxJ-dXOKF1nJqTk_INXEDQC1U7xjhBba3Lp2x_kEBZSJcPiNT9kGgqZGkXHXs-3flIXEqzhW5gltw?key=4xeZmitHfuvMseC1EyWEug)
 
 HOY AIESEC! Di tengah perjalanan tahun yang penuh tantangan, AIESEC in UPNVY kembali menghadirkan sebuah konferensi lokal untuk para membernya: iLEAD 2025. Mengusung tema magis *“Ayodya Wonderland: in The Madness We Found Ourselves, in The Maze We Found Each Other,”* acara ini menjadi wadah reflektif dan pengembangan diri yang diadakan pada 31 Mei – 1 Juni 2025 di Balai Pelatihan Kesehatan D.I. Yogyakarta.
 

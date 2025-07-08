@@ -1,19 +1,92 @@
 [build]
-  command = "npm run build"
+  command = "hugo --minify"
   publish = "public"
 
 [build.environment]
   HUGO_VERSION = "0.120.4"
   NODE_VERSION = "18"
 
+[context.production.environment]
+  HUGO_ENV = "production"
+  HUGO_ENABLEGITINFO = "true"
+
+[context.split1]
+  command = "hugo --enableGitInfo"
+
+[context.split1.environment]
+  HUGO_ENV = "production"
+
+[context.deploy-preview]
+  command = "hugo --buildFuture -b $DEPLOY_PRIME_URL"
+
+[context.branch-deploy]
+  command = "hugo -b $DEPLOY_PRIME_URL"
+
+# Redirects for old WordPress URLs to new Hugo paths
 [[redirects]]
   from = "/admin"
   to = "/admin/index.html"
   status = 200
 
+# WordPress to Hugo redirects
+[[redirects]]
+  from = "/blog/:slug"
+  to = "/:slug"
+  status = 301
+
+# Category redirects
+[[redirects]]
+  from = "/category/:category"
+  to = "/categories/:category"
+  status = 301
+
+# Feed redirects
+[[redirects]]
+  from = "/feed"
+  to = "/index.xml"
+  status = 301
+
+[[redirects]]
+  from = "/rss"
+  to = "/index.xml"
+  status = 301
+
+# Security and Performance Headers
 [[headers]]
   for = "/*"
   [headers.values]
     X-Frame-Options = "SAMEORIGIN"
     X-XSS-Protection = "1; mode=block"
     X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    Permissions-Policy = "geolocation=(), microphone=(), camera=()"
+
+[[headers]]
+  for = "*.js"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000"
+
+[[headers]]
+  for = "*.css"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000"
+
+[[headers]]
+  for = "*.png"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000"
+
+[[headers]]
+  for = "*.jpg"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000"
+
+[[headers]]
+  for = "*.jpeg"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000"
+
+[[headers]]
+  for = "*.webp"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000"

@@ -3,9 +3,72 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- SEO Meta Tags -->
     <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
     <meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
-    <link rel="stylesheet" href="{{ "css/style.css" | absURL }}">
+    <meta name="author" content="{{ .Site.Params.author }}">
+    {{ if .Keywords }}<meta name="keywords" content="{{ delimit .Keywords ", " }}">{{ end }}
+    <link rel="canonical" href="{{ .Permalink }}">
+    
+    <!-- Open Graph Tags -->
+    <meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}">
+    <meta property="og:description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+    <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+    <meta property="og:url" content="{{ .Permalink }}">
+    <meta property="og:site_name" content="{{ .Site.Title }}">
+    {{ if .Params.image }}<meta property="og:image" content="{{ .Params.image | absURL }}">{{ end }}
+    
+    <!-- Twitter Cards -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}">
+    <meta name="twitter:description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+    {{ if .Params.image }}<meta name="twitter:image" content="{{ .Params.image | absURL }}">{{ end }}
+    
+    <!-- Favicons -->
+    <link rel="icon" type="image/png" href="{{ "/uploads/2022/11/SC-favicon.png" | absURL }}">
+    <link rel="apple-touch-icon" href="{{ "/uploads/2022/11/SC-favicon.png" | absURL }}">
+    <link rel="shortcut icon" href="{{ "/uploads/2022/11/SC-favicon.png" | absURL }}">
+    
+    <!-- Schema.org markup -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "{{ if .IsPage }}Article{{ else }}WebSite{{ end }}",
+      "name": "{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}",
+      "description": "{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}",
+      "url": "{{ .Permalink }}",
+      {{ if .IsPage }}
+      "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
+      {{ if .Lastmod }}"dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",{{ end }}
+      "author": {
+        "@type": "Organization",
+        "name": "{{ .Site.Params.author }}"
+      },
+      {{ end }}
+      "publisher": {
+        "@type": "Organization",
+        "name": "{{ .Site.Title }}",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "{{ "/uploads/2022/11/SC-Logo-Full.png" | absURL }}"
+        }
+      }
+    }
+    </script>
+    
+    <link rel="stylesheet" href="{{ "css/style.css" | absURL }}?v={{ now.Unix }}">
+    
+    <!-- Google Analytics -->
+    {{ if .Site.Params.googleAnalytics }}
+    <script async src="https://www.googletagmanager.com/gtag/js?id={{ .Site.Params.googleAnalytics }}"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', '{{ .Site.Params.googleAnalytics }}');
+    </script>
+    {{ end }}
 </head>
 <body>
     <header>
@@ -27,15 +90,71 @@
     </main>
     
     <footer>
-        <div class="footer-content">
-            <img src="{{ "/uploads/2022/11/Startup-Campus-White-Logo.png" | absURL }}" alt="{{ .Site.Title }}" height="60" style="margin-bottom: 1rem;">
-            <p>Empowering Indonesia's digital talent through practical education</p>
-            <div style="margin-top: 2rem;">
-                <a href="https://startupcampus.id" target="_blank">Main Website</a> | 
-                <a href="https://startupcampus.id/about" target="_blank">About Us</a> | 
-                <a href="https://startupcampus.id/contact" target="_blank">Contact</a>
+        <div class="footer-container">
+            <div class="footer-top">
+                <div class="footer-logo">
+                    <img src="{{ "/uploads/2022/11/Startup-Campus-White-Logo.png" | absURL }}" alt="{{ .Site.Title }}" height="40">
+                    <p class="footer-tagline">#DariMahirJadiKarier</p>
+                </div>
+                
+                <div class="footer-columns">
+                    <div class="footer-column">
+                        <h4>Programs</h4>
+                        <ul>
+                            <li><a href="https://startupcampus.id/sertifikasi-bnsp" target="_blank">Sertifikasi BNSP</a></li>
+                            <li><a href="https://startupcampus.id/bootcamp" target="_blank">Bootcamp</a></li>
+                            <li><a href="https://startupcampus.id/studi-independen" target="_blank">Studi Independen</a></li>
+                            <li><a href="https://startupcampus.id/global-immersion" target="_blank">Global Immersion Program</a></li>
+                            <li><a href="https://startupcampus.id/corporate-training" target="_blank">Corporate Training</a></li>
+                            <li><a href="https://startupcampus.id/workshop" target="_blank">Workshop</a></li>
+                        </ul>
+                    </div>
+                    
+                    <div class="footer-column">
+                        <h4>Explore</h4>
+                        <ul>
+                            <li><a href="https://startupcampus.id/tentang-kami" target="_blank">Tentang Kami</a></li>
+                            <li><a href="https://startupcampus.id/faq" target="_blank">FAQ's</a></li>
+                            <li><a href="{{ "/" | absURL }}">Blog</a></li>
+                            <li><a href="https://startupcampus.id/showcase" target="_blank">Showcase</a></li>
+                            <li><a href="https://startupcampus.id/privacy-policy" target="_blank">Privacy Policy</a></li>
+                            <li><a href="https://startupcampus.id/terms-conditions" target="_blank">Terms & Conditions</a></li>
+                        </ul>
+                    </div>
+                    
+                    <div class="footer-column">
+                        <h4>Contact</h4>
+                        <div class="contact-info">
+                            <p><strong>Email:</strong></p>
+                            <p><a href="mailto:partner@startupcampus.id">partner@startupcampus.id</a></p>
+                            
+                            <p><strong>Customer Service:</strong></p>
+                            <p><a href="https://wa.me/6281315151530" target="_blank">+62 813-1515-1530 (WhatsApp)</a></p>
+                            
+                            <p><strong>Address:</strong></p>
+                            <p>Jl. Kemang Raya No.17A<br>Jakarta Selatan, 12560</p>
+                        </div>
+                        
+                        <div class="social-links">
+                            <a href="https://www.instagram.com/startupcampus.id/" target="_blank" aria-label="Instagram">📷</a>
+                            <a href="https://id.linkedin.com/school/startupcampusid/" target="_blank" aria-label="LinkedIn">💼</a>
+                            <a href="https://twitter.com/startupcampusid" target="_blank" aria-label="Twitter">🐦</a>
+                            <a href="https://www.youtube.com/c/StartupCampus" target="_blank" aria-label="YouTube">📺</a>
+                        </div>
+                    </div>
+                </div>
             </div>
-            <p style="margin-top: 2rem; font-size: 0.9rem; opacity: 0.8;">&copy; {{ now.Year }} {{ .Site.Title }}. All rights reserved.</p>
+            
+            <div class="footer-bottom">
+                <div class="footer-certification">
+                    <p><strong>Lembaga Pelatihan Terakreditasi Resmi</strong></p>
+                    <p>NPSN: P9996369 | Izin Operasional: 421.2/1435/SJ</p>
+                </div>
+                
+                <div class="footer-copyright">
+                    <p>&copy; {{ now.Year }} Startup Campus. All rights reserved.</p>
+                </div>
+            </div>
         </div>
     </footer>
 </body>

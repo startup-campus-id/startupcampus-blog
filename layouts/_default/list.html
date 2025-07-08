@@ -1,18 +1,111 @@
 {{ define "main" }}
-<div class="list-page">
+<div class="homepage">
+  <div class="main-content">
     <h1>{{ .Title }}</h1>
     
     <div class="post-list">
-        {{ range .Paginator.Pages }}
+      {{ range .Paginator.Pages }}
         <article class="post-item">
-            <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+          {{ if .Params.featured_image }}
+            <img class="post-item-image" src="{{ .Params.featured_image }}" alt="{{ .Title }}">
+          {{ else }}
+            {{ $imgSrc := "" }}
+            {{ $imgMatches := findRE `!\[.*?\]\(([^)]+)\)` .Content 1 }}
+            {{ if $imgMatches }}
+              {{ $fullMatch := index $imgMatches 0 }}
+              {{ $imgSrc = replaceRE `!\[.*?\]\(([^)]+)\)` "$1" $fullMatch }}
+            {{ end }}
+            {{ if and $imgSrc (ne $imgSrc "") }}
+              <img class="post-item-image" src="{{ $imgSrc }}" alt="{{ .Title }}">
+            {{ else }}
+              <div class="post-item-image" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);"></div>
+            {{ end }}
+          {{ end }}
+          <div class="post-item-content">
+            <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
             <time>{{ .Date.Format "2 January 2006" }}</time>
-            <p>{{ .Summary }}</p>
+            <p>{{ .Summary | truncate 150 }}</p>
             <a href="{{ .Permalink }}" class="read-more">Read more →</a>
+          </div>
         </article>
-        {{ end }}
+      {{ end }}
     </div>
     
-    {{ template "_internal/pagination.html" . }}
+    {{ if gt .Paginator.TotalPages 1 }}
+      <div class="pagination">
+        {{ if .Paginator.HasPrev }}
+          <a href="{{ .Paginator.Prev.URL }}" class="pagination-prev">← Previous</a>
+        {{ end }}
+        
+        <div class="pagination-numbers">
+          {{ $currentPage := .Paginator.PageNumber }}
+          {{ $totalPages := .Paginator.TotalPages }}
+          
+          {{ if eq $currentPage 1 }}
+            <span class="pagination-current">1</span>
+          {{ else }}
+            <a href="{{ .Paginator.First.URL }}" class="pagination-number">1</a>
+          {{ end }}
+          
+          {{ if gt $currentPage 4 }}
+            <span class="pagination-ellipsis">…</span>
+          {{ end }}
+          
+          {{ range seq (sub $currentPage 2) (add $currentPage 2) }}
+            {{ if and (gt . 1) (lt . $totalPages) }}
+              {{ if eq . $currentPage }}
+                <span class="pagination-current">{{ . }}</span>
+              {{ else }}
+                <a href="{{ (index $.Paginator.Pagers (sub . 1)).URL }}" class="pagination-number">{{ . }}</a>
+              {{ end }}
+            {{ end }}
+          {{ end }}
+          
+          {{ if lt $currentPage (sub $totalPages 3) }}
+            <span class="pagination-ellipsis">…</span>
+          {{ end }}
+          
+          {{ if eq $currentPage $totalPages }}
+            <span class="pagination-current">{{ $totalPages }}</span>
+          {{ else if gt $totalPages 1 }}
+            <a href="{{ .Paginator.Last.URL }}" class="pagination-number">{{ $totalPages }}</a>
+          {{ end }}
+        </div>
+        
+        {{ if .Paginator.HasNext }}
+          <a href="{{ .Paginator.Next.URL }}" class="pagination-next">Next →</a>
+        {{ end }}
+      </div>
+    {{ end }}
+  </div>
+  
+  <aside class="sidebar">
+    <div class="sidebar-widget">
+      <h3>Categories</h3>
+      <ul class="category-list">
+        {{ range .Site.Taxonomies.categories }}
+          <li><a href="{{ .Page.Permalink }}">{{ .Page.Title }} ({{ .Count }})</a></li>
+        {{ end }}
+      </ul>
+    </div>
+    
+    <div class="sidebar-widget">
+      <h3>Recent Posts</h3>
+      <ul class="recent-posts">
+        {{ range first 5 .Site.RegularPages }}
+          <li>
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+            <time>{{ .Date.Format "2 Jan 2006" }}</time>
+          </li>
+        {{ end }}
+      </ul>
+    </div>
+    
+    <div class="sidebar-widget">
+      <h3>About Startup Campus</h3>
+      <p>Startup Campus adalah platform pembelajaran terdepan yang membantu mahasiswa dan fresh graduate mengembangkan skill digital dan mempersiapkan karier di dunia startup.</p>
+      <a href="https://startupcampus.id" class="cta-button">Learn More</a>
+    </div>
+  </aside>
 </div>
 {{ end }}

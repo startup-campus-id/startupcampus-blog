@@ -16,6 +16,7 @@ relativeURLs = false
   author = "Startup Campus"
   dateFormat = "2 January 2006"
   showReadingTime = true
+  googleAnalytics = "G-XXXXXXXXXX"  # Replace with actual GA4 ID
 
 [menu]
   [[menu.main]]

@@ -40,12 +40,37 @@
         {{ end }}
         
         <div class="pagination-numbers">
-          {{ range .Paginator.Pagers }}
-            {{ if eq . $.Paginator }}
-              <span class="pagination-current">{{ .PageNumber }}</span>
-            {{ else }}
-              <a href="{{ .URL }}" class="pagination-number">{{ .PageNumber }}</a>
+          {{ $currentPage := .Paginator.PageNumber }}
+          {{ $totalPages := .Paginator.TotalPages }}
+          
+          {{ if eq $currentPage 1 }}
+            <span class="pagination-current">1</span>
+          {{ else }}
+            <a href="{{ .Paginator.First.URL }}" class="pagination-number">1</a>
+          {{ end }}
+          
+          {{ if gt $currentPage 4 }}
+            <span class="pagination-ellipsis">…</span>
+          {{ end }}
+          
+          {{ range seq (sub $currentPage 2) (add $currentPage 2) }}
+            {{ if and (gt . 1) (lt . $totalPages) }}
+              {{ if eq . $currentPage }}
+                <span class="pagination-current">{{ . }}</span>
+              {{ else }}
+                <a href="{{ (index $.Paginator.Pagers (sub . 1)).URL }}" class="pagination-number">{{ . }}</a>
+              {{ end }}
             {{ end }}
+          {{ end }}
+          
+          {{ if lt $currentPage (sub $totalPages 3) }}
+            <span class="pagination-ellipsis">…</span>
+          {{ end }}
+          
+          {{ if eq $currentPage $totalPages }}
+            <span class="pagination-current">{{ $totalPages }}</span>
+          {{ else if gt $totalPages 1 }}
+            <a href="{{ .Paginator.Last.URL }}" class="pagination-number">{{ $totalPages }}</a>
           {{ end }}
         </div>
         
