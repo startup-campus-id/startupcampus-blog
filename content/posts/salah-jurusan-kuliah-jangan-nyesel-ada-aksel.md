@@ -1,6 +1,9 @@
 ---
 title: "Salah Jurusan Kuliah? Jangan Nyesel, Ada Aksel!"
-date: 2025-06-25T09:10:49
+date: 2023-01-20T10:00:00
+author: "Startup Campus"
+categories: ["Alumni", "Semua"]
+tags: ["Startup", "Aksel", "Career", "Alumni"]
 slug: "salah-jurusan-kuliah-jangan-nyesel-ada-aksel"
 ---
 Tidak sedikit mahasiswa yang merasa salah jurusan ketika sudah menjalani kuliah. Seringkali, jalan keluar adalah dengan tes ulang di jurusan yang diminati di tahun berikutnya atau tetap melanjutkan kuliah di jurusan tersebut dengan rasa menyesal. Berada di posisi yang sama, alih-alih memilih jalan keluar, Shannen malah membuat inovasi yang membuatnya tetap stay bahkan menggaet investor dari luar negeri. Baca kisah Shannen merintis Aksel di artikel ini!

@@ -1,9 +1,11 @@
 ---
 title: "Webinar Impact Circle x AIESEC in Unand 2023: Menggali Potensi Ekonomi dengan 'Youth-Preneur'"
-date: 2023-08-23T09:10:49
+date: 2023-11-09T10:00:00
+author: "Nanda Oktaviana"
+categories: ["Update"]
+tags: ["AIESEC", "Webinar", "Youth Entrepreneurship"]
 slug: "webinar-impact-circle-x-aiesec-in-unand-2023-menggali-potensi-ekonomi-dengan-youth-preneur"
 ---
-Penulis: Nanda Oktaviana
 
 Pada tanggal 12 Agustus 2023, telah dilaksanakan Impact Circle x Local Project of AIESEC in Unand melalui platform zoom meeting. AIESEC adalah organisasi internasional yang dikelola dan dipimpin oleh pemuda, non-pemerintah, dan non-profit yang memberikan leadership development, cross-cultural internship, dan pengalaman global volunteer exchange kepada pemuda.
 
