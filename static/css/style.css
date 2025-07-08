@@ -102,6 +102,20 @@ main {
     gap: 2rem;
 }
 
+/* Featured image styles for single posts */
+.featured-image {
+    margin: 1rem 0;
+    text-align: center;
+}
+
+.featured-image img {
+    width: 100%;
+    max-width: 800px;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
 .post-item {
     background: #fff;
     border-radius: 8px;

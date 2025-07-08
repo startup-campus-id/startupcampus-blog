@@ -8,16 +8,20 @@
     <div class="post-list">
       {{ range .Paginator.Pages }}
         <article class="post-item">
-          {{ $imgSrc := "" }}
-          {{ $imgMatches := findRE `!\[.*?\]\(([^)]+)\)` .Content 1 }}
-          {{ if $imgMatches }}
-            {{ $fullMatch := index $imgMatches 0 }}
-            {{ $imgSrc = replaceRE `!\[.*?\]\(([^)]+)\)` "$1" $fullMatch }}
-          {{ end }}
-          {{ if and $imgSrc (ne $imgSrc "") }}
-            <img class="post-item-image" src="{{ $imgSrc }}" alt="{{ .Title }}">
+          {{ if .Params.featured_image }}
+            <img class="post-item-image" src="{{ .Params.featured_image }}" alt="{{ .Title }}">
           {{ else }}
-            <div class="post-item-image" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);"></div>
+            {{ $imgSrc := "" }}
+            {{ $imgMatches := findRE `!\[.*?\]\(([^)]+)\)` .Content 1 }}
+            {{ if $imgMatches }}
+              {{ $fullMatch := index $imgMatches 0 }}
+              {{ $imgSrc = replaceRE `!\[.*?\]\(([^)]+)\)` "$1" $fullMatch }}
+            {{ end }}
+            {{ if and $imgSrc (ne $imgSrc "") }}
+              <img class="post-item-image" src="{{ $imgSrc }}" alt="{{ .Title }}">
+            {{ else }}
+              <div class="post-item-image" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);"></div>
+            {{ end }}
           {{ end }}
           <div class="post-item-content">
             <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>

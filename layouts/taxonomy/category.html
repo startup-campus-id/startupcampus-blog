@@ -6,18 +6,24 @@
     <div class="post-list">
         {{ range .Paginator.Pages }}
         <article class="post-item">
-            {{ $imgMatches := findRE `!\[.*?\]\(([^)]+)\)` .Content 1 }}
-            {{ if $imgMatches }}
-                {{ $imgMarkdown := index $imgMatches 0 }}
-                {{ $srcMatches := findRE `\(([^)]+)\)` $imgMarkdown 1 }}
-                {{ if $srcMatches }}
-                    {{ $src := index $srcMatches 0 }}
-                    {{ $src := strings.TrimPrefix $src "(" }}
-                    {{ $src := strings.TrimSuffix $src ")" }}
-                    {{ if and (ne $src "") (ne $src "()") }}
-                        <div class="post-image">
-                            <img src="{{ $src }}" alt="{{ .Title }}">
-                        </div>
+            {{ if .Params.featured_image }}
+                <div class="post-image">
+                    <img src="{{ .Params.featured_image }}" alt="{{ .Title }}">
+                </div>
+            {{ else }}
+                {{ $imgMatches := findRE `!\[.*?\]\(([^)]+)\)` .Content 1 }}
+                {{ if $imgMatches }}
+                    {{ $imgMarkdown := index $imgMatches 0 }}
+                    {{ $srcMatches := findRE `\(([^)]+)\)` $imgMarkdown 1 }}
+                    {{ if $srcMatches }}
+                        {{ $src := index $srcMatches 0 }}
+                        {{ $src := strings.TrimPrefix $src "(" }}
+                        {{ $src := strings.TrimSuffix $src ")" }}
+                        {{ if and (ne $src "") (ne $src "()") }}
+                            <div class="post-image">
+                                <img src="{{ $src }}" alt="{{ .Title }}">
+                            </div>
+                        {{ end }}
                     {{ end }}
                 {{ end }}
             {{ end }}
