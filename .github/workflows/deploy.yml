@@ -1,0 +1,69 @@
+name: Deploy to GCS
+
+on:
+  push:
+    branches: [ main, master ]
+  pull_request:
+    branches: [ main, master ]
+
+env:
+  HUGO_VERSION: '0.147.9'
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        submodules: recursive
+        
+    - name: Setup Hugo
+      uses: peaceiris/actions-hugo@v3
+      with:
+        hugo-version: ${{ env.HUGO_VERSION }}
+        extended: true
+        
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+        cache: 'npm'
+        
+    - name: Install dependencies
+      run: npm ci
+        
+    - name: Build Hugo Site
+      run: npm run build:production
+      
+    # Only deploy on push to main/master, not on PRs
+    - name: Authenticate to Google Cloud
+      if: github.event_name == 'push' && (github.ref == 'refs/heads/main' || github.ref == 'refs/heads/master')
+      uses: google-github-actions/auth@v2
+      with:
+        credentials_json: ${{ secrets.GCP_SA_KEY }}
+        
+    - name: Setup Google Cloud SDK
+      if: github.event_name == 'push' && (github.ref == 'refs/heads/main' || github.ref == 'refs/heads/master')
+      uses: google-github-actions/setup-gcloud@v2
+        
+    - name: Deploy to GCS
+      if: github.event_name == 'push' && (github.ref == 'refs/heads/main' || github.ref == 'refs/heads/master')
+      run: |
+        gsutil -m rsync -r -d public/ gs://${{ secrets.GCS_BUCKET }}/${{ secrets.GCS_PATH }}
+        
+    - name: Upload build artifacts
+      if: github.event_name == 'pull_request'
+      uses: actions/upload-artifact@v4
+      with:
+        name: hugo-build-${{ github.event.pull_request.number }}
+        path: public/
+        retention-days: 7
+        
+    # Optional: Invalidate CDN cache
+    - name: Invalidate CDN Cache
+      if: github.event_name == 'push' && (github.ref == 'refs/heads/main' || github.ref == 'refs/heads/master') && success()
+      run: |
+        echo "CDN cache invalidation can be added here if using Cloud CDN"
+        # Example: gcloud compute url-maps invalidate-cdn-cache [URL_MAP_NAME] --path "/*"
