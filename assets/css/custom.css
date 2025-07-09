@@ -106,6 +106,8 @@ main {
 .featured-image {
     margin: 1rem 0;
     text-align: center;
+    position: static;
+    z-index: auto;
 }
 
 .featured-image img {
@@ -114,6 +116,8 @@ main {
     height: auto;
     border-radius: 8px;
     box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    position: static;
+    z-index: auto;
 }
 
 .post-item {
@@ -463,4 +467,17 @@ footer a:hover {
     .post-list {
         grid-template-columns: 1fr;
     }
+}
+
+/* Ensure featured image scrolls with content */
+.post .featured-image {
+    position: static !important;
+    z-index: auto !important;
+    transform: none !important;
+}
+
+.post .featured-image img {
+    position: static !important;
+    z-index: auto !important;
+    transform: none !important;
 }
