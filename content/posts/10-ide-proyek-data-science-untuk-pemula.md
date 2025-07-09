@@ -55,7 +55,7 @@ Bagi yang suka pakai WIFI di kafe, hati-hati datanya bocor. Gunakan data jaringa
 
 ## **10. Visualisasi Data Penyakit**
 
-**Baca juga: **[**Data Scientist Pekerjaan Paling Bikin Stres**](https://startupcampus.id/blog/data-scientist-pekerjaan-paling-bikin-stres/)
+**Baca juga:** [**Data Scientist Pekerjaan Paling Bikin Stres**](https://startupcampus.id/blog/data-scientist-pekerjaan-paling-bikin-stres/)
 
 Kerja di bidang kesehatan? Atau cukup concern tentang isu penyakit menular? Buat visualisasi data yang menarik untuk melacak penyebaran COVID-19, pencapaian angka vaksinasi, atau gimana perkembangan angka stunting akhir-akhir ini.
 
