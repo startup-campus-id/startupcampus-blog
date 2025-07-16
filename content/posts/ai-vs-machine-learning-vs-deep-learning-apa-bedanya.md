@@ -4,6 +4,9 @@ date: 2024-06-14T13:08:33
 author: "Startup Campus"
 categories: ["Digital"]
 slug: "ai-vs-machine-learning-vs-deep-learning-apa-bedanya"
+featured_image: "/blog/images/ai-ml-dl-comparison.jpg"
+description: "Pahami perbedaan AI, Machine Learning, dan Deep Learning dengan penjelasan sederhana. Panduan lengkap untuk memahami teknologi masa depan dan aplikasinya."
+tags: ["artificial intelligence", "machine learning", "deep learning", "AI vs ML", "teknologi AI", "neural networks", "data science"]
 ---
 
 **Artificial intelligence (AI) **menjadi topik yang sering dibicarakan beberapa waktu belakangan ini. Banyak perusahaan dan bisnis yang berlomba-lomba untuk mengaplikasikan AI dalam operasional mereka. Penerapan AI juga sering kita temui dalam kehidupan sehari-hari. 

@@ -5,6 +5,8 @@ author: "Startup Campus"
 categories: ["Digital"]
 slug: "10-ide-proyek-data-science-untuk-pemula"
 featured_image: "/blog/images/5decac1a77d1.jpg"
+description: "Temukan 10 ide proyek data science menarik untuk pemula. Mulai karir data science dengan proyek praktis yang mudah dipahami dan relevan dengan kehidupan sehari-hari."
+tags: ["data science project", "proyek data science", "data science pemula", "machine learning", "data analysis", "python project", "portfolio data science"]
 ---
 
 Data Science menjadi banyak incaran orang untuk berkarier saat ini. Namun ketika harus membuat project, tak sedikit yang bingung harus mulai dari mana. Topik-topik data science terkesan menakutkan dan jauh dari bahasan sehari-hari. Padahal ada banyak topik yang bisa dikaitkan dengan keseharian kita, sehingga relevan jika dijadikan project.
