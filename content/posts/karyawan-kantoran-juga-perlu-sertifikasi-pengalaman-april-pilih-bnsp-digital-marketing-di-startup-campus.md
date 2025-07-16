@@ -11,8 +11,6 @@ Pernah nggak sih kamu kepikiran buat **upgrade skill**, tapi bingung mulai dari 
 
 ## **Kenalan Dulu, Yuk, Sama Kak April!**
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf72OT5uK4T9zle8ZpqWJayesKB_5qBu_kbmncnbR4xNEXT_yQY1hSAZ3l2RhjBKW1kzMKdrZUr0LhNRiRKENJpvBkgoVVAZwQS_cP2dIwHdsEubdCIc5nzQSzkRHmtsRyaw_zaOg?key=mYCRXU1M5gQDU211OnRfDQ)
-
 **Aprilliana Kristina Sihite **atau akrab disapa **Kak April**, adalah seorang *Customer Success Management (CSM) *di perusahaan multinasional. Di balik kesibukannya sebagai pekerja kantoran full-time, dia tetap punya semangat buat terus belajar dan berkembang.
 
 Nggak cuma iseng ikut-ikutan, April punya alasan kuat kenapa akhirnya memilih ikut pelatihan **Digital Marketing bersertifikasi BNSP** di Startup Campus. Menurutnya, dunia kerja berubah cepat banget. Kalau nggak terus upgrade diri, kita bisa tertinggal jauh.
