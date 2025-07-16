@@ -11,9 +11,7 @@ tags: ["data science project", "proyek data science", "data science pemula", "ma
 
 Data Science menjadi banyak incaran orang untuk berkarier saat ini. Namun ketika harus membuat project, tak sedikit yang bingung harus mulai dari mana. Topik-topik data science terkesan menakutkan dan jauh dari bahasan sehari-hari. Padahal ada banyak topik yang bisa dikaitkan dengan keseharian kita, sehingga relevan jika dijadikan project.
 
-![](https://lh7-us.googleusercontent.com/docsz/AD_4nXeXorF15-e248vcKDob2I3YkXJpo1bAotQkfo_Z-yfRVb2IAzFWinC4atJRvRuCUxMWQDZk_IgT-kiMBGRFDrJCGOl15emEqVSkJL4yTNY7WJd0_H33Yi2xX-yfGvbkt1kIxXzBoWiJQMCUbOhP35rliqOq?key=UWqflFjuqyI6g0p6xEmOrg)
-
-**Baca juga : **[**Kursus Data Science Bagi Karyawan “Non Data”**](https://startupcampus.id/blog/kursus-data-science-bagi-karyawan-non-data/)
+**Baca juga : **[**Kursus Data Science Bagi Karyawan "Non Data"**](https://startupcampus.id/blog/kursus-data-science-bagi-karyawan-non-data/)
 
 Berikut adalah **10 ide proyek data science yang cocok untuk pemula**:
 
