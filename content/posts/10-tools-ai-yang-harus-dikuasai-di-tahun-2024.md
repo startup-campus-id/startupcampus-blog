@@ -5,6 +5,8 @@ author: "Startup Campus"
 categories: ["Digital"]
 slug: "10-tools-ai-yang-harus-dikuasai-di-tahun-2024"
 featured_image: "/blog/images/ac1c78ba4fa3.png"
+description: "Panduan lengkap 10 tools AI terpenting yang wajib dikuasai di tahun 2024. Tingkatkan produktivitas dan skill dengan teknologi AI terdepan untuk karir masa depan."
+tags: ["AI tools", "artificial intelligence", "teknologi", "produktivitas", "skill digital", "machine learning"]
 ---
 
 Dunia kecerdasan buatan atau AI makin berkembang pesat. Kayaknya hampir gak ada industri yang saat ini gak menghadirkan AI di fitur produknya. Dari industri pertanian dengan fitur AI yang mampu memfilter produk berkualitas, hingga industri musik dengan fitur AI yang mampu menghadirkan playlist sesuai algoritma

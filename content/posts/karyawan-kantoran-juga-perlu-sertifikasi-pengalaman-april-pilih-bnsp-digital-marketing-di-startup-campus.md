@@ -5,6 +5,8 @@ author: "Startup Campus"
 categories: ["Alumni", "Semua", "Update"]
 slug: "karyawan-kantoran-juga-perlu-sertifikasi-pengalaman-april-pilih-bnsp-digital-marketing-di-startup-campus"
 featured_image: "/blog/images/66279e2e4bc0.jpg"
+description: "Cerita inspiratif Aprilliana Kristina Sihite, karyawan kantoran yang berhasil upgrade skill dengan sertifikasi BNSP Digital Marketing di Startup Campus sambil bekerja full-time."
+tags: ["sertifikasi BNSP", "digital marketing", "karyawan kantoran", "upgrade skill", "karir profesional", "alumni startup campus"]
 ---
 
 Pernah nggak sih kamu kepikiran buat **upgrade skill**, tapi bingung mulai dari mana? Atau mikir, *“Udah kerja juga, ngapain belajar lagi?”* Nah, cerita dari **Aprilliana Kristina Sihite** ini bisa jadi bukti kalau belajar sambil kerja itu bukan cuma mungkin, tapi juga penting apalagi di era digital sekarang. Yuk, simak cerita inspiratifnya!
