@@ -5,6 +5,8 @@ author: "Startup Campus"
 categories: ["Digital", "Semua", "Update"]
 slug: "harga-sertifikat-bnsp-juni-2025-ini-rincian-lengkapnya"
 featured_image: "/blog/images/5c70a6a6122f.jpg"
+description: "Info lengkap harga sertifikat BNSP Juni 2025 dengan rincian biaya terbaru. Panduan investasi sertifikasi kompetensi profesional yang tepat untuk karir Anda."
+tags: ["harga sertifikat BNSP", "biaya BNSP 2025", "sertifikasi kompetensi", "investasi karir", "BNSP Juni 2025", "sertifikasi profesional"]
 ---
 
 Sertifikat BNSP kini menjadi kebutuhan penting di dunia kerja 2025. Tak hanya diakui secara nasional, banyak perusahaan besar dan instansi pemerintah mewajibkan sertifikasi BNSP sebagai syarat utama untuk melamar kerja, naik jabatan, atau mengikuti proyek profesional.

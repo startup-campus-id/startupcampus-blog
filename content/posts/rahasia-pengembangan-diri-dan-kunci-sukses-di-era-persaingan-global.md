@@ -9,8 +9,6 @@ featured_image: "/blog/images/217f209c3be2.jpeg"
 
 **Yogyakarta, 10 Agustus 2024**
 
-![Rahasia Pengembangan Diri dan Kunci Sukses di Era Persaingan Global!](https://www.startupcampus.id/blog/wp-content/uploads/2024/08/WhatsApp-Image-2024-08-06-at-16.00.49-1024x682.jpeg)
-
 Di tengah persaingan global yang semakin hari semakin ketat, para pemuda dihadapkan dengan tantangan yang semakin beragam. Mulai dari persaingan ketat di dunia kerja, kurangnya *leadership skill* yang dimiliki oleh para pemuda, hingga minimnya pengalaman internasional. Tantangan – tantangan ini secara tidak langsung telah menuntut para pemuda untuk memiliki kesadaran diri untuk mengembangkan kemampuan yang mencakup *soft skill *dan *hard skill* sekaligus potensi kepemimpinan mereka. Banyak pemuda yang seringkali merasa bingung dan kurang percaya diri dalam menghadapi permasalahan ini.
 
 AIESEC, organisasi kepemudaan internasional yang berfokus pada pengembangan kemampuan kepemimpinan hadir untuk menjawab berbagai tantangan yang dihadapi oleh para pemuda. Bergabung dengan AIESEC, para pemuda akan mendapatkan kesempatan untuk mengembangkan kemampuan kepemimpinan, mereka akan belajar bagaimana memimpin tim, bekerja dalam tim, dan membuat keputusan strategis. AIESEC menawarkan berbagai kesempatan untuk mendapatkan relasi dari berbagai individu dari seluruh dunia sesama anggota AIESEC maupun non AIESEC, yang akan memberikan para pemuda wawasan global yang lebih luas dan relasi profesional yang beragam. Bergabung dengan AIESEC akan membantu para pemuda untuk meningkatkan berbagai *soft skill *dan *hard skill* yang akan mereka butuhkan pada dunia kerja maupun pada persaingan global sekalipun, menjadikan mereka lebih kompetitif dan memiliki prospek yang lebih menjanjikan. 

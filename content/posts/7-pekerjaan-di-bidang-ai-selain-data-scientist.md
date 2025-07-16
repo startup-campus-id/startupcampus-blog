@@ -5,6 +5,8 @@ author: "Startup Campus"
 categories: ["Digital"]
 slug: "7-pekerjaan-di-bidang-ai-selain-data-scientist"
 featured_image: "/blog/images/70231c7e2b1c.jpg"
+description: "Temukan 7 peluang karir menarik di bidang AI selain Data Scientist. Dari Machine Learning Engineer hingga AI Product Manager, eksplorasi karir masa depan di industri AI."
+tags: ["AI career", "artificial intelligence", "machine learning", "tech jobs", "karir AI", "teknologi", "AI engineer"]
 ---
 
 Salah satu pertanyaan yang sering muncul ketika ada berita alumni bootcamp AI yang diterima kerja untuk posisi Data Scientist atau Data Engineer. Memangnya, lapangan kerja terkait AI belum populer di Indonesia ya? Kasian dong yang ambil bootcamp Data Scientist, lapangan kerjanya terganggu. Hmm sebenarnya gimana faktanya?

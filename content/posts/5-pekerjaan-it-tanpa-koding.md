@@ -5,6 +5,8 @@ author: "Startup Campus"
 categories: ["Digital"]
 slug: "5-pekerjaan-it-tanpa-koding"
 featured_image: "/blog/images/fb663abeff48.webp"
+description: "Temukan 5 pekerjaan IT bergaji tinggi yang tidak memerlukan skill coding. Panduan karir IT untuk non-programmer dengan prospek kerja menjanjikan di era digital."
+tags: ["pekerjaan IT", "non coding", "karir teknologi", "IT jobs", "digital career", "tech industry"]
 ---
 
 Kita mungkin sudah tahu bahwa bidang pekerjaan IT memiliki prospek kerja yang tinggi dikarenakan banyak perusahaan yang mebutuhkannya. Tapi tahukah kamu bahwa bidang IT itu gak melulu tentang koding?

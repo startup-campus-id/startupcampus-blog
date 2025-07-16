@@ -5,6 +5,8 @@ author: "Startup Campus"
 categories: ["Digital", "Semua"]
 slug: "7-rekomendasi-lembaga-sertifikasi-bnsp-terbaik-di-indonesia"
 featured_image: "/blog/images/eb38a6b4a84a.jpg"
+description: "Temukan 7 lembaga sertifikasi BNSP terbaik di Indonesia untuk upgrade skill dan kredensial karir. Panduan lengkap memilih sertifikasi profesional yang tepat."
+tags: ["sertifikasi BNSP", "lembaga sertifikasi", "kredensial karir", "sertifikasi profesional", "upgrade skill", "BNSP Indonesia"]
 ---
 
 Untuk kamu yang sedang mencari [sertifikasi profesi ](https://startupcampus.id/sertifikasi)buat menguatkan kredensial karier, atau sekadar upgrade skill, banyak banget pilihan lembaga sertifikasi yang oke di Indonesia. Kali ini, kita bakal kasih **7 rekomendasi lembaga sertifikasi berlisensi BNSP** yang bisa kamu pilih. Yuk, langsung kita cek satu per satu!

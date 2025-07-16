@@ -5,6 +5,8 @@ author: "hal diah"
 categories: ["Semua"]
 slug: "cara-membuat-portofolio-di-hp-gratis"
 featured_image: "/blog/images/fdc00d6b2dba.webp"
+description: "Pelajari cara membuat portofolio profesional di HP secara gratis. Panduan lengkap dengan 5 langkah mudah untuk membuat portofolio online yang menarik dan berkualitas."
+tags: ["portofolio digital", "membuat portofolio", "portofolio gratis", "portfolio mobile", "desain portofolio", "karir kreatif"]
 ---
 
 **Cara Membuat Portofolio di HP, Gratis! - **Portofolio merupakan salah satu alat penting dalam melamar pekerjaan. Di era digital dan serba online seperti sekarang ini, membuat portofolio tidaklah sulit dan mahal. Hanya dengan menggunakan HP, kamu bisa membuat portofolio secara online dan membagikannya dimanapun yang kamu inginkan. 

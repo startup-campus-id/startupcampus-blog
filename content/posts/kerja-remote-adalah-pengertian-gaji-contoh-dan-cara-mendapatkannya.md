@@ -5,6 +5,8 @@ author: "hal diah"
 categories: ["Digital"]
 slug: "kerja-remote-adalah-pengertian-gaji-contoh-dan-cara-mendapatkannya"
 featured_image: "/blog/images/6dc14b513487.jpg"
+description: "Panduan lengkap kerja remote: pengertian, kisaran gaji, contoh pekerjaan, dan cara mendapatkan remote job. Tips sukses bekerja dari rumah dengan fleksibilitas optimal."
+tags: ["kerja remote", "remote work", "work from home", "gaji remote", "karir digital", "pekerjaan online", "freelance"]
 ---
 
 Kerja remote telah menjadi fenomena yang mengubah cara kita bekerja. Konsep kerja remote mengacu pada situasi di mana kamu dapat menjalankan tugas-tugas pekerjaanmu tanpa harus ke kantor.
