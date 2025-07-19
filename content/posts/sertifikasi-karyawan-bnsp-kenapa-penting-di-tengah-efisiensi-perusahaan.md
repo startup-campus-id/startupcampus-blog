@@ -1,6 +1,6 @@
 ---
 title: "Sertifikasi Karyawan BNSP: Kenapa Penting di Tengah Efisiensi Perusahaan?"
-date: 2025-07-19T09:00:00
+date: 2025-07-19T07:30:00+07:00
 author: "Startup Campus"
 categories: ["Digital", "Semua"]
 slug: "sertifikasi-karyawan-bnsp-kenapa-penting-di-tengah-efisiensi-perusahaan"
